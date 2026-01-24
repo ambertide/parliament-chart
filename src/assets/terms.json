@@ -1,0 +1,130 @@
+{
+    "28": [
+        {
+            "representativeCount": 272,
+            "partyColor": "#fda000",
+            "partyName": "AKP",
+            "groupName": "AKP",
+            "allianceName": "People's Alliance"
+        },
+        {
+            "representativeCount": 138,
+            "partyColor": "#ED1C24",
+            "partyName": "CHP",
+            "groupName": "CHP",
+            "allianceName": "Nation Alliance"
+        },
+        {
+            "representativeCount": 56,
+            "partyColor": "#734B9C",
+            "partyName": "DEM",
+            "groupName": "DEM",
+            "allianceName": "Life & Future"
+        },
+        {
+            "representativeCount": 3,
+            "partyColor": "#BE0A11",
+            "partyName": "TİP",
+            "groupName": "TİP",
+            "allianceName": "Life & Future"
+        },
+        {
+            "representativeCount": 2,
+            "partyColor": "#30A13E",
+            "partyName": "DBP",
+            "groupName": "DBP",
+            "allianceName": "Life & Future"
+        },
+        {
+            "representativeCount": 2,
+            "partyColor": "#FFDE4D",
+            "partyName": "EMEP",
+            "groupName": "EMEP",
+            "allianceName": "Life & Future"
+        },
+        {
+            "representativeCount": 47,
+            "partyColor": "#C83737",
+            "partyName": "MHP",
+            "groupName": "MHP",
+            "allianceName": "People's Alliance"
+        },
+        {
+            "representativeCount": 29,
+            "partyColor": "#3db5e6",
+            "partyName": "İYİ",
+            "groupName": "İYİ",
+            "allianceName": "Nation Alliance"
+        },
+        {
+            "representativeCount": 9,
+            "partyColor": "#0069A7",
+            "partyName": "DEVA",
+            "groupName": "New Path",
+            "allianceName": "Nation Alliance"
+        },
+        {
+            "representativeCount": 8,
+            "partyColor": "#FF2E84",
+            "partyName": "SAADET",
+            "groupName": "New Path",
+            "allianceName": "Nation Alliance"
+        },
+        {
+            "representativeCount": 4,
+            "partyColor": "#2DB34A",
+            "partyName": "Future",
+            "groupName": "New Path",
+            "allianceName": "Nation Alliance"
+        },
+        {
+            "representativeCount": 4,
+            "partyColor": "#474647",
+            "partyName": "YRP",
+            "groupName": "YRP",
+            "allianceName": "People's Alliance"
+        },
+        {
+            "representativeCount": 4,
+            "partyColor": "#009C43",
+            "partyName": "HÜDAPAR",
+            "groupName": "HÜDAPAR",
+            "allianceName": "People's Alliance"
+        },
+        {
+            "representativeCount": 1,
+            "partyColor": "#02CDFF",
+            "partyName": "DSP",
+            "groupName": "DSP",
+            "allianceName": "People's Alliance"
+        },
+        {
+            "representativeCount": 1,
+            "partyColor": "#FF2E84",
+            "partyName": "SAADET",
+            "groupName": "SAADET",
+            "allianceName": "Nation Alliance"
+        },
+        {
+            "representativeCount": 1,
+            "partyColor": "#D360BC",
+            "partyName": "DP",
+            "groupName": "DP",
+            "allianceName": "Nation Alliance"
+        },
+        {
+            "representativeCount": 11,
+            "partyColor": "#DCDCDC",
+            "partyName": "Ind.",
+            "groupName": "Ind.",
+            "allianceName": "Mixed"
+        },
+        {
+            "representativeCount": 8,
+            "partyColor": "#000000",
+            "partyName": "Vacant",
+            "groupName": "Vacant",
+            "allianceName": "Vacant"
+        }
+    ]
+}

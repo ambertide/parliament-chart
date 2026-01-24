@@ -1,0 +1,1 @@
+export { ParliamentChart } from "./ParliamentChart";
