@@ -52699,7 +52699,7 @@
             {
                 "partyName": "Anavatan Partisi",
                 "partyColor": "#ffd700",
-                "representativeCount": 132,
+                "representativeCount": 133,
                 "allianceName": "",
                 "groupName": "Anavatan Partisi"
             },
@@ -56080,6 +56080,14 @@
             },
             {
                 "province": "Manisa",
+                "name": "Abdullah Akarsu",
+                "partyColor": "#ffd700",
+                "party": "Anavatan Partisi",
+                "endOfTermStatus": "Anavatan Partisi",
+                "term": 20
+            },
+            {
+                "province": "Manisa",
                 "name": "Tevfik Diker",
                 "partyColor": "#ff0000",
                 "party": "Doğru Yol Partisi",
@@ -57645,10 +57653,10 @@
             },
             {
                 "provinceName": "Manisa",
-                "representativeCount": 10,
+                "representativeCount": 11,
                 "partyDistribution": {
                     "Refah Partisi": 1,
-                    "Anavatan Partisi": 2,
+                    "Anavatan Partisi": 3,
                     "Doğru Yol Partisi": 4,
                     "Demokratik Sol Parti": 2,
                     "Cumhuriyet Halk Partisi": 1
