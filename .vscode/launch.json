@@ -5,7 +5,7 @@
             "name": "Next.js: debug server-side",
             "type": "node-terminal",
             "request": "launch",
-            "command": "npm run dev -- --inspect"
+            "command": "pnpm run dev"
         },
         {
             "name": "Next.js: debug client-side",
@@ -38,12 +38,18 @@
                 "<node_internals>/**"
             ],
             "serverReadyAction": {
-                "action": "debugWithEdge",
+                "action": "debugWithChrome",
                 "killOnServerStop": true,
                 "pattern": "- Local:.+(https?://.+)",
                 "uriFormat": "%s",
                 "webRoot": "${workspaceFolder}"
             }
+        },
+        {
+            "name": "Parliament Generator: debug",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/scripts/fetch.ts"
         }
     ]
 }

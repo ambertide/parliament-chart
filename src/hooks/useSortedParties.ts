@@ -92,7 +92,7 @@ const swapIndependentsAndVacants = (parties: Party[]): Party[] => {
     ),
     independents,
     vacant
-  ] as Party[];
+  ].filter(e => e) as Party[];
 };
 
 

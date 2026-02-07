@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "fetch-parliament": "node src/scripts/fetch.ts",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
@@ -22,6 +23,8 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.4",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "jsdom": "27.4.0",
+    "@types/jsdom": "27.0.0"
   }
 }
