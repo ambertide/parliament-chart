@@ -15,7 +15,6 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
   groupBy,
   partiesOrGroups
 }) => {
-  debugger;
   return (
     <ol
       className="flex flex-wrap flex-col gap-1 md:max-h-28 sm:max-h-80"
