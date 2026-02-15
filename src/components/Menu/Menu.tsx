@@ -1,43 +1,24 @@
+import { FC } from "react";
 import { CombinedSelect } from "./CombinedSelect"
 
-export const Menu = () => (
+type MenuProps = {
+  selectedTerm: number,
+  onTermSelect: (newTerm: number) => void
+};
+
+export const Menu: FC<MenuProps> = ({ selectedTerm, onTermSelect }) => (
   <menu>
-    <CombinedSelect terms={[
-      {
-        term: 16,
-        governmentsUnderTerm: [
-          {
-            canonicalName: "Ecevit (II)",
-            hasPassedVoC: false,
-            needsToPassVoc: true,
-            vocVotes: {
-              for: 217,
-              quorum: 448
-            },
-            ministerialBreakdown: {
-              "CHP": 25
-            },
-            headOfGovernment: "Bülent Ecevit",
-            supportingParties: ["CHP"]
-          },
-          {
-            canonicalName: "Demirel (V)",
-            hasPassedVoC: true,
-            needsToPassVoc: true,
-            vocVotes: {
-              for: 217,
-              quorum: 448
-            },
-            ministerialBreakdown: {
-              "AP": 20,
-              "MSP": 8,
-              "MHP": 5
-            },
-            headOfGovernment: "Bülent Ecevit",
-            supportingParties: ["AP", "MSP", "MHP"]
-          }
-        ]
-      }
-    ]} />
+    <CombinedSelect
+      terms={[20, 21, 22, 23, 24, 25, 26, 27].map((term) => (
+        {
+          term,
+          governmentsUnderTerm: []
+        }
+      ))}
+      selectedGovernment=""
+      selectedTerm={selectedTerm}
+      onTermSelect={onTermSelect}
+      showGovernments={false}
+    />
   </menu>
 )
