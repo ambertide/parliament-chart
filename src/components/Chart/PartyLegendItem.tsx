@@ -1,3 +1,4 @@
+import { partyShortName } from "@/utils";
 import type { FC } from "react";
 
 type PartyLegendItemProps = {
@@ -22,7 +23,7 @@ export const PartyLegendItem: FC<PartyLegendItemProps> = ({
     <span
       className="inline-block leading-none"
     >
-      {partyName}
+      {partyShortName(partyName)}
     </span>
   </li>
 )

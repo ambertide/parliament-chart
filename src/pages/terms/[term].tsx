@@ -36,6 +36,7 @@ export default function Term({ parties, term }: { parties: Party[], term: `${num
         <ParliamentFigure
           groupBy="alliance"
           parties={parties}
+          numberOfRepresentatives={selectedTerm >= 27 ? 600 : 550}
         />
         <Menu
           selectedTerm={selectedTerm}

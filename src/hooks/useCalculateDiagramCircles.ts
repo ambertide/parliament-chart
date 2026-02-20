@@ -1,6 +1,9 @@
-import { Party, Representative } from "@/types"
+import { Party, Representative } from "@/types";
 import { calculateRotatedCoordinates } from "./useRotatedCoordinates";
-import { useSortedRepresentatives, type PreSortRepresentative } from './useSortedRepresentatives';
+import {
+  useSortedRepresentatives,
+  type PreSortRepresentative,
+} from "./useSortedRepresentatives";
 
 const OPTIMAL_DISTANCE = 15;
 
@@ -21,6 +24,8 @@ const getRotationSteps = (pointCount: number) => [0, pointCount / 2];
  * @param seatsPerRow Seats per each "row" of the slice.
  * @param earlyStop Should we stop early? ie: for the last slices.
  * @param earlyStopModifier Where to stop from, from right or left.
+ * @param numberOfDelegates Number of delegates seated in that
+ * term of the parliament, *INCLUDING* vacancies.
  * @returns An array of representatives.
  */
 const calculateRepsForSection = (
@@ -30,7 +35,8 @@ const calculateRepsForSection = (
   sliceAngle: number,
   seatsPerRow: Record<number, number>,
   earlyStop = false,
-  earlyStopModifier = -1
+  earlyStopModifier = -1,
+  numberOfDelegates = 600,
 ): PreSortRepresentative[] => {
   const reps: PreSortRepresentative[] = [];
   for (let row = 0; row < rowCount; row++) {
@@ -50,30 +56,33 @@ const calculateRepsForSection = (
         const currentAngle = localAngle + globalAngleModifier;
         const mpPoint = {
           x: 400,
-          y: 350 - radiusThisRow
+          y: 350 - radiusThisRow,
         };
         const rotatedMPPoint = calculateRotatedCoordinates({
           angleOfRotation: currentAngle,
           pointO: mpPoint,
           canvasPivotPointO: {
             x: 400,
-            y: 350
-          }
+            y: 350,
+          },
         });
         reps.push({
           location: rotatedMPPoint,
           angle: currentAngle,
-          distanceFromCentre: radiusThisRow
+          distanceFromCentre: radiusThisRow,
         });
       }
     }
   }
   if (earlyStop) {
     // Delete the last 4
+    // or, like, 54, westministerial era had
+    // 550 MPs, in theory we will remove more
+    // as ministers sat somewhere else.
     const originalLength = reps.length;
     for (
       let toRemove = 1 + earlyStopModifier;
-      toRemove < 8 + earlyStopModifier;
+      toRemove < 608 - numberOfDelegates + earlyStopModifier;
       toRemove += 2
     ) {
       reps.splice(originalLength - toRemove, 1);
@@ -87,24 +96,24 @@ const calculateRepsForSection = (
  */
 const calculateFrontBenches = (): PreSortRepresentative[] => {
   const frontBenchSeatsPerRow = [4, 4, 6, 6, 8, 10, 10];
-  return [-2, -1, 0, 1, 2]
-    // Convert to radian angles.
-    .map(multiplier => multiplier * Math.PI / 5)
-    // Then calculate and merge into an array.
-    .flatMap(
-      globalAngleModifier => (
+  return (
+    [-2, -1, 0, 1, 2]
+      // Convert to radian angles.
+      .map((multiplier) => (multiplier * Math.PI) / 5)
+      // Then calculate and merge into an array.
+      .flatMap((globalAngleModifier) =>
         calculateRepsForSection(
           globalAngleModifier,
           120,
           7,
           35 * (Math.PI / 180),
-          frontBenchSeatsPerRow
-        )
+          frontBenchSeatsPerRow,
+        ),
       )
-    )
+  );
 };
 
-const calculateBackBenches = () => {
+const calculateBackBenches = (numberOfRepresentatives = 600) => {
   const backBenchSeatsPerRow = [6, 6, 6, 8, 8];
   const stepAngle = Math.PI / 20;
   let reps: PreSortRepresentative[] = [];
@@ -118,7 +127,8 @@ const calculateBackBenches = () => {
         19 * (Math.PI / 180),
         backBenchSeatsPerRow,
         step == 4,
-        direction < 0 ? 1 : 0
+        direction < 0 ? 1 : 0,
+        numberOfRepresentatives,
       );
       reps = [...reps, ...repsThisLoop];
     }
@@ -138,20 +148,20 @@ const calculateFrontRectangularBenches = () => {
         const distanceV = row * OPTIMAL_DISTANCE + OPTIMAL_DISTANCE / 4;
         const location = {
           x: 400 + direction * distanceH,
-          y: 350 + distanceV
+          y: 350 + distanceV,
         };
         if (direction > 0) {
           reps.push({
             location,
             angle: Math.PI / 2 + 0.1 * (row + 1),
-            distanceFromCentre: distanceH
+            distanceFromCentre: distanceH,
           });
         } else {
           // For left
           reps.push({
             location,
             angle: -Math.PI / 2 - 0.1 * (row + 1),
-            distanceFromCentre: distanceH
+            distanceFromCentre: distanceH,
           });
         }
       }
@@ -160,41 +170,38 @@ const calculateFrontRectangularBenches = () => {
   return reps;
 };
 
-const calculateBenches = () => (
+const calculateBenches = (numberOfRepresentatives = 600) =>
   [
     calculateBackBenches,
     calculateFrontBenches,
-    calculateFrontRectangularBenches
-  ].flatMap(
-    calculationFunction => calculationFunction()
-  )
-)
+    calculateFrontRectangularBenches,
+  ].flatMap((calculationFunction) =>
+    calculationFunction(numberOfRepresentatives),
+  );
 
-
-type UseCalculateDiagramCircles = ((p: {
-  parties: Party[],
-  groupBy: 'deputies' | 'groups' | 'alliance'
+type UseCalculateDiagramCircles = (p: {
+  parties: Party[];
+  groupBy: "deputies" | "groups" | "alliance";
+  numberOfRepresentatives: number;
 }) => {
-  representatives: Representative[],
-  sortedParties: Party[] | [string, Party[]][]
-})
+  representatives: Representative[];
+  sortedParties: Party[] | [string, Party[]][];
+};
 
 export const useCalculateDiagramCircles: UseCalculateDiagramCircles = ({
   parties,
-  groupBy
+  groupBy,
+  numberOfRepresentatives,
 }) => {
-  const preSortRepresentatives = calculateBenches();
-  const {
-    representatives,
-    repsByParty,
-    sortedParties
-  } = useSortedRepresentatives({
-    parties,
-    groupBy,
-    representatives: preSortRepresentatives
-  });
+  const preSortRepresentatives = calculateBenches(numberOfRepresentatives);
+  const { representatives, repsByParty, sortedParties } =
+    useSortedRepresentatives({
+      parties,
+      groupBy,
+      representatives: preSortRepresentatives,
+    });
   return {
     representatives,
-    sortedParties
-  }
-}
+    sortedParties,
+  };
+};

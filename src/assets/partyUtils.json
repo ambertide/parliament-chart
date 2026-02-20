@@ -1,0 +1,56 @@
+{
+    "parties": [
+        {
+            "canonicalLongName": "Adalet ve Kalkınma Partisi",
+            "canonicalShortName": "AKP"
+        },
+        {
+            "canonicalLongName": "Cumhuriyet Halk Partisi",
+            "canonicalShortName": "CHP"
+        },
+        {
+            "canonicalLongName": "Milliyetçi Hareket Partisi",
+            "canonicalShortName": "MHP"
+        },
+        {
+            "canonicalLongName": "Halkların Demokratik Partisi",
+            "canonicalShortName": "HDP"
+        },
+        {
+            "canonicalLongName": "Türkiye İşçi Partisi",
+            "canonicalShortName": "TİP"
+        },
+        {
+            "canonicalLongName": "İYİ Parti",
+            "canonicalShortName": "İYİ"
+        },
+        {
+            "canonicalLongName": "Demokrat Parti",
+            "canonicalShortName": "DP"
+        },
+        {
+            "canonicalLongName": "Halkların Eşitlik ve Demokrasi Partisi",
+            "canonicalShortName": "DEM"
+        },
+        {
+            "canonicalLongName": "Yeniden Refah Partisi",
+            "canonicalShortName": "YRP"
+        },
+        {
+            "canonicalLongName": "Demokratik Sol Parti",
+            "canonicalShortName": "DSP"
+        },
+        {
+            "canonicalLongName": "Fazilet Partisi",
+            "canonicalShortName": "FP"
+        },
+        {
+            "canonicalLongName": "Doğru Yol Partisi",
+            "canonicalShortName": "DYP"
+        },
+        {
+            "canonicalLongName": "Anavatan Partisi",
+            "canonicalShortName": "ANAP"
+        }
+    ]
+}

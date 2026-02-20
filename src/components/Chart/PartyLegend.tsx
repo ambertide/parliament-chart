@@ -27,12 +27,15 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
               {...party}
             />)
           : partiesOrGroups.map(
-            ([groupName, parties]) => <PartyGroupLegendItem
-              key={groupName}
-              groupName={groupName}
-              groupColor={parties[0].partyColor}
-              partiesInGroup={parties}
-            />)
+            ([groupName, parties]) => groupName === ''
+              ?
+              parties.map(p => <PartyLegendItem key={p.partyName} {...p}/>) :
+              <PartyGroupLegendItem
+                key={groupName}
+                groupName={groupName}
+                groupColor={parties[0].partyColor}
+                partiesInGroup={parties}
+              />)
       }
     </ol>)    
 }

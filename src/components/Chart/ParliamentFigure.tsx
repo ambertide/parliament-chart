@@ -6,23 +6,26 @@ import { FC } from "react";
 
 type ParliamentFigureProps = {
   parties: Party[],
-  groupBy: 'deputies' | 'alliance' | 'groups'
+  groupBy: 'deputies' | 'alliance' | 'groups',
+  numberOfRepresentatives: number
 };
 
 export const ParliamentFigure: FC<ParliamentFigureProps> = ({
   parties,
-  groupBy
+  groupBy,
+  numberOfRepresentatives
 }) => {
   const {
     representatives,
     sortedParties
   } = useCalculateDiagramCircles({
     parties,
-    groupBy
+    groupBy,
+    numberOfRepresentatives
   });
 
   const partiesOrGroups = useSortedParties({ parties, groupBy, flatten: false as true}); // <-- Makes sense in the context. 
-  
+ 
   return <figure
     className="max-w-200 max-h-100 w-full"
   >

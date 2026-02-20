@@ -1,0 +1,1 @@
+export { partyShortName } from "./partyShortName";
