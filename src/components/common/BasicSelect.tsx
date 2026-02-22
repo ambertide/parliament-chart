@@ -1,4 +1,4 @@
-import { FC } from "react"
+import { FC, JSX } from "react"
 
 export type Option = {
   value: string | number,
@@ -10,19 +10,21 @@ type BasicSelectProps = {
   options: Option[],
   selectedValue: string | number,
   id: string,
-  onChange: (newValue: string | number) => void
+  onChange: (newValue: string | number) => void,
+  className?: JSX.IntrinsicElements['select']['className']
 }
 
 export const BasicSelect: FC<BasicSelectProps> = ({
   options,
   selectedValue,
   id,
+  className = '',
   onChange
 }) => (
   <select
     id={id}
     value={selectedValue}
-    className="unset text-emphasis italic appearance-none"
+    className={"field-sizing-content text-emphasis italic appearance-none" + ` ${className}`}
     onChange={(e) => onChange(e.target.value)}
   >
     {options.map(({ value, displayValue }) => (

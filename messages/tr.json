@@ -1,0 +1,21 @@
+{
+    "Term": {
+        "electoralAlliance": "Seçim İttifakına",
+        "numberOfRepresentatives": "Milletvekili Sayılarına",
+        "parliamentaryGroups": "Meclis Grubuna"
+    },
+    "Menu": {
+        "termSelect": "<selectLabel>Türkiye Büyük Millet Meclisi'nin</selectLabel> <termSelect></termSelect> Dönem Milletvekilleri",
+        "orderBySelect": "Parlemento <orderBySelect></orderBySelect> <selectLabel>göre gruplanmış ve sıralanmış şekilde</selectLabel>"
+    },
+    "Parties": {
+        "Cumhur İttifakı": "Cumhur İttifakı",
+        "Millet İttifakı": "Millet İttifakı",
+        "Emek ve Özgürlük İttifakı": "Emek ve Özgürlük İttifakı",
+        "SeatCount": "{seats} MV",
+        "MemberOf": "{allianceName} Üyesi"
+    },
+    "Utils": {
+        "SwitchLanguage": "Dil Değiştir"
+    }
+}

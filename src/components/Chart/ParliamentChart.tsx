@@ -1,5 +1,4 @@
-import { useCalculateDiagramCircles } from "@/hooks";
-import { Party, Representative } from "@/types"
+import { Representative } from "@/types"
 import { FC } from "react";
 import { RepresentativeCircle } from "./RepresentativeCircle";
 

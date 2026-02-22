@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { useLocale } from "next-intl";
 import { IBM_Plex_Sans, Newsreader } from "next/font/google";
 import Head from "next/head";
 
@@ -22,10 +23,11 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const locale = useLocale();
   return (
-    <html lang="en">
+    <html lang={locale}>
       <Head>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=account_balance,arrow_drop_down_circle,gavel,how_to_vote,info,sort" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=account_balance,arrow_drop_down_circle,gavel,how_to_vote,info,sort,translate" />
       </Head>
       <body
         className={`${ibmPlexSans.variable} ${newsreader.variable} antialiased`}

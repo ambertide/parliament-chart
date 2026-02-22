@@ -16,10 +16,11 @@
   --background: #1c2321;
   --background-secondary: #121715;
   --foreground: #e5e7e6;
-  --foreground-secondary: #121715;
+  --foreground-secondary: #dfe2e0;
   --emphasis: #f26a8d;
   --emphasis-secondary: #f58ea8;
 }
+
 /*}*/
 
 @theme inline {

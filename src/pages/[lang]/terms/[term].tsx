@@ -3,31 +3,35 @@ import { ParliamentFigure } from "@/components";
 import { Menu } from "@/components/Menu/Menu";
 import { Party } from "@/types";
 import { GetStaticPaths, GetStaticProps } from "next";
+import { useTranslations } from "next-intl";
 import { useRouter } from "next/router";
 import { useMemo, useState } from "react";
 
 const validTerms = Object.keys(terms).filter(key => Number.parseInt(key) >= 20);
 
-
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = validTerms.map(term => ({
+  const languages = ['en', 'tr']
+  const paths = validTerms.flatMap(term => languages.map(lang => ({
     params: {
+      lang,
       term,
     },
-  }));
-  console.log(paths);
+  })));
   return {
     paths,
     fallback: "blocking"
   }
 }
 
-export const getStaticProps: GetStaticProps<{parties: Party[], term: string | string[] | undefined}> = async ({ params: { term } = {term: '28'}}) => {
+export const getStaticProps: GetStaticProps<{parties: Party[], term: string | string[] | undefined, lang: string | string[] | undefined}> = async ({ params: { term, lang } = {term: '28', lang: 'en'}}) => {
   const { parties } = terms[term as keyof typeof terms]
-  return { props: { parties, term }};
+  const messages = (await import(`../../../../messages/${lang}.json`)).default
+  console.log(messages);
+  return { props: { parties, term, lang, messages }};
 }
 
-export default function Term({ parties, term }: { parties: Party[], term: `${number}` }) {
+export default function Term({ parties, term, lang }: { parties: Party[], term: `${number}`, lang: string }) {
+  const t = useTranslations('Term');
   const selectedTerm = useMemo(() => Number.parseInt(term), [term]);
   const [groupBy, setGroupBy] = useState<'alliance' | 'groups' | 'deputies'>('alliance');
   const { push } = useRouter();
@@ -41,12 +45,13 @@ export default function Term({ parties, term }: { parties: Party[], term: `${num
         />
         <Menu
           selectedTerm={selectedTerm}
-          onTermSelect={term => push(`/terms/${term}`)}
+          onTermSelect={term => push(`/${lang}/terms/${term}`)}
           onDisplayOptionChange={e => setGroupBy(e as 'alliance' | 'groups' | 'deputies')}
+          selectedDisplayOption={groupBy}
           displayOptions={[
-            { value: 'alliance', displayValue: 'electoral alliance'},
-            { value: 'deputies', displayValue: 'number of representatives'},
-            { value: 'groups', displayValue: 'parliamentary groups' }
+            { value: 'alliance', displayValue: t('electoralAlliance')},
+            { value: 'deputies', displayValue: t('numberOfRepresentatives')},
+            { value: 'groups', displayValue: t('parliamentaryGroups') }
           ]}
         />
       </main>

@@ -1,0 +1,34 @@
+{
+    "Term": {
+        "electoralAlliance": "Electoral Alliance",
+        "numberOfRepresentatives": "Number of Representatives",
+        "parliamentaryGroups": "Parliamentary Groups"
+    },
+    "Menu": {
+        "termSelect": "<termSelect></termSelect> <selectLabel>term of the Grand National Assembly of Turkey</selectLabel>",
+        "orderBySelect": "<selectLabel>Ordered and grouped by each party's</selectLabel> <orderBySelect></orderBySelect>"
+    },
+    "Parties": {
+        "Cumhur İttifakı": "People's Alliance",
+        "Millet İttifakı": "Nation's Alliance",
+        "Emek ve Özgürlük İttifakı": "Labour & Freedom Alliance",
+        "SeatCount": "{seats} representatives",
+        "MemberOf": "Member of the {allianceName}",
+        "Adalet ve Kalkınma Partisi": "Justice & Development Party",
+        "Cumhuriyet Halk Partisi": "People's Republican Party",
+        "Milliyetçi Hareket Partisi": "National Movement Party",
+        "İYİ Parti": "Good Party",
+        "Halkların Eşitlik ve Demokrasi Partisi": "Peoples' Equality and Democracy Party",
+        "Türkiye İşçi Partisi": "Worker's Party of Turkey",
+        "Yeniden Refah Partisi": "New Welfare Party",
+        "Halkların Demokratik Partisi": "Peoples' Democratic Party",
+        "Demokratik Sol Parti": "Democratic Left Party",
+        "Fazilet Partisi": "Virtue Party",
+        "Anavatan Partisi": "Homeland Party",
+        "Doğru Yol Partisi": "True Path Party",
+        "Refah Partisi": "Welfare Party"
+    },
+    "Utils": {
+        "SwitchLanguage": "Switch Language"
+    }
+}

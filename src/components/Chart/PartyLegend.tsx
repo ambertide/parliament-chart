@@ -24,6 +24,7 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
           ? partiesOrGroups.map(
             party => <PartyLegendItem
               key={party.partyName}
+              partyProps={party}
               {...party}
             />)
           : partiesOrGroups.map(

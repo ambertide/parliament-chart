@@ -9,7 +9,10 @@ type MenuItemProps = ({
 
 export const MenuItem: FC<MenuItemProps> = ({ icon, children }) => (
   <li
-    className={`[&::before]:font-[Material_Symbols_Outlined] [&::before]:mr-1 [&::before]:content-['${icon}']`}
+    data-before={`${icon}`}
+    className={`
+      before:h-full before:align-bottom before:inline-block before:font-[Material_Symbols_Outlined] before:mr-1 before:content-[attr(data-before)]
+    `}
   >
     {children}
   </li>
