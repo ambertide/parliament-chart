@@ -1,6 +1,8 @@
 import { JSDOM } from "jsdom";
 import { writeFile } from "node:fs/promises";
-import { governmentMap } from "./resolveGovernments";
+import { governmentMap, termData } from "./resolveGovernments.ts";
+import { ParleventEngine } from "./parlevent.ts";
+
 type RepresentativeRecord = {
   partyColor: string;
   party: string;
@@ -40,7 +42,7 @@ type GovernmentRecord = {
   ministerialBreakdown: "presidential" | Record<string, number>;
 };
 
-const getParliamentTable = async (term: number) => {
+const getParliamentTable = async (term: number, engine: ParleventEngine) => {
   const data = await fetch(
     `https://tr.wikipedia.org/wiki/TBMM_${term}._d%C3%B6nem_milletvekilleri_listesi`,
   );
@@ -59,6 +61,7 @@ const getParliamentTable = async (term: number) => {
   return {
     term,
     mpTable: mpRows as HTMLTableRowElement[],
+    engine
   };
 };
 
@@ -82,12 +85,14 @@ const parsePartyColor = (node: HTMLTableCellElement): string => {
  * @returns The structured MPs array.
  */
 const parseMPTable = ({
+  engine,
   term,
   mpTable,
 }: {
+  engine: ParleventEngine,
   term: number;
   mpTable: HTMLTableRowElement[];
-}): { term: number; MPs: RepresentativeRecord[] } => {
+}): { engine: ParleventEngine, term: number; MPs: RepresentativeRecord[] } => {
   // What data to skip looking, this is decremented.
   // Columns are ordered.
   const dontLookFor = {
@@ -175,10 +180,31 @@ const parseMPTable = ({
       if (!representativeRecord.endOfTermStatus) {
         representativeRecord.endOfTermStatus = representativeRecord.party;
       }
+      console.log(term, termData[term]);
+      engine.emit({
+        action: 'OFFICE_ASSUMED',
+        target: 'Parliament',
+        actor: representativeRecord.name,
+        metadata: {
+          electoralDistrict: representativeRecord.province,
+          party: representativeRecord.party
+        },
+        date: new Date(termData[term].start)
+      });
+      engine.emit({
+        action: 'OFFICE_VACATED',
+        target: 'Parliament',
+        actor: representativeRecord.name,
+        metadata: {
+          reason: "TERM_END"
+        },
+        date: new Date(termData[term].end)
+      });
       return representativeRecord;
     });
 
   return {
+    engine,
     term,
     MPs: records,
   };
@@ -312,13 +338,14 @@ const getAllGovernmentRecords = async (
 };
 
 const getParliamentRecords = async () => {
+  const engine = new ParleventEngine();
   const results = await Promise.all(
-    Array(21)
+    Array(9)
       .keys()
       .toArray()
-      .map((offset) => offset + 8)
+      .map((offset) => offset + 20)
       .map((term) =>
-        getParliamentTable(term)
+        getParliamentTable(term, engine)
           .then(parseMPTable)
           .then(generatePartyLookupTable)
           .then(generateProvinceLookupTable)
@@ -332,6 +359,10 @@ const getParliamentRecords = async () => {
     "src/assets/terms.json",
     JSON.stringify(shapedData, undefined, 4),
   );
+  await writeFile(
+    "src/assets/events.json",
+    JSON.stringify(engine.dump(), undefined, 4)
+  )
 };
 
 getParliamentRecords();

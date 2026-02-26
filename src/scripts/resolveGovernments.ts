@@ -9,3 +9,26 @@ export const governmentMap = {
   27: [66],
   28: [67],
 };
+
+export const termData = Object.fromEntries([
+  [20, "1996-01-08", "1999-03-25"],
+  [21, "1999-05-02", "2002-10-01"],
+  [22, "2002-11-14", "2007-06-03"],
+  [23, "2007-07-23", "2011-04-23"],
+  [24, "2011-06-28", "2015-04-23"],
+  [25, "2015-06-23", "2015-10-01"],
+  [26, "2015-10-17", "2018-05-16"],
+  [27, "2018-07-07", "2023-05-14"],
+  // last date given as latest possible date for elections of 2028
+  [28, "2023-06-02", "2028-05-14"],
+].map(
+  ([term, start, end]) => ([
+    term,
+    {
+      start: new Date(start),
+      end: new Date(end),
+      representativeCount: (term as number) < 27 ? 550 : 600,
+      governmentType: (term as number) < 27 ? 'Parliamentary' : 'Presidential'
+    }
+  ]))
+);
