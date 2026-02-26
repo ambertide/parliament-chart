@@ -24,6 +24,22 @@ type ProvinceRecord = {
   partyDistribution: Record<string, number>;
 };
 
+type GovernmentRecord = {
+  headOfGovernment: string;
+  canonicalName: string;
+  /**
+   * On westministerial cabinets, MPs could serve as ministers
+   * simultaniously (and even had the right to cast votes for
+   * another MPs in their absence, although it is not clear
+   * if the same applies for non-mp ministers, see 109th and 96th
+   * articles of the 1982 constiution), whereas on post-2018
+   * presidential cabinets, every minister must be non-MPs,
+   * and must resign from their seat prior to taking office (see 106th
+   * article of the 1982 constitution with 2017 changes.)
+   */
+  ministerialBreakdown: "presidential" | Record<string, number>;
+};
+
 const getParliamentTable = async (term: number) => {
   const data = await fetch(
     `https://tr.wikipedia.org/wiki/TBMM_${term}._d%C3%B6nem_milletvekilleri_listesi`,
@@ -279,6 +295,21 @@ const addAlliances = ({
   })),
   ...args,
 });
+
+const getGovernmentRecords = async (governmentOrdinal: number) => {};
+
+const getAllGovernmentRecords = async (
+  terms: ({
+    term: number;
+    MPs: RepresentativeRecord[];
+  } & {
+    parties: PartyRecord[];
+  })[],
+) => {
+  Object.entries(governmentMap).flatMap(([term, governmentsUnderTheTerm]) => {
+    governmentsUnderTheTerm.map((governmentOrdinal) => getGovernmentRecords);
+  });
+};
 
 const getParliamentRecords = async () => {
   const results = await Promise.all(
