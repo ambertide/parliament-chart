@@ -1,30 +1,13 @@
 import { JSDOM } from "jsdom";
 import { writeFile } from "node:fs/promises";
-import { governmentMap, termData } from "./resolveGovernments.ts";
+import { governmentMap, termData, milestones } from "./resolveGovernments.ts";
 import { ParleventEngine } from "./parlevent.ts";
 
-type RepresentativeRecord = {
-  partyColor: string;
-  party: string;
-  name: string;
-  province: string;
-  endOfTermStatus: string;
-  term: number;
-};
-
-type PartyRecord = {
-  representativeCount: number;
-  partyColor: string;
-  partyName: string;
-  groupName: string;
-  allianceName: string;
-};
-
-type ProvinceRecord = {
-  provinceName: string;
-  representativeCount: number;
-  partyDistribution: Record<string, number>;
-};
+import type {
+  RepresentativeRecord,
+  PartyRecord,
+  ProvinceRecord,
+} from "./parlevent";
 
 type GovernmentRecord = {
   headOfGovernment: string;
@@ -61,7 +44,7 @@ const getParliamentTable = async (term: number, engine: ParleventEngine) => {
   return {
     term,
     mpTable: mpRows as HTMLTableRowElement[],
-    engine
+    engine,
   };
 };
 
@@ -89,10 +72,10 @@ const parseMPTable = ({
   term,
   mpTable,
 }: {
-  engine: ParleventEngine,
+  engine: ParleventEngine;
   term: number;
   mpTable: HTMLTableRowElement[];
-}): { engine: ParleventEngine, term: number; MPs: RepresentativeRecord[] } => {
+}): { engine: ParleventEngine; term: number; MPs: RepresentativeRecord[] } => {
   // What data to skip looking, this is decremented.
   // Columns are ordered.
   const dontLookFor = {
@@ -182,23 +165,23 @@ const parseMPTable = ({
       }
       console.log(term, termData[term]);
       engine.emit({
-        action: 'OFFICE_ASSUMED',
-        target: 'Parliament',
+        action: "OFFICE_ASSUMED",
+        target: "Parliament",
         actor: representativeRecord.name,
         metadata: {
           electoralDistrict: representativeRecord.province,
-          party: representativeRecord.party
+          party: representativeRecord.party,
         },
-        date: new Date(termData[term].start)
+        date: new Date(termData[term].start),
       });
       engine.emit({
-        action: 'OFFICE_VACATED',
-        target: 'Parliament',
+        action: "OFFICE_VACATED",
+        target: "Parliament",
         actor: representativeRecord.name,
         metadata: {
-          reason: "TERM_END"
+          reason: "TERM_END",
         },
-        date: new Date(termData[term].end)
+        date: new Date(termData[term].end),
       });
       return representativeRecord;
     });
@@ -349,11 +332,12 @@ const getParliamentRecords = async () => {
           .then(parseMPTable)
           .then(generatePartyLookupTable)
           .then(generateProvinceLookupTable)
-          .then(addAlliances),
+          .then(addAlliances)
+          .then(({ engine: _, ...args }) => args),
       ),
   );
   const shapedData = Object.fromEntries(
-    results.map((data, index) => [`${index + 8}`, data]),
+    results.map((data, index) => [`${index + 20}`, data]),
   );
   await writeFile(
     "src/assets/terms.json",
@@ -361,8 +345,35 @@ const getParliamentRecords = async () => {
   );
   await writeFile(
     "src/assets/events.json",
-    JSON.stringify(engine.dump(), undefined, 4)
-  )
+    JSON.stringify(engine.dump(), undefined, 4),
+  );
+
+  await writeFile(
+    "src/assets/milestones.json",
+    JSON.stringify(
+      Object.entries(milestones).reduce(
+        (prev, [term, mileStonesInTerm]) => ({
+          ...prev,
+          [term]: mileStonesInTerm.reduce(
+            (p, milestone) => ({
+              ...p,
+              [milestone.name]: {
+                snapshot: engine.source(
+                  milestone.date,
+                  shapedData[term].parties,
+                ),
+                date: milestone.date.toDateString(),
+              },
+            }),
+            {},
+          ),
+        }),
+        {},
+      ),
+      undefined,
+      4,
+    ),
+  );
 };
 
 getParliamentRecords();
