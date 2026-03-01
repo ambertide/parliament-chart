@@ -1,5 +1,5 @@
 import { JSDOM } from "jsdom";
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 import { governmentMap, termData, milestones } from "./resolveGovernments.ts";
 import { ParleventEngine } from "./parlevent.ts";
 
@@ -7,6 +7,7 @@ import type {
   RepresentativeRecord,
   PartyRecord,
   ProvinceRecord,
+  PartySummaryRecord,
 } from "./parlevent";
 
 type GovernmentRecord = {
@@ -193,26 +194,6 @@ const parseMPTable = ({
   };
 };
 
-const generatePartyLookupTable = ({
-  MPs,
-  ...args
-}: ReturnType<typeof parseMPTable>): ReturnType<typeof parseMPTable> & {
-  parties: PartyRecord[];
-} => ({
-  ...args,
-  MPs,
-  parties: Object.entries(Object.groupBy(MPs, ({ party }) => party)).map(
-    ([partyName, reps]) =>
-      ({
-        partyName,
-        partyColor: reps?.[0].partyColor ?? "#000000",
-        representativeCount: reps?.length ?? 0,
-        allianceName: "",
-        groupName: "",
-      }) satisfies PartyRecord,
-  ),
-});
-
 const generateProvinceLookupTable = ({
   MPs,
   ...args
@@ -330,7 +311,6 @@ const getParliamentRecords = async () => {
       .map((term) =>
         getParliamentTable(term, engine)
           .then(parseMPTable)
-          .then(generatePartyLookupTable)
           .then(generateProvinceLookupTable)
           .then(addAlliances)
           .then(({ engine: _, ...args }) => args),
@@ -339,10 +319,11 @@ const getParliamentRecords = async () => {
   const shapedData = Object.fromEntries(
     results.map((data, index) => [`${index + 20}`, data]),
   );
-  await writeFile(
-    "src/assets/terms.json",
-    JSON.stringify(shapedData, undefined, 4),
+
+  const partySummaryData = JSON.parse(
+    await readFile("src/assets/partyUtils.json", "utf-8"),
   );
+
   await writeFile(
     "src/assets/events.json",
     JSON.stringify(engine.dump(), undefined, 4),
@@ -360,7 +341,7 @@ const getParliamentRecords = async () => {
               [milestone.name]: {
                 snapshot: engine.source(
                   milestone.date,
-                  shapedData[term].parties,
+                  partySummaryData as PartySummaryRecord[],
                 ),
                 date: milestone.date.toDateString(),
               },

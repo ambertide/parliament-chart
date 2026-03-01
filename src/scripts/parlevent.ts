@@ -17,6 +17,12 @@ export type PartyRecord = {
   allianceName: string;
 };
 
+export type PartySummaryRecord = {
+  canonicalShortName: string;
+  canonicalLongName: string;
+  color: string;
+};
+
 export type ProvinceRecord = {
   provinceName: string;
   representativeCount: number;
@@ -25,6 +31,7 @@ export type ProvinceRecord = {
 
 type ParleventCommon = {
   date: Date;
+  source?: string;
 };
 
 type ParleventTermStart = {
@@ -63,11 +70,43 @@ type ParleventOfficeVacated = {
   };
 } & ParleventCommon;
 
+type ParleventAllianceFounded = {
+  action: "ALLIANCE_ESTABLISHED";
+  actor: string;
+  target: "Parliament";
+  metadata: Record<string, never>;
+} & ParleventCommon;
+
+type ParleventAllianceDisbanded = {
+  action: "ALLIANCE_DISBANDED";
+  actor: string;
+  target: "Parliament";
+  metadata: Record<string, never>;
+} & ParleventCommon;
+
+type ParleventPartyJoinedAlliance = {
+  action: "PARTY_JOINED_ALLIANCE";
+  actor: string;
+  target: string;
+  metadata: Record<string, never>;
+} & ParleventCommon;
+
+type ParleventPartyLeftAlliance = {
+  action: "PARTY_LEFT_ALLIANCE";
+  actor: string;
+  target: string;
+  metadata: Record<string, never>;
+} & ParleventCommon;
+
 type Parlevent =
   | ParleventOfficeAssumed
   | ParleventTermStart
   | ParleventOfficeVacated
-  | ParleventTermEnded;
+  | ParleventTermEnded
+  | ParleventAllianceFounded
+  | ParleventAllianceDisbanded
+  | ParleventPartyJoinedAlliance
+  | ParleventPartyLeftAlliance;
 
 export class ParleventEngine {
   parlevents: Parlevent[];
@@ -103,44 +142,106 @@ export class ParleventEngine {
     this.parlevents.push(event);
   };
 
+  resolvePartySnapshotFromRepsSnapshot = (
+    reps: Set<RepresentativeRecord>,
+    partySummaries: PartySummaryRecord[],
+    allianceSnapshot: Map<string, Set<string>>,
+  ) => [
+    partySummaries.map(
+      ({ canonicalLongName, color }) =>
+        ({
+          representativeCount: reps
+            .values()
+            .filter(({ party }) => party === canonicalLongName)
+            .toArray().length,
+          partyColor: color,
+          partyName: canonicalLongName,
+          groupName: "",
+          allianceName:
+            allianceSnapshot
+              .entries()
+              .find(([_, Ps]) => Ps.has(canonicalLongName))?.[0] ?? "",
+        }) satisfies PartyRecord,
+    ),
+  ];
+
   /**
    * Get the parliamentary snapshot
    * at the date.
    *
    * @param at Date at which to get the events of.
    */
-  source = (at: Date, p: PartyRecord[]) => {
+  source = (at: Date, p: PartySummaryRecord[]) => {
     this.parlevents.sort(
       ({ date: dateA }, { date: dateB }) => dateA.getTime() - dateB.getTime(),
     );
     this.state = "SORTED";
     const events = this.parlevents.filter(({ date }) => date <= at);
-    const lastParliamentaryTermStart = events.findLastIndex(
-      ({ date, action }) => action === "TERM_STARTED" && date <= at,
+
+    const source = events.reduce(
+      (accum, event) => {
+        switch (event.action) {
+          case "OFFICE_ASSUMED":
+            accum.representatives.add({
+              name: event.actor,
+              party: event.metadata.party,
+              endOfTermStatus: "",
+              partyColor:
+                p.find(
+                  ({ canonicalLongName }) =>
+                    canonicalLongName == event.metadata.party,
+                )?.color ?? "#000000",
+              term: Number.parseInt(accum.currentTerm),
+              province: event.metadata.electoralDistrict,
+            });
+            break;
+          case "TERM_STARTED":
+            accum.currentTerm = event.actor;
+            break;
+          case "ALLIANCE_DISBANDED":
+            accum.alliances.delete(event.actor);
+            break;
+          case "ALLIANCE_ESTABLISHED":
+            accum.alliances.set(event.actor, new Set<string>());
+            break;
+          case "OFFICE_VACATED":
+            // dangerous assumption that no names repeat within
+            // a single term.
+            const toDelete = accum.representatives
+              .values()
+              .find(({ name }) => name === event.actor);
+            if (toDelete) {
+              accum.representatives.delete(toDelete);
+            }
+            break;
+          case "TERM_ENDED":
+            accum.representatives.clear();
+            break;
+          case "PARTY_JOINED_ALLIANCE":
+            accum.alliances.get(event.target)?.add(event.actor);
+            break;
+          case "PARTY_LEFT_ALLIANCE":
+            accum.alliances.get(event.target)?.delete(event.actor);
+            break;
+          default:
+            break;
+        }
+        return accum;
+      },
+      {
+        currentTerm: "20",
+        representatives: new Set<RepresentativeRecord>(),
+        alliances: new Map<string, Set<string>>(),
+      },
     );
-    const lastParliamentStart = events[lastParliamentaryTermStart];
-    events.slice(lastParliamentaryTermStart);
-    // Now we only have events of the last parliamentary term within that date.
-    const source = events.reduce((accum, event) => {
-      switch (event.action) {
-        case "OFFICE_ASSUMED":
-          accum.add({
-            name: event.actor,
-            party: event.metadata.party,
-            endOfTermStatus: "",
-            partyColor:
-              p.find(({ partyName }) => partyName == event.metadata.party)
-                ?.partyColor ?? "#000000",
-            term: Number.parseInt(lastParliamentStart.actor),
-            province: event.metadata.electoralDistrict,
-          });
-          break;
-        default:
-          break;
-      }
-      return accum;
-    }, new Set<RepresentativeRecord>());
-    return [...source];
+    return {
+      representatives: [...source.representatives],
+      parties: this.resolvePartySnapshotFromRepsSnapshot(
+        source.representatives,
+        p,
+        source.alliances,
+      ),
+    };
   };
 
   dump = () => {
