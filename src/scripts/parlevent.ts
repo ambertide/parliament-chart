@@ -146,24 +146,29 @@ export class ParleventEngine {
     reps: Set<RepresentativeRecord>,
     partySummaries: PartySummaryRecord[],
     allianceSnapshot: Map<string, Set<string>>,
-  ) => [
-    partySummaries.map(
-      ({ canonicalLongName, color }) =>
-        ({
-          representativeCount: reps
-            .values()
-            .filter(({ party }) => party === canonicalLongName)
-            .toArray().length,
-          partyColor: color,
-          partyName: canonicalLongName,
-          groupName: "",
-          allianceName:
-            allianceSnapshot
-              .entries()
-              .find(([_, Ps]) => Ps.has(canonicalLongName))?.[0] ?? "",
-        }) satisfies PartyRecord,
-    ),
-  ];
+  ) =>
+    // This has *HORRIBLE* complexity
+    // I suspect V8 wouldn't even touch this with a ten foot
+    // pole so it likely remains horrible in runtime too
+    // BUT IT IS WHAT IT IS.
+    partySummaries
+      .map(
+        ({ canonicalLongName, color }) =>
+          ({
+            partyName: canonicalLongName,
+            partyColor: color,
+            groupName: "",
+            allianceName:
+              allianceSnapshot
+                .entries()
+                .find(([_, Ps]) => Ps.has(canonicalLongName))?.[0] ?? "",
+            representativeCount: reps
+              .values()
+              .filter(({ party }) => party === canonicalLongName)
+              .toArray().length,
+          }) satisfies PartyRecord,
+      )
+      .filter(({ representativeCount }) => !!representativeCount);
 
   /**
    * Get the parliamentary snapshot

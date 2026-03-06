@@ -269,58 +269,17 @@ const resolveAlliances = (term: number, party: string) =>
     )[`${term}`],
   )?.find(([key, values]) => values.includes(party))?.[0] ?? "";
 
-const addAlliances = ({
-  term,
-  parties,
-  ...args
-}: ReturnType<typeof generateProvinceLookupTable>): ReturnType<
-  typeof generatePartyLookupTable
-> => ({
-  term,
-  parties: parties.map(({ partyName, ...args }) => ({
-    partyName,
-    ...args,
-    groupName: partyName,
-    allianceName: hasAlliances(term) ? resolveAlliances(term, partyName) : "",
-  })),
-  ...args,
-});
-
-const getGovernmentRecords = async (governmentOrdinal: number) => {};
-
-const getAllGovernmentRecords = async (
-  terms: ({
-    term: number;
-    MPs: RepresentativeRecord[];
-  } & {
-    parties: PartyRecord[];
-  })[],
-) => {
-  Object.entries(governmentMap).flatMap(([term, governmentsUnderTheTerm]) => {
-    governmentsUnderTheTerm.map((governmentOrdinal) => getGovernmentRecords);
-  });
-};
-
 const getParliamentRecords = async () => {
   const engine = new ParleventEngine();
-  const results = await Promise.all(
+  await Promise.all(
     Array(9)
       .keys()
       .toArray()
       .map((offset) => offset + 20)
-      .map((term) =>
-        getParliamentTable(term, engine)
-          .then(parseMPTable)
-          .then(generateProvinceLookupTable)
-          .then(addAlliances)
-          .then(({ engine: _, ...args }) => args),
-      ),
-  );
-  const shapedData = Object.fromEntries(
-    results.map((data, index) => [`${index + 20}`, data]),
+      .map((term) => getParliamentTable(term, engine).then(parseMPTable)),
   );
 
-  const partySummaryData = JSON.parse(
+  const { parties: partySummaryData } = JSON.parse(
     await readFile("src/assets/partyUtils.json", "utf-8"),
   );
 
