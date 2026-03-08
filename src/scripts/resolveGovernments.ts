@@ -1,3 +1,4 @@
+import { readFile } from "fs/promises";
 export const governmentMap = {
   20: [53, 54, 55, 56],
   21: [57],
@@ -33,6 +34,10 @@ export const termData = Object.fromEntries(
   ]),
 );
 
+const { terms: milestonesPerTerm } = JSON.parse(
+  await readFile("src/assets/milestone.declarations.json", "utf-8"),
+);
+
 export const milestones = Object.fromEntries(
   Object.entries(termData).map(([term, { start }]) => [
     term,
@@ -41,6 +46,12 @@ export const milestones = Object.fromEntries(
         date: start,
         name: `${term}_PARLIAMENT_FORMATION`,
       },
+      ...(milestonesPerTerm[term as "28"]?.["milestones"].map(
+        ({ date, ...rest }: { date: string }) => ({
+          date: new Date(date),
+          ...rest,
+        }),
+      ) ?? []),
     ],
   ]),
 );

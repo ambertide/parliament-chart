@@ -1,3 +1,4 @@
+import { readFile } from "fs/promises";
 import { termData } from "./resolveGovernments.ts";
 
 export type RepresentativeRecord = {
@@ -61,6 +62,15 @@ type ParleventOfficeAssumed = {
   };
 } & ParleventCommon;
 
+type ParleventPartyChanged = {
+  action: "PARTY_CHANGED";
+  actor: string;
+  target: string; // Party name
+  metadata: {
+    reason: "ALLIANCE"; // Why change happened?
+  };
+} & ParleventCommon;
+
 type ParleventOfficeVacated = {
   action: "OFFICE_VACATED";
   actor: string;
@@ -106,7 +116,8 @@ type Parlevent =
   | ParleventAllianceFounded
   | ParleventAllianceDisbanded
   | ParleventPartyJoinedAlliance
-  | ParleventPartyLeftAlliance;
+  | ParleventPartyLeftAlliance
+  | ParleventPartyChanged;
 
 export class ParleventEngine {
   parlevents: Parlevent[];
@@ -136,6 +147,16 @@ export class ParleventEngine {
       },
     );
   }
+
+  injectParlevents = async () => {
+    const { events } = JSON.parse(
+      await readFile("src/assets/extraEvents.json", "utf-8"),
+    ) as { events: Parlevent[] };
+    this.parlevents = [
+      ...this.parlevents,
+      ...events.map(({ date, ...args }) => ({ date: new Date(date), ...args })),
+    ];
+  };
 
   emit = (event: Parlevent) => {
     this.state = "POSSIBLY_UNSORTED";
@@ -217,6 +238,30 @@ export class ParleventEngine {
               .find(({ name }) => name === event.actor);
             if (toDelete) {
               accum.representatives.delete(toDelete);
+            }
+            break;
+          case "PARTY_CHANGED":
+            const { target: newParty, actor: representativeName } = event;
+            const targetRepresentative = accum.representatives
+              .values()
+              .find(({ name }) => name === representativeName);
+            if (targetRepresentative) {
+              targetRepresentative.party = newParty;
+              const partyFound = p.find(
+                ({ canonicalLongName }) => canonicalLongName == newParty,
+              );
+              if (!partyFound) {
+                console.warn(`
+                  WARN: ${newParty} was not found in party list.  
+                `);
+              }
+              targetRepresentative.partyColor =
+                p.find(({ canonicalLongName }) => canonicalLongName == newParty)
+                  ?.color ?? "#000000";
+            } else {
+              console.error(
+                `ERR: Representative ${representativeName} not in this term.`,
+              );
             }
             break;
           case "TERM_ENDED":

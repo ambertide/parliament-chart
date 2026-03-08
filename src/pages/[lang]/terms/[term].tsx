@@ -22,7 +22,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 export const getStaticProps: GetStaticProps<{parties: Party[], term: string | string[] | undefined, lang: string | string[] | undefined}> = async ({ params: { term, lang } = {term: '28', lang: 'en'}}) => {
-  const { parties } = Object.values(milestones[term as keyof typeof milestones])[0]['snapshot']
+  const { parties } = Object.values(milestones[term as keyof typeof milestones]).at(-1)?.['snapshot'] ?? { parties: []}
   const messages = (await import(`../../../../messages/${lang}.json`)).default
   console.log(messages);
   return { props: { parties, term, lang, messages }};

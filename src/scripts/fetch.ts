@@ -271,6 +271,7 @@ const resolveAlliances = (term: number, party: string) =>
 
 const getParliamentRecords = async () => {
   const engine = new ParleventEngine();
+  await engine.injectParlevents();
   await Promise.all(
     Array(9)
       .keys()

@@ -1,0 +1,514 @@
+{
+    "events": [
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokratik Sol Parti",
+            "actor": "Önder Aksakal",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Hür Dava Partisi",
+            "actor": "Serkan Ramanlı",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Hür Dava Partisi",
+            "actor": "Şehzade Demir",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Hür Dava Partisi",
+            "actor": "Zekeriya Yapıcıoğlu",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Hür Dava Partisi",
+            "actor": "Faruk Dinç",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Sadullah Kısacık",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Sadullah Ergin",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "İdris Şahin",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Burak Dalgın",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Ertuğrul Kaya",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Elif Esen",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Hasan Karal",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Evrim Rızvanoğlu",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Mustafa Yeneroğlu",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Medeni Yılmaz",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Seda Kaya Ösen",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "İrfan Karatutlu",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Selma Aliye Kavaf",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Mehmet Emin Ekmen",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Cem Avşar",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Mustafa Nedim Yamalı",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Serap Yazıcı Özbudun",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Cemalettin Kani Torun",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Sema Silkin Ün",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Selim Temurci",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "İsa Mesih Şahin",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Doğan Demir",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Mustafa Bilici",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Hasan Ekici",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Selçuk Özdağ",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Mesut Doğan",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Şerafettin Kılıç",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Mehmet Atmaca",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Necmettin Çalışkan",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Birol Aydın",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Mustafa Kaya",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Bülent Kaya",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Mahmut Arıkan",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Hasan Bitmez",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Mehmet Karaman",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrat Parti",
+            "actor": "Cemal Enginyurt",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrat Parti",
+            "actor": "Haydar Altıntaş",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrat Parti",
+            "actor": "Salih Uzun",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "İYİ Parti",
+            "actor": "Ahmet Ersagun Yücel",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Türkiye Değişim Partisi",
+            "actor": "Mustafa Sarıgül",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokratik Bölgeler Partisi",
+            "actor": "Salihe Aydeniz",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokratik Bölgeler Partisi",
+            "actor": "Keskin Bayındır",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Emek Partisi",
+            "actor": "Sevda Karaca Demir",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Emek Partisi",
+            "actor": "İskender Bayhan",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Halkların Demokratik Partisi",
+            "actor": "Mithat Sancar",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Halkların Demokratik Partisi",
+            "actor": "Pervin Buldan",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        }
+    ]
+}

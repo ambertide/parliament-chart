@@ -21,6 +21,41 @@
             "color": "#91007B"
         },
         {
+            "canonicalLongName": "Demokrasi ve Atılım Partisi",
+            "canonicalShortName": "DEVA",
+            "color": "#006AA6"
+        },
+        {
+            "canonicalLongName": "Emek Partisi",
+            "canonicalShortName": "EMEP",
+            "color": "#FFEB3E"
+        },
+        {
+            "canonicalLongName": "Gelecek Partisi",
+            "canonicalShortName": "GELECEK",
+            "color": "#00564a"
+        },
+        {
+            "canonicalLongName": "Türkiye Değişim Partisi",
+            "canonicalShortName": "TDP",
+            "color": "#D51B26"
+        },
+        {
+            "canonicalLongName": "Demokratik Bölgeler Partisi",
+            "canonicalShortName": "DBP",
+            "color": "#30A13E"
+        },
+        {
+            "canonicalLongName": "Saadet Partisi",
+            "canonicalShortName": "SAADET",
+            "color": "#CF3338"
+        },
+        {
+            "canonicalLongName": "Hür Dava Partisi",
+            "canonicalShortName": "HÜDA PAR",
+            "color": "#00964C"
+        },
+        {
             "canonicalLongName": "Türkiye İşçi Partisi",
             "canonicalShortName": "TİP",
             "color": "#B61F23"
