@@ -509,6 +509,114 @@
             },
             "date": "2023-06-02T12:00:00.000Z",
             "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_MERGED_INTO",
+            "target": "Cumhuriyet Halk Partisi",
+            "actor": "Türkiye Değişim Partisi",
+            "metadata": {},
+            "date": "2023-06-09T00:00.000Z",
+            "source": "https://web.archive.org/web/20230608233018/https://www.seskocaeli.com/haber/15293563/turkiye-degisim-partisi-chp-ile-birlesme-karari-aldi",
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Halkların Eşitlik ve Demokrasi Partisi",
+            "actor": "Pervin Buldan",
+            "metadata": {
+                "reason": "PREMIERSHIP"
+            },
+            "date": "2023-09-05T00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Halkların Eşitlik ve Demokrasi Partisi",
+            "actor": "Mithat Sancar",
+            "metadata": {
+                "reason": "PREMIERSHIP"
+            },
+            "date": "2023-09-05T00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Independent",
+            "actor": "İdris Nebi Hatipoğlu",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "date": "2023-11-02T00:00.000Z",
+            "source": "https://www.gazeteduvar.com.tr/iyi-parti-milletvekili-idris-nebi-hatipoglu-partisinden-istifa-etti-haber-1645367"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Adalet ve Kalkınma Partisi",
+            "actor": "İdris Nebi Hatipoğlu",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "date": "2023-11-07T00:00.000Z",
+            "source": "https://web.archive.org/web/20231107130434/https://www.trthaber.com/haber/gundem/idris-nebi-hatipoglu-ak-partiye-katildi-810666.html"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokratik Bölgeler Partisi",
+            "actor": "Çiğdem Kılıçgün Uçar",
+            "date": "2023-11-13T00:00.000Z",
+            "metadata": {
+                "reason": "PREMIERSHIP"
+            },
+            "source": "https://web.archive.org/web/20231113084921/https://www.evrensel.net/haber/503334/dbpnin-yeni-es-genel-baskanlari-cigdem-kilicgun-ucar-ve-keskin-bayindir-oldu"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Halkların Eşitlik ve Demokrasi Partisi",
+            "actor": "Salihe Aydeniz",
+            "date": "2023-11-13T00:00.000Z",
+            "metadata": {
+                "reason": "PREMIERSHIP"
+            },
+            "source": "https://web.archive.org/web/20231113084921/https://www.evrensel.net/haber/503334/dbpnin-yeni-es-genel-baskanlari-cigdem-kilicgun-ucar-ve-keskin-bayindir-oldu"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Independent",
+            "actor": "Suat Pamukçu",
+            "date": "2024-02-20T00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://web.archive.org/web/20240220144516/https://www.haberler.com/politika/yeniden-refah-partisi-istanbul-milletvekili-suat-16871946-haberi/"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Adalet ve Kalkınma Partisi",
+            "actor": "Suat Pamukçu",
+            "date": "2024-02-24T00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20240324162354/https://www.dunya.com/gundem/yeniden-refahli-suat-pamukcu-ak-partiye-katildi-haberi-720873"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Independent",
+            "actor": "Ayşe Sibel Yanıkömeroğlu",
+            "date": "2023-12-06T00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://x.com/asyanikomeroglu/status/1732393361674227886"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Cumhuriyet Halk Partisi",
+            "actor": "Ayşe Sibel Yanıkömeroğlu",
+            "date": "2024-04-24T00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20240424105453/https://www.sozcu.com.tr/iyi-parti-den-istifa-eden-ayse-sibel-yanikoglu-chp-ye-katildi-p41700"
         }
     ]
 }

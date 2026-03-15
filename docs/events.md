@@ -26,4 +26,22 @@ Event types are as follows:
 | `OFFICE_VACATED` | Denotes when an MP leaves office for whatever reason |
 | `TERM_START` | Denotes the start of a parliamentary term |
 | `GOVERNMENT_FORMED` | Denotes the creation of a parliamentary term |
-| `MINISTER_ASSUMED_OFFICE` | Minister assuming ministerial office
+| `MINISTER_ASSUMED_OFFICE` | Minister assuming ministerial office |
+| `PARTY_CHANGED` | Denotes an MP switching parties
+
+## Notes on Party Changes
+
+Party Changes are not publicly denoted by the Grand National Assembly,
+as a result they are sourced either through wikipedia or third party
+websites.
+
+Following party change reasons are differentiated:
+
+- `PREMIERSHIP` denotes an MP switching to another party as a result of being elected
+  to the position of that party's premier, or co-premier, or in case they leave the premiership
+  of their party and return to their "original" party.
+- `ALLIANCE` denotes those parties which have joined the elections of the 28th and 27th
+  terms of the Assembly as a party of another party's rolls and had been the part of a same
+  alliance with that party.
+- `RESIGNATION` denote MPs which resign from their party and become independent
+- `OTHER` denotes other
