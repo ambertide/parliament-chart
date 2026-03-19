@@ -44,4 +44,6 @@ Following party change reasons are differentiated:
   terms of the Assembly as a party of another party's rolls and had been the part of a same
   alliance with that party.
 - `RESIGNATION` denote MPs which resign from their party and become independent
+- `SUPPLY` denotes an MP switching to a party to supply their electoral group in the
+  grand national assembly
 - `OTHER` denotes other
