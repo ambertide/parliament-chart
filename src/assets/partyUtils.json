@@ -104,6 +104,11 @@
             "canonicalLongName": "Anavatan Partisi",
             "canonicalShortName": "ANAP",
             "color": "#FBBA00"
+        },
+        {
+            "canonicalLongName": "Bağımsız",
+            "canonicalShortName": "Bağımsız",
+            "color": "#DDDDDD"
         }
     ]
 }

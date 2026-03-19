@@ -540,7 +540,7 @@
         },
         {
             "action": "PARTY_CHANGED",
-            "target": "Independent",
+            "target": "Bağımsız",
             "actor": "İdris Nebi Hatipoğlu",
             "metadata": {
                 "reason": "RESIGNATION"
@@ -580,7 +580,7 @@
         },
         {
             "action": "PARTY_CHANGED",
-            "target": "Independent",
+            "target": "Bağımsız",
             "actor": "Suat Pamukçu",
             "date": "2024-02-20T00:00:00.000Z",
             "metadata": {
@@ -600,7 +600,7 @@
         },
         {
             "action": "PARTY_CHANGED",
-            "target": "Independent",
+            "target": "Bağımsız",
             "actor": "Ayşe Sibel Yanıkömeroğlu",
             "date": "2023-12-06T00:00:00.000Z",
             "metadata": {
@@ -641,7 +641,7 @@
         {
             "action": "PARTY_CHANGED",
             "actor": "Bilal Bilici",
-            "target": "Independent",
+            "target": "Bağımsız",
             "date": "2024-05-15T00:00:00.000Z",
             "metadata": {
                 "reason": "RESIGNATION"
@@ -662,6 +662,7 @@
             "action": "PARTY_CHANGED",
             "actor": "Aykut Kaya",
             "date": "2024-05-31T00:00:00.000Z",
+            "target": "Bağımsız",
             "metadata": {
                 "reason": "RESIGNATION"
             },
@@ -670,6 +671,7 @@
         {
             "action": "PARTY_CHANGED",
             "actor": "Aykut Kaya",
+            "target": "Cumhuriyet Halk Partisi",
             "date": "2024-06-04T00:00:00.000Z",
             "metadata": {
                 "reason": "RESIGNATION"
@@ -683,7 +685,7 @@
             "metadata": {
                 "reason": "RESIGNATION"
             },
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20240614091233/https://www.gazeteduvar.com.tr/iyi-parti-milletvekili-seyithan-izsiz-partisinden-istifa-etti-haber-1698594"
         },
         {
@@ -703,7 +705,7 @@
             "metadata": {
                 "reason": "RESIGNATION"
             },
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20240724153638/https://www.birgun.net/haber/iyi-parti-istanbul-milletvekili-nimet-ozdemir-istifa-etti-547048"
         },
         {
@@ -723,7 +725,7 @@
             "metadata": {
                 "reason": "RESIGNATION"
             },
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20240906124829/https://www.diken.com.tr/iyi-partiden-bir-istifa-daha-meclisteki-sandalye-sayisi-31e-dustu/"
         },
         {
@@ -739,7 +741,7 @@
         {
             "action": "PARTY_CHANGED",
             "actor": "Ümit Özlale",
-            "target": "Independent",
+            "target": "Bağımsız",
             "metadata": {
                 "reason": "OTHER"
             },
@@ -759,7 +761,7 @@
         {
             "action": "PARTY_CHANGED",
             "actor": "Ümit Özlale",
-            "target": "Independent",
+            "target": "Bağımsız",
             "metadata": {
                 "reason": "OTHER"
             },
@@ -823,7 +825,7 @@
             "metadata": {
                 "reason": "RESIGNATION"
             },
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20241226152848/https://www.odatv.com/guncel/gelecek-partili-nedim-yamali-istifa-etti-120078120"
         },
         {
@@ -860,7 +862,7 @@
             "action": "PARTY_CHANGED",
             "actor": "Kürşad Zorlu",
             "date": "2025-01-02T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "metadata": {
                 "reason": "RESIGNATION"
             },
@@ -884,7 +886,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://web.archive.org/web/20250205135608/https://artigercek.com/politika/deva-partisinde-bir-cati-istifasi-daha-selma-aliye-kavaf-da-birakti-330440h",
-            "target": "Independent"
+            "target": "Bağımsız"
         },
         {
             "action": "PARTY_CHANGED",
@@ -898,17 +900,17 @@
         },
         {
             "action": "PARTY_CHANGED",
-            "actor": "Salim Ensarioğlu",
+            "actor": "Mehmet Salim Ensarioğlu",
             "date": "2023-12-15T00:00:00.000Z",
             "metadata": {
                 "reason": "RESIGNATION"
             },
             "source": "https://web.archive.org/web/20231215135201/https://www.bbc.com/turkce/articles/c1dy98dmk7yo",
-            "target": "Independent"
+            "target": "Bağımsız"
         },
         {
             "action": "PARTY_CHANGED",
-            "actor": "Salim Ensarioğlu",
+            "actor": "Mehmet Salim Ensarioğlu",
             "date": "2025-02-23T00:00:00.000Z",
             "metadata": {
                 "reason": "OTHER"
@@ -918,17 +920,17 @@
         },
         {
             "action": "PARTY_CHANGED",
-            "actor": "Ünal Kahraman",
+            "actor": "Ünal Karaman",
             "metadata": {
                 "reason": "RESIGNATION"
             },
-            "target": "Independent",
+            "target": "Bağımsız",
             "date": "2025-01-20T00:00:00.000Z",
             "source": "https://web.archive.org/web/20250424003707/https://m.haberturk.com/son-dakika-unal-karaman-iyi-parti-den-istifa-etti-3757712"
         },
         {
             "action": "PARTY_CHANGED",
-            "actor": "Ünal Kahraman",
+            "actor": "Ünal Karaman",
             "metadata": {
                 "reason": "OTHER"
             },
@@ -939,7 +941,7 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2025-02-22T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20250222161631/https://www.haberturk.com/serap-yazici-gelecek-partisi-nden-istifa-etti-3767941",
             "actor": "Serap Yazıcı Özbudun",
             "metadata": {
@@ -959,7 +961,7 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2023-11-16T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20231116094910/https://medyascope.tv/2023/11/16/iyi-parti-ankara-milletvekili-adnan-beker-partisinden-istifa-etti/",
             "actor": "Adnan Beker",
             "metadata": {
@@ -979,7 +981,7 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2025-05-14T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://www.diken.com.tr/konya-milletvekili-hasan-ekici-gelecek-partisinden-istifa-etti/",
             "actor": "Hasan Ekici",
             "metadata": {
@@ -989,7 +991,7 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2025-05-14T00:00:00.000Z",
-            "target": "Adelet ve Kalkınma Partisi",
+            "target": "Adalet ve Kalkınma Partisi",
             "source": "https://web.archive.org/web/20250515002554/https://www.evrensel.net/haber/553649/gelecek-partisinden-istifa-eden-hasan-ekici-akp-grubuna-katildi",
             "actor": "Hasan Ekici",
             "metadata": {
@@ -999,9 +1001,9 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2025-04-22T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20250423142159/https://t24.com.tr/haber/deva-partisinde-bir-ayrilik-daha-deva-partili-seda-kaya-osen-istifa-etti",
-            "actor": "Seda Kâya Ösen",
+            "actor": "Seda Kaya Ösen",
             "metadata": {
                 "reason": "RESIGNATION"
             }
@@ -1011,7 +1013,7 @@
             "date": "2025-05-19T00:00:00.000Z",
             "target": "Cumhuriyet Halk Partisi",
             "source": "https://web.archive.org/web/20250519170758/https://www.sozcu.com.tr/seda-kaya-osen-chp-ye-katildi-p175533",
-            "actor": "Seda Kâya Ösen",
+            "actor": "Seda Kaya Ösen",
             "metadata": {
                 "reason": "OTHER"
             }
@@ -1019,7 +1021,7 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2025-06-27T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20250711013532/https://halktv.com.tr/gundem/deva-partisinde-istifa-depremi-2-milletvekili-birden-partiden-ayrildi-950659h",
             "actor": "Evrim Rızvanoğlu",
             "metadata": {
@@ -1039,7 +1041,7 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2025-06-27T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20250711013532/https://halktv.com.tr/gundem/deva-partisinde-istifa-depremi-2-milletvekili-birden-partiden-ayrildi-950659h",
             "actor": "Cem Avşar",
             "metadata": {
@@ -1059,7 +1061,7 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2023-12-05T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20231205154537/https://www.sozcu.com.tr/umit-dikbayir-iyi-parti-den-ihrac-edildi-p5717",
             "actor": "Ümit Dikbayır",
             "metadata": {
@@ -1079,7 +1081,7 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2025-07-21T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20250721123013/https://t24.com.tr/haber/gelecek-partisi-istanbul-milletvekili-dogan-demir-istifa-etti",
             "actor": "Doğan Demir",
             "metadata": {
@@ -1099,7 +1101,7 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2025-07-19T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20250719182846/https://medyascope.tv/2025/07/19/selim-temurci-ve-isa-mesih-sahin-gelecek-partisinden-istifa-etti/",
             "actor": "İsa Mesih Şahin",
             "metadata": {
@@ -1119,7 +1121,7 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2025-12-09T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20251209140818/https://www.milliyet.com.tr/gundem/son-dakika-chpli-hasan-ufuk-cakira-ihrac-talebi-7498842",
             "actor": "Hasan Ufuk Çakır",
             "metadata": {
@@ -1139,7 +1141,7 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2026-01-05T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://halktv.com.tr/gundem/son-dakika-deva-partisi-milletvekili-istifa-etti-998302h",
             "actor": "İrfan Karatutlu",
             "metadata": {
@@ -1159,7 +1161,7 @@
         {
             "action": "PARTY_CHANGED",
             "date": "2025-01-07T00:00:00.000Z",
-            "target": "Independent",
+            "target": "Bağımsız",
             "source": "https://web.archive.org/web/20250107193747/https://www.cumhuriyet.com.tr/siyaset/deva-partisi-balikesir-milletvekili-burak-dalgin-partisinden-istifa-etti-2286976",
             "actor": "Burak Dalgın",
             "metadata": {
