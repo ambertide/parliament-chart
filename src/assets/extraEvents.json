@@ -1,0 +1,1182 @@
+{
+    "events": [
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokratik Sol Parti",
+            "actor": "Önder Aksakal",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Hür Dava Partisi",
+            "actor": "Serkan Ramanlı",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Hür Dava Partisi",
+            "actor": "Şehzade Demir",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Hür Dava Partisi",
+            "actor": "Zekeriya Yapıcıoğlu",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Hür Dava Partisi",
+            "actor": "Faruk Dinç",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Sadullah Kısacık",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Sadullah Ergin",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "İdris Şahin",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Burak Dalgın",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Ertuğrul Kaya",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Elif Esen",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Hasan Karal",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Evrim Rızvanoğlu",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Mustafa Yeneroğlu",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Medeni Yılmaz",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Seda Kaya Ösen",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "İrfan Karatutlu",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Selma Aliye Kavaf",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Mehmet Emin Ekmen",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrasi ve Atılım Partisi",
+            "actor": "Cem Avşar",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Mustafa Nedim Yamalı",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Serap Yazıcı Özbudun",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Cemalettin Kani Torun",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Sema Silkin Ün",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Selim Temurci",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "İsa Mesih Şahin",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Doğan Demir",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Mustafa Bilici",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Hasan Ekici",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Gelecek Partisi",
+            "actor": "Selçuk Özdağ",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Mesut Doğan",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Şerafettin Kılıç",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Mehmet Atmaca",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Necmettin Çalışkan",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Birol Aydın",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Mustafa Kaya",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Bülent Kaya",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Mahmut Arıkan",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Hasan Bitmez",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Mehmet Karaman",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrat Parti",
+            "actor": "Cemal Enginyurt",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrat Parti",
+            "actor": "Haydar Altıntaş",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokrat Parti",
+            "actor": "Salih Uzun",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "İYİ Parti",
+            "actor": "Ahmet Ersagun Yücel",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Türkiye Değişim Partisi",
+            "actor": "Mustafa Sarıgül",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokratik Bölgeler Partisi",
+            "actor": "Salihe Aydeniz",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokratik Bölgeler Partisi",
+            "actor": "Keskin Bayındır",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Emek Partisi",
+            "actor": "Sevda Karaca Demir",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Emek Partisi",
+            "actor": "İskender Bayhan",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Halkların Demokratik Partisi",
+            "actor": "Mithat Sancar",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Halkların Demokratik Partisi",
+            "actor": "Pervin Buldan",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "date": "2023-06-02T12:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_MERGED_INTO",
+            "target": "Cumhuriyet Halk Partisi",
+            "actor": "Türkiye Değişim Partisi",
+            "metadata": {},
+            "date": "2023-06-09T00:00:00.000Z",
+            "source": "https://web.archive.org/web/20230608233018/https://www.seskocaeli.com/haber/15293563/turkiye-degisim-partisi-chp-ile-birlesme-karari-aldi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Halkların Eşitlik ve Demokrasi Partisi",
+            "actor": "Pervin Buldan",
+            "metadata": {
+                "reason": "PREMIERSHIP"
+            },
+            "date": "2023-09-05T00:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Halkların Eşitlik ve Demokrasi Partisi",
+            "actor": "Mithat Sancar",
+            "metadata": {
+                "reason": "PREMIERSHIP"
+            },
+            "date": "2023-09-05T00:00:00.000Z",
+            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Bağımsız",
+            "actor": "İdris Nebi Hatipoğlu",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "date": "2023-11-02T00:00:00.000Z",
+            "source": "https://www.gazeteduvar.com.tr/iyi-parti-milletvekili-idris-nebi-hatipoglu-partisinden-istifa-etti-haber-1645367"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Adalet ve Kalkınma Partisi",
+            "actor": "İdris Nebi Hatipoğlu",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "date": "2023-11-07T00:00:00.000Z",
+            "source": "https://web.archive.org/web/20231107130434/https://www.trthaber.com/haber/gundem/idris-nebi-hatipoglu-ak-partiye-katildi-810666.html"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Demokratik Bölgeler Partisi",
+            "actor": "Çiğdem Kılıçgün Uçar",
+            "date": "2023-11-13T00:00:00.000Z",
+            "metadata": {
+                "reason": "PREMIERSHIP"
+            },
+            "source": "https://web.archive.org/web/20231113084921/https://www.evrensel.net/haber/503334/dbpnin-yeni-es-genel-baskanlari-cigdem-kilicgun-ucar-ve-keskin-bayindir-oldu"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Halkların Eşitlik ve Demokrasi Partisi",
+            "actor": "Salihe Aydeniz",
+            "date": "2023-11-13T00:00:00.000Z",
+            "metadata": {
+                "reason": "PREMIERSHIP"
+            },
+            "source": "https://web.archive.org/web/20231113084921/https://www.evrensel.net/haber/503334/dbpnin-yeni-es-genel-baskanlari-cigdem-kilicgun-ucar-ve-keskin-bayindir-oldu"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Bağımsız",
+            "actor": "Suat Pamukçu",
+            "date": "2024-02-20T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://web.archive.org/web/20240220144516/https://www.haberler.com/politika/yeniden-refah-partisi-istanbul-milletvekili-suat-16871946-haberi/"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Adalet ve Kalkınma Partisi",
+            "actor": "Suat Pamukçu",
+            "date": "2024-02-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20240324162354/https://www.dunya.com/gundem/yeniden-refahli-suat-pamukcu-ak-partiye-katildi-haberi-720873"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Bağımsız",
+            "actor": "Ayşe Sibel Yanıkömeroğlu",
+            "date": "2023-12-06T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://x.com/asyanikomeroglu/status/1732393361674227886"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Cumhuriyet Halk Partisi",
+            "actor": "Ayşe Sibel Yanıkömeroğlu",
+            "date": "2024-04-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20240424105453/https://www.sozcu.com.tr/iyi-parti-den-istifa-eden-ayse-sibel-yanikoglu-chp-ye-katildi-p41700"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Saadet Partisi",
+            "actor": "Ali Fazıl Kasap",
+            "date": "2023-12-16T00:00:00.000Z",
+            "metadata": {
+                "reason": "SUPPLY"
+            },
+            "source": "https://web.archive.org/web/20231216112103/https://www.sozcu.com.tr/chp-li-ali-fazil-kasap-saadet-partisi-ne-gecti-p9001"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Cumhuriyet Halk Partisi",
+            "actor": "Ali Fazıl Kasap",
+            "date": "2025-01-07T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20250107150206/https://www.gercekgundem.com/guncel/emanet-olarak-saadete-gecen-ali-fazil-kasap-chpye-dondu-510613"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Bilal Bilici",
+            "target": "Bağımsız",
+            "date": "2024-05-15T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://x.com/bilalbilici01/status/1790747347976065142"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Bilal Bilici",
+            "target": "Cumhuriyet Halk Partisi",
+            "date": "2024-08-20T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20240820122455/https://www.sozcu.com.tr/iyi-parti-den-istifa-etmisti-bilal-bilici-chp-ye-katildi-rozetini-ozgur-ozel-takti-p76551"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aykut Kaya",
+            "date": "2024-05-31T00:00:00.000Z",
+            "target": "Bağımsız",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://x.com/AykutKaya07/status/1796443743215825100"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aykut Kaya",
+            "target": "Cumhuriyet Halk Partisi",
+            "date": "2024-06-04T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://x.com/AykutKaya07/status/1798040271831363822"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Seyithan İzsiz",
+            "date": "2024-06-14T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20240614091233/https://www.gazeteduvar.com.tr/iyi-parti-milletvekili-seyithan-izsiz-partisinden-istifa-etti-haber-1698594"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Seyithan İzsiz",
+            "date": "2024-08-14T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "target": "Adalet ve Kalkınma Partisi",
+            "source": "https://web.archive.org/web/20240614091233/https://www.gazeteduvar.com.tr/iyi-parti-milletvekili-seyithan-izsiz-partisinden-istifa-etti-haber-1698594"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Nimet Özdemir",
+            "date": "2024-07-22T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20240724153638/https://www.birgun.net/haber/iyi-parti-istanbul-milletvekili-nimet-ozdemir-istifa-etti-547048"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Nimet Özdemir",
+            "date": "2024-10-08T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "target": "Cumhuriyet Halk Partisi",
+            "source": "https://web.archive.org/web/20241008112851/https://www.gercekgundem.com/amp/guncel/eski-iyi-parti-milletvekili-nimet-ozdemir-artik-chpde-rozetini-ozgur-ozel-takti-490807"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Dursun Ataş",
+            "date": "2024-09-06T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20240906124829/https://www.diken.com.tr/iyi-partiden-bir-istifa-daha-meclisteki-sandalye-sayisi-31e-dustu/"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Dursun Ataş",
+            "date": "2024-10-30T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "target": "Adalet ve Kalkınma Partisi",
+            "source": "https://web.archive.org/web/20241112170139/https://www.gazeteduvar.com.tr/iyi-partili-dursun-atas-ak-partiye-katildi-haber-1731546"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ümit Özlale",
+            "target": "Bağımsız",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "date": "2024-04-08T00:00:00.000Z",
+            "source": "https://web.archive.org/web/20240408094329/https://www.sozcu.com.tr/iyi-parti-milletvekili-umit-ozlale-partisinden-istifa-etti-p38122"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ümit Özlale",
+            "target": "İYİ Parti",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "date": "2024-04-27T00:00:00.000Z",
+            "source": "https://web.archive.org/web/20240427231236/https://www.politikyol.com/umit-ozlale-gik-uyesi-olarak-iyi-partiye-geri-dondu/"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ümit Özlale",
+            "target": "Bağımsız",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "date": "2024-09-12T00:00:00.000Z",
+            "source": "https://web.archive.org/web/20240912141310/https://www.halktv.com.tr/gundem/umit-ozlale-iyi-partiden-istifa-etti-869548h"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ümit Özlale",
+            "target": "Cumhuriyet Halk Partisi",
+            "date": "2024-12-03T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.ntv.com.tr/turkiye/umit-ozlale-chpye-katildi,MJoM0T28F0uDXmjBU-gWuw"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cemal Enginyurt",
+            "target": "Cumhuriyet Halk Partisi",
+            "date": "2024-11-18T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.sozcu.com.tr/demokrat-parti-de-kriz-cemal-enginyurt-ve-salih-uzun-istifa-etti-p105539"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cemal Enginyurt",
+            "date": "2025-02-04T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "target": "Cumhuriyet Halk Partisi",
+            "source": "https://web.archive.org/web/20250206211643/https://tr.euronews.com/2025/02/04/salih-uzun-ve-cemal-enginyurt-chpye-katildi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Salih Uzun",
+            "target": "Cumhuriyet Halk Partisi",
+            "date": "2024-11-18T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.sozcu.com.tr/demokrat-parti-de-kriz-cemal-enginyurt-ve-salih-uzun-istifa-etti-p105539"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Salih Uzun",
+            "date": "2025-02-04T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "target": "Cumhuriyet Halk Partisi",
+            "source": "https://web.archive.org/web/20250206211643/https://tr.euronews.com/2025/02/04/salih-uzun-ve-cemal-enginyurt-chpye-katildi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Nedim Yamalı",
+            "date": "2024-12-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20241226152848/https://www.odatv.com/guncel/gelecek-partili-nedim-yamali-istifa-etti-120078120"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Nedim Yamalı",
+            "date": "2024-12-25T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "target": "Adalet ve Kalkınma Partisi",
+            "source": "https://web.archive.org/web/20250105175355/https://m.haber7.com/siyaset/haber/3490756-ankara-milletvekili-mustafa-nedim-yamali-ak-partiye-katildi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mehmet Emin Ekmen",
+            "date": "2024-12-27T00:00:00.000Z",
+            "metadata": {
+                "reason": "SUPPLY"
+            },
+            "target": "Saadet Partisi",
+            "source": "https://web.archive.org/web/20241227224820/https://t24.com.tr/haber/saadet-partisi-deva-partili-ekmen-ve-kaya-nin-katilimiyla-tbmm-de-yeniden-grup-kurdu,1205837"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ertuğrul Kaya",
+            "date": "2024-12-27T00:00:00.000Z",
+            "metadata": {
+                "reason": "SUPPLY"
+            },
+            "target": "Saadet Partisi",
+            "source": "https://web.archive.org/web/20241227224820/https://t24.com.tr/haber/saadet-partisi-deva-partili-ekmen-ve-kaya-nin-katilimiyla-tbmm-de-yeniden-grup-kurdu,1205837"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Kürşad Zorlu",
+            "date": "2025-01-02T00:00:00.000Z",
+            "target": "Bağımsız",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://web.archive.org/web/20250102110755/https://www.bbc.com/turkce/articles/cly4vww4yypo"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Kürşad Zorlu",
+            "date": "2025-01-25T00:00:00.000Z",
+            "target": "Adalet ve Kalkınma Partisi",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20250121161832/https://www.haberturk.com/iyi-parti-den-istifa-eden-kursad-zorlu-ak-parti-ye-katildi-3758194"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Selma Aliye Kavaf",
+            "date": "2025-01-08T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://web.archive.org/web/20250205135608/https://artigercek.com/politika/deva-partisinde-bir-cati-istifasi-daha-selma-aliye-kavaf-da-birakti-330440h",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Selma Aliye Kavaf",
+            "date": "2025-01-28T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20250128113708/https://www.sozcu.com.tr/bir-milletvekili-daha-chp-ye-katildi-p131684",
+            "target": "Cumhuriyet Halk Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mehmet Salim Ensarioğlu",
+            "date": "2023-12-15T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://web.archive.org/web/20231215135201/https://www.bbc.com/turkce/articles/c1dy98dmk7yo",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mehmet Salim Ensarioğlu",
+            "date": "2025-02-23T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20250223100541/https://www.milliyet.com.tr/gundem/son-dakika-3-isim-ak-partiye-katildi-rozetleri-erdogan-takti-7314828",
+            "target": "Adalet ve Kalkınma Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ünal Karaman",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "target": "Bağımsız",
+            "date": "2025-01-20T00:00:00.000Z",
+            "source": "https://web.archive.org/web/20250424003707/https://m.haberturk.com/son-dakika-unal-karaman-iyi-parti-den-istifa-etti-3757712"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ünal Karaman",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "date": "2025-02-23T00:00:00.000Z",
+            "target": "Adalet ve Kalkınma Partisi",
+            "source": "https://web.archive.org/web/20250223100541/https://www.milliyet.com.tr/gundem/son-dakika-3-isim-ak-partiye-katildi-rozetleri-erdogan-takti-7314828"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-02-22T00:00:00.000Z",
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20250222161631/https://www.haberturk.com/serap-yazici-gelecek-partisi-nden-istifa-etti-3767941",
+            "actor": "Serap Yazıcı Özbudun",
+            "metadata": {
+                "reason": "RESIGNATION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-02-23T00:00:00.000Z",
+            "target": "Adalet ve Kalkınma Partisi",
+            "source": "https://web.archive.org/web/20250223100541/https://www.milliyet.com.tr/gundem/son-dakika-3-isim-ak-partiye-katildi-rozetleri-erdogan-takti-7314828",
+            "actor": "Serap Yazıcı Özbudun",
+            "metadata": {
+                "reason": "OTHER"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2023-11-16T00:00:00.000Z",
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20231116094910/https://medyascope.tv/2023/11/16/iyi-parti-ankara-milletvekili-adnan-beker-partisinden-istifa-etti/",
+            "actor": "Adnan Beker",
+            "metadata": {
+                "reason": "RESIGNATION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-03-04T00:00:00.000Z",
+            "target": "Cumhuriyet Halk Partisi",
+            "source": "https://web.archive.org/web/20250305000217/https://www.sozcu.com.tr/adnan-beker-chp-ye-katildi-p147278",
+            "actor": "Adnan Beker",
+            "metadata": {
+                "reason": "OTHER"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-05-14T00:00:00.000Z",
+            "target": "Bağımsız",
+            "source": "https://www.diken.com.tr/konya-milletvekili-hasan-ekici-gelecek-partisinden-istifa-etti/",
+            "actor": "Hasan Ekici",
+            "metadata": {
+                "reason": "RESIGNATION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-05-14T00:00:00.000Z",
+            "target": "Adalet ve Kalkınma Partisi",
+            "source": "https://web.archive.org/web/20250515002554/https://www.evrensel.net/haber/553649/gelecek-partisinden-istifa-eden-hasan-ekici-akp-grubuna-katildi",
+            "actor": "Hasan Ekici",
+            "metadata": {
+                "reason": "OTHER"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-04-22T00:00:00.000Z",
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20250423142159/https://t24.com.tr/haber/deva-partisinde-bir-ayrilik-daha-deva-partili-seda-kaya-osen-istifa-etti",
+            "actor": "Seda Kaya Ösen",
+            "metadata": {
+                "reason": "RESIGNATION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-05-19T00:00:00.000Z",
+            "target": "Cumhuriyet Halk Partisi",
+            "source": "https://web.archive.org/web/20250519170758/https://www.sozcu.com.tr/seda-kaya-osen-chp-ye-katildi-p175533",
+            "actor": "Seda Kaya Ösen",
+            "metadata": {
+                "reason": "OTHER"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-06-27T00:00:00.000Z",
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20250711013532/https://halktv.com.tr/gundem/deva-partisinde-istifa-depremi-2-milletvekili-birden-partiden-ayrildi-950659h",
+            "actor": "Evrim Rızvanoğlu",
+            "metadata": {
+                "reason": "RESIGNATION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-07-23T00:00:00.000Z",
+            "target": "Cumhuriyet Halk Partisi",
+            "source": "https://www.evrensel.net/haber/562677/devadan-istifa-eden-evrim-rizvanoglu-ve-cem-avsar-chpye-katildi",
+            "actor": "Evrim Rızvanoğlu",
+            "metadata": {
+                "reason": "OTHER"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-06-27T00:00:00.000Z",
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20250711013532/https://halktv.com.tr/gundem/deva-partisinde-istifa-depremi-2-milletvekili-birden-partiden-ayrildi-950659h",
+            "actor": "Cem Avşar",
+            "metadata": {
+                "reason": "RESIGNATION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-07-23T00:00:00.000Z",
+            "target": "Cumhuriyet Halk Partisi",
+            "source": "https://www.evrensel.net/haber/562677/devadan-istifa-eden-evrim-rizvanoglu-ve-cem-avsar-chpye-katildi",
+            "actor": "Cem Avşar",
+            "metadata": {
+                "reason": "OTHER"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2023-12-05T00:00:00.000Z",
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20231205154537/https://www.sozcu.com.tr/umit-dikbayir-iyi-parti-den-ihrac-edildi-p5717",
+            "actor": "Ümit Dikbayır",
+            "metadata": {
+                "reason": "EXPULSION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-10-21T00:00:00.000Z",
+            "target": "Cumhuriyet Halk Partisi",
+            "source": "https://www.sozcu.com.tr/umit-dikbayir-chp-ye-katildi-p249163",
+            "actor": "Ümit Dikbayır",
+            "metadata": {
+                "reason": "OTHER"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-07-21T00:00:00.000Z",
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20250721123013/https://t24.com.tr/haber/gelecek-partisi-istanbul-milletvekili-dogan-demir-istifa-etti",
+            "actor": "Doğan Demir",
+            "metadata": {
+                "reason": "RESIGNATION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-11-18T00:00:00.000Z",
+            "target": "Cumhuriyet Halk Partisi",
+            "source": "https://halktv.com.tr/siyaset/istanbul-milletvekili-dogan-demir-chpye-katildi-rozetini-ozel-takti-987108h",
+            "actor": "Doğan Demir",
+            "metadata": {
+                "reason": "OTHER"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-07-19T00:00:00.000Z",
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20250719182846/https://medyascope.tv/2025/07/19/selim-temurci-ve-isa-mesih-sahin-gelecek-partisinden-istifa-etti/",
+            "actor": "İsa Mesih Şahin",
+            "metadata": {
+                "reason": "RESIGNATION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2026-01-07T00:00:00.000Z",
+            "target": "Adalet ve Kalkınma Partisi",
+            "source": "https://www.milliyet.com.tr/gundem/son-dakika-partilerinden-istifa-eden-3-vekil-ak-partiye-katildi-7516956",
+            "actor": "İsa Mesih Şahin",
+            "metadata": {
+                "reason": "OTHER"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-12-09T00:00:00.000Z",
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20251209140818/https://www.milliyet.com.tr/gundem/son-dakika-chpli-hasan-ufuk-cakira-ihrac-talebi-7498842",
+            "actor": "Hasan Ufuk Çakır",
+            "metadata": {
+                "reason": "RESIGNATION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2026-01-07T00:00:00.000Z",
+            "target": "Adalet ve Kalkınma Partisi",
+            "source": "https://www.milliyet.com.tr/gundem/son-dakika-partilerinden-istifa-eden-3-vekil-ak-partiye-katildi-7516956",
+            "actor": "Hasan Ufuk Çakır",
+            "metadata": {
+                "reason": "OTHER"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2026-01-05T00:00:00.000Z",
+            "target": "Bağımsız",
+            "source": "https://halktv.com.tr/gundem/son-dakika-deva-partisi-milletvekili-istifa-etti-998302h",
+            "actor": "İrfan Karatutlu",
+            "metadata": {
+                "reason": "RESIGNATION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2026-01-07T00:00:00.000Z",
+            "target": "Adalet ve Kalkınma Partisi",
+            "source": "https://www.milliyet.com.tr/gundem/son-dakika-partilerinden-istifa-eden-3-vekil-ak-partiye-katildi-7516956",
+            "actor": "İrfan Karatutlu",
+            "metadata": {
+                "reason": "OTHER"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-07T00:00:00.000Z",
+            "target": "Bağımsız",
+            "source": "https://web.archive.org/web/20250107193747/https://www.cumhuriyet.com.tr/siyaset/deva-partisi-balikesir-milletvekili-burak-dalgin-partisinden-istifa-etti-2286976",
+            "actor": "Burak Dalgın",
+            "metadata": {
+                "reason": "RESIGNATION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2026-01-18T00:00:00.000Z",
+            "target": "İYİ Parti",
+            "source": "https://www.cumhuriyet.com.tr/turkiye/deva-partisi-nden-istifa-etmisti-burak-dalgin-iyi-parti-ye-katildi-2471004",
+            "actor": "Burak Dalgın",
+            "metadata": {
+                "reason": "OTHER"
+            }
+        }
+    ]
+}

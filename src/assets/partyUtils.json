@@ -2,59 +2,113 @@
     "parties": [
         {
             "canonicalLongName": "Adalet ve Kalkınma Partisi",
-            "canonicalShortName": "AKP"
+            "canonicalShortName": "AKP",
+            "color": "#FDA000"
         },
         {
             "canonicalLongName": "Cumhuriyet Halk Partisi",
-            "canonicalShortName": "CHP"
+            "canonicalShortName": "CHP",
+            "color": "#ED1C24"
         },
         {
             "canonicalLongName": "Milliyetçi Hareket Partisi",
-            "canonicalShortName": "MHP"
+            "canonicalShortName": "MHP",
+            "color": "#870000"
         },
         {
             "canonicalLongName": "Halkların Demokratik Partisi",
-            "canonicalShortName": "HDP"
+            "canonicalShortName": "HDP",
+            "color": "#91007B"
+        },
+        {
+            "canonicalLongName": "Demokrasi ve Atılım Partisi",
+            "canonicalShortName": "DEVA",
+            "color": "#006AA6"
+        },
+        {
+            "canonicalLongName": "Emek Partisi",
+            "canonicalShortName": "EMEP",
+            "color": "#FFEB3E"
+        },
+        {
+            "canonicalLongName": "Gelecek Partisi",
+            "canonicalShortName": "GELECEK",
+            "color": "#00564a"
+        },
+        {
+            "canonicalLongName": "Türkiye Değişim Partisi",
+            "canonicalShortName": "TDP",
+            "color": "#D51B26"
+        },
+        {
+            "canonicalLongName": "Demokratik Bölgeler Partisi",
+            "canonicalShortName": "DBP",
+            "color": "#30A13E"
+        },
+        {
+            "canonicalLongName": "Saadet Partisi",
+            "canonicalShortName": "SAADET",
+            "color": "#CF3338"
+        },
+        {
+            "canonicalLongName": "Hür Dava Partisi",
+            "canonicalShortName": "HÜDA PAR",
+            "color": "#00964C"
         },
         {
             "canonicalLongName": "Türkiye İşçi Partisi",
-            "canonicalShortName": "TİP"
+            "canonicalShortName": "TİP",
+            "color": "#B61F23"
         },
         {
             "canonicalLongName": "İYİ Parti",
-            "canonicalShortName": "İYİ"
+            "canonicalShortName": "İYİ",
+            "color": "#40B4E5"
         },
         {
             "canonicalLongName": "Demokrat Parti",
-            "canonicalShortName": "DP"
+            "canonicalShortName": "DP",
+            "color": "#EE151F"
         },
         {
             "canonicalLongName": "Halkların Eşitlik ve Demokrasi Partisi",
-            "canonicalShortName": "DEM"
+            "canonicalShortName": "DEM",
+            "color": "#8C4799"
         },
         {
             "canonicalLongName": "Yeniden Refah Partisi",
-            "canonicalShortName": "YRP"
+            "canonicalShortName": "YRP",
+            "color": "#ED1D24"
         },
         {
             "canonicalLongName": "Refah Partisi",
-            "canonicalShortName": "RP"
+            "canonicalShortName": "RP",
+            "color": "#D60000"
         },
         {
             "canonicalLongName": "Demokratik Sol Parti",
-            "canonicalShortName": "DSP"
+            "canonicalShortName": "DSP",
+            "color": "#16C0ED"
         },
         {
             "canonicalLongName": "Fazilet Partisi",
-            "canonicalShortName": "FP"
+            "canonicalShortName": "FP",
+            "color": "#F40808"
         },
         {
             "canonicalLongName": "Doğru Yol Partisi",
-            "canonicalShortName": "DYP"
+            "canonicalShortName": "DYP",
+            "color": "#DA251C"
         },
         {
             "canonicalLongName": "Anavatan Partisi",
-            "canonicalShortName": "ANAP"
+            "canonicalShortName": "ANAP",
+            "color": "#FBBA00"
+        },
+        {
+            "canonicalLongName": "Bağımsız",
+            "canonicalShortName": "Bağımsız",
+            "color": "#DDDDDD"
         }
     ]
 }

@@ -1,4 +1,4 @@
-import terms from "@/assets/terms.json";
+import milestones from "@/assets/milestones.json";
 import { ParliamentFigure } from "@/components";
 import { Menu } from "@/components/Menu/Menu";
 import { Party } from "@/types";
@@ -7,11 +7,9 @@ import { useTranslations } from "next-intl";
 import { useRouter } from "next/router";
 import { useMemo, useState } from "react";
 
-const validTerms = Object.keys(terms).filter(key => Number.parseInt(key) >= 20);
-
 export const getStaticPaths: GetStaticPaths = async () => {
   const languages = ['en', 'tr']
-  const paths = validTerms.flatMap(term => languages.map(lang => ({
+  const paths = Object.keys(milestones).flatMap(term => languages.map(lang => ({
     params: {
       lang,
       term,
@@ -24,7 +22,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 export const getStaticProps: GetStaticProps<{parties: Party[], term: string | string[] | undefined, lang: string | string[] | undefined}> = async ({ params: { term, lang } = {term: '28', lang: 'en'}}) => {
-  const { parties } = terms[term as keyof typeof terms]
+  const { parties } = Object.values(milestones[term as keyof typeof milestones]).at(-1)?.['snapshot'] ?? { parties: []}
   const messages = (await import(`../../../../messages/${lang}.json`)).default
   console.log(messages);
   return { props: { parties, term, lang, messages }};
