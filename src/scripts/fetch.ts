@@ -303,7 +303,8 @@ const getParliamentRecords = async () => {
                   milestone.date,
                   partySummaryData as PartySummaryRecord[],
                 ),
-                date: milestone.date.toDateString(),
+                date: milestone.date.toISOString(),
+                slug: milestone.slug
               },
             }),
             {},

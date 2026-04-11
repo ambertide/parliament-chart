@@ -9,26 +9,29 @@ import { useMemo, useState } from "react";
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const languages = ['en', 'tr']
-  const paths = Object.keys(milestones).flatMap(term => languages.map(lang => ({
-    params: {
-      lang,
-      term,
-    },
-  })));
+  const paths = Object.entries(milestones).flatMap(
+    ([term, milestonesOfTerm]) => Object.values(milestonesOfTerm).flatMap(({ slug: milestone }) => languages.map(lang => ({
+      params: {
+        lang,
+        term,
+        milestone
+      },
+    }))));
+  console.log(paths.map(({ params: { lang, term, milestone }}) => `Emitting ${lang}/term/${term}/${milestone}`).join('\n'))
   return {
     paths,
     fallback: "blocking"
   }
 }
 
-export const getStaticProps: GetStaticProps<{parties: Party[], term: string | string[] | undefined, lang: string | string[] | undefined}> = async ({ params: { term, lang } = {term: '28', lang: 'en'}}) => {
-  const { parties } = Object.values(milestones[term as keyof typeof milestones]).at(-1)?.['snapshot'] ?? { parties: []}
-  const messages = (await import(`../../../../messages/${lang}.json`)).default
-  console.log(messages);
-  return { props: { parties, term, lang, messages }};
+export const getStaticProps: GetStaticProps<{parties: Party[], term: string | string[] | undefined, lang: string | string[] | undefined, milestone: string | string[] | undefined}> = async ({ params: { term, lang, milestone } = {term: '28', lang: 'en'}}) => {
+  const milestonesOfTerm = milestones[term as keyof typeof milestones]
+  const { parties } = Object.values(milestones[term as keyof typeof milestones]).find(({slug}) => slug === milestone )?.['snapshot'] ?? { parties: []}
+  const messages = (await import(`../../../../../messages/${lang}.json`)).default
+  return { props: { parties, term, lang, messages, milestone, milestonesOfTerm }};
 }
 
-export default function Term({ parties, term, lang }: { parties: Party[], term: `${number}`, lang: string }) {
+export default function Term({ parties, term, lang, milestone, milestonesOfTerm }: { parties: Party[], term: `${number}`, lang: string, milestone: string, milestonesOfTerm: Record<string, { date: string, slug: string }> }) {
   const t = useTranslations('Term');
   const selectedTerm = useMemo(() => Number.parseInt(term), [term]);
   const [groupBy, setGroupBy] = useState<'alliance' | 'groups' | 'deputies'>('alliance');
@@ -43,6 +46,9 @@ export default function Term({ parties, term, lang }: { parties: Party[], term: 
         />
         <Menu
           selectedTerm={selectedTerm}
+          selectedMilestone={milestone}
+          milestonesOfTerm={milestonesOfTerm}
+          onMilestoneSelect={newMilestone => push(`/${lang}/terms/${term}/${newMilestone}`)}
           onTermSelect={term => push(`/${lang}/terms/${term}`)}
           onDisplayOptionChange={e => setGroupBy(e as 'alliance' | 'groups' | 'deputies')}
           selectedDisplayOption={groupBy}

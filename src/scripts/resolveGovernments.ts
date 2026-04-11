@@ -45,6 +45,7 @@ export const milestones = Object.fromEntries(
       {
         date: start,
         name: `${term}_PARLIAMENT_FORMATION`,
+        slug: 'formation'
       },
       ...(milestonesPerTerm[term as "28"]?.["milestones"].map(
         ({ date, ...rest }: { date: string }) => ({
