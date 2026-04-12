@@ -1177,6 +1177,556 @@
             "metadata": {
                 "reason": "OTHER"
             }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2023-07-06T00:00:00.000Z",
+            "target": "Saadet Partisi",
+            "source": "https://www.milligazete.com.tr/haber/15656875/karamollaoglu-ve-davutoglu-meclis-kulisinde-vekillerle-bir-araya-geldi",
+            "actor": "Mustafa Nedim Yamalı",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2023-07-06T00:00:00.000Z",
+            "target": "Saadet Partisi",
+            "source": "https://www.milligazete.com.tr/haber/15656875/karamollaoglu-ve-davutoglu-meclis-kulisinde-vekillerle-bir-araya-geldi",
+            "actor": "Serap Yazıcı Özbudun",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2023-07-06T00:00:00.000Z",
+            "target": "Saadet Partisi",
+            "source": "https://www.milligazete.com.tr/haber/15656875/karamollaoglu-ve-davutoglu-meclis-kulisinde-vekillerle-bir-araya-geldi",
+            "actor": "Cemalettin Kani Torun",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2023-07-06T00:00:00.000Z",
+            "target": "Saadet Partisi",
+            "source": "https://www.milligazete.com.tr/haber/15656875/karamollaoglu-ve-davutoglu-meclis-kulisinde-vekillerle-bir-araya-geldi",
+            "actor": "Sema Silkin Ün",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2023-07-06T00:00:00.000Z",
+            "target": "Saadet Partisi",
+            "source": "https://www.milligazete.com.tr/haber/15656875/karamollaoglu-ve-davutoglu-meclis-kulisinde-vekillerle-bir-araya-geldi",
+            "actor": "Selim Temurci",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2023-07-06T00:00:00.000Z",
+            "target": "Saadet Partisi",
+            "source": "https://www.milligazete.com.tr/haber/15656875/karamollaoglu-ve-davutoglu-meclis-kulisinde-vekillerle-bir-araya-geldi",
+            "actor": "İsa Mesih Şahin",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2023-07-06T00:00:00.000Z",
+            "target": "Saadet Partisi",
+            "source": "https://www.milligazete.com.tr/haber/15656875/karamollaoglu-ve-davutoglu-meclis-kulisinde-vekillerle-bir-araya-geldi",
+            "actor": "Doğan Demir",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2023-07-06T00:00:00.000Z",
+            "target": "Saadet Partisi",
+            "source": "https://www.milligazete.com.tr/haber/15656875/karamollaoglu-ve-davutoglu-meclis-kulisinde-vekillerle-bir-araya-geldi",
+            "actor": "Mustafa Bilici",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2023-07-06T00:00:00.000Z",
+            "target": "Saadet Partisi",
+            "source": "https://www.milligazete.com.tr/haber/15656875/karamollaoglu-ve-davutoglu-meclis-kulisinde-vekillerle-bir-araya-geldi",
+            "actor": "Hasan Ekici",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2023-07-06T00:00:00.000Z",
+            "target": "Saadet Partisi",
+            "source": "https://www.milligazete.com.tr/haber/15656875/karamollaoglu-ve-davutoglu-meclis-kulisinde-vekillerle-bir-araya-geldi",
+            "actor": "Selçuk Özdağ",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Birol Aydın",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Bülent Kaya",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Cemalettin Kani Torun",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Sema Silkin Ün",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Doğan Demir",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Mustafa Bilici",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Hasan Ekici",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Selçuk Özdağ",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Ertuğrul Kaya",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Mehmet Atmaca",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Mehmet Karaman",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Mehmet Emin Ekmen",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Mesut Doğan",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Mustafa Kaya",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Necmettin Çalışkan",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Serap Yazıcı Özbudun",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Şerafettin Kılıç",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Cem Avşar",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Elif Esen",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Hasan Karal",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "İdris Şahin",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "İrfan Karatutlu",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Medeni Yılmaz",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Sadullah Ergin",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "date": "2025-01-10T00:00:00.000Z",
+            "target": "Yeni Yol",
+            "source": "https://www.voaturkce.com/a/tbmm-de-cati-parti-birlikteligi-yeni-yol-partisi-kuruldu/7931843.html",
+            "actor": "Sadullah Kısacık",
+            "metadata": {
+                "reason": "SUPPLY"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Koray Aydın",
+            "date": "2024-06-27T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.trthaber.com/haber/gundem/koray-aydin-iyi-partiden-istifa-etti-865414.html",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ediz Ün",
+            "date": "2024-09-28T00:00:00.000Z",
+            "source": "https://www.sozcu.com.tr/ozgur-ozel-milletvekili-ediz-un-un-istifasini-istedi-p87782",
+            "target": "Bağımsız",
+            "metadata": {
+                "reason": "RESIGNATION"
+            }
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ahmet Zenbilci",
+            "date": "2024-09-30T00:00:00.000Z",
+            "source": "https://tr.euronews.com/2024/09/30/ak-parti-adana-milletvekili-ahmet-zenbilci-istifa-etti",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Hasan Basri Sönmez",
+            "date": "2024-11-20T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.aa.com.tr/tr/politika/mhpde-uc-milletvekilinin-istifasi-istendi/3399343",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İsmail Akgül",
+            "date": "2024-11-20T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.aa.com.tr/tr/politika/mhpde-uc-milletvekilinin-istifasi-istendi/3399343",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Demir",
+            "date": "2024-11-20T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.aa.com.tr/tr/politika/mhpde-uc-milletvekilinin-istifasi-istendi/3399343",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Yeneroğlu",
+            "date": "2024-12-26T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.sozcu.com.tr/mustafa-yeneroglu-deva-partisi-nden-istifa-etti-p119921",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Selim Temurci",
+            "date": "2025-07-19T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://medyascope.tv/2025/07/19/selim-temurci-ve-isa-mesih-sahin-gelecek-partisinden-istifa-etti",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Saffet Sancaklı",
+            "date": "2023-12-10T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.sozcu.com.tr/saffet-sancakli-istifa-etti-p6593",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Saffet Sancaklı",
+            "date": "2024-04-15T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.haberturk.com/saffet-sancakli-yeniden-mhp-de-3677758",
+            "target": "Milliyetçi Hareket Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Yüksel Arslan",
+            "date": "2023-12-21T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.sozcu.com.tr/iyi-parti-ankara-milletvekili-yuksel-arslan-istifa-etti-p10032",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Yüksel Arslan",
+            "date": "2025-04-09T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20250409091425/https://www.haberler.com/politika/yuksel-arslan-iyi-parti-ye-geri-dondu-18499757-haberi/",
+            "target": "İYİ Parti"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Hasan Bitmez",
+            "date": "2023-12-14T00:00:00.000Z",
+            "metadata": {
+                "reason": "PASSED"
+            },
+            "source": "https://www.bbc.com/turkce/articles/cpex5g33kzno",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Sırrı Süreyya Önder",
+            "date": "2025-05-03T00:00:00.000Z",
+            "metadata": {
+                "reason": "PASSED"
+            },
+            "source": "https://www.bbc.com/turkce/articles/cd6jd230l41o",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Can Atalay",
+            "date": "2024-01-30T00:00:00.000Z",
+            "metadata": {
+                "reason": "MEMBERSHIP_LOSS"
+            },
+            "source": "https://www.bbc.com/turkce/articles/c6p9x0wn6lko",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Burcu Köksal",
+            "date": "2024-04-02T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Ahmet Önal",
+            "date": "2024-04-02T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Abdurrahman Tutdere",
+            "date": "2024-04-02T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Hasan Baltacı",
+            "date": "2024-04-02T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Murat Kurum",
+            "date": "2024-07-02T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.bbc.com/turkce/articles/crgmzy12pm2o",
+            "target": "PARLIAMENT"
         }
     ]
 }

@@ -76,7 +76,7 @@ type ParleventOfficeVacated = {
   actor: string;
   target: "Parliament";
   metadata: {
-    reason: "PASSED" | "TERM_END";
+    reason: "PASSED" | "TERM_END" | "RESIGNED" | "MEMBERSHIP_LOSS";
   };
 } & ParleventCommon;
 

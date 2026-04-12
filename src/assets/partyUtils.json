@@ -109,6 +109,11 @@
             "canonicalLongName": "Bağımsız",
             "canonicalShortName": "Bağımsız",
             "color": "#DDDDDD"
+        },
+        {
+            "canonicalLongName": "Yeni Yol",
+            "canonicalShortName": "YENİ YOL",
+            "color": "#3465aa"
         }
     ]
 }

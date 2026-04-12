@@ -47,3 +47,18 @@ Following party change reasons are differentiated:
 - `SUPPLY` denotes an MP switching to a party to supply their electoral group in the
   grand national assembly
 - `OTHER` denotes other
+
+## Notes on Offices Being Vacated
+
+Seats may be vacated by the members of parliament, following reasons can be noted in the
+metadata for a vacated seat:
+
+- `PASSED` Indicates a member of parliament passing away, thereby causing a vacant seat.
+- `RESIGNATION` Members of parliament may resign from their post, as of the 28th parliament
+  this event occurs due to constitutional provisions forbiding a member of the legislative
+  to simultaniously serve in mayoral duties or as a member of executive (ie: as a minister)
+- `TERM_END` Denotes a seat being vacated because the term ended in the Grand National
+  Assembly of Turkey
+- `MEMBERSHIP_LOSS` Denotes a seat vacated due to a member of parliament losing their
+  membership to the Grand National Assembly in accordence with the Article 84 of the
+  Constitution
