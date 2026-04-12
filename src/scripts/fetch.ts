@@ -198,10 +198,10 @@ const getParliamentRecords = async () => {
   const engine = new ParleventEngine();
   await engine.injectParlevents();
   await Promise.all(
-    Array(9)
+    Array(2)
       .keys()
       .toArray()
-      .map((offset) => offset + 20)
+      .map((offset) => offset + 27)
       .map((term) => getParliamentTable(term, engine).then(parseMPTable)),
   );
 
