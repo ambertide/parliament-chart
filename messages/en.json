@@ -10,7 +10,14 @@
         "milestoneSelect": "<selectLabel>Shown in </selectLabel><milestoneSelect></milestoneSelect>, on {selectedMilestoneDate,date,long}",
         "milestone_inaguration": "Parliament's inaguration",
         "milestone_current": "Its Current Form",
-        "milestone_formation": "Election Day"
+        "milestone_formation": "Election Day",
+        "YENI_YOL_VOTING_BLOC": "Assembly offers procedural privilages to parties with seats more than 20, three centre right parties DEVA, GELECEK and SAADET joined forces to reach this threshold",
+        "milestone_yeni-yol-established": "the Aftermath of New Path's Forming",
+        "LOCAL_ELECTIONS_OF_2024": "In the aftermath of the local elections, certain MPs gained mayoral seats, and gave up their legislative positions to become mayors.",
+        "milestone_local-elections": "the Day after Local Elections",
+        "milestone_saadet-voting-bloc": "the Aftermath of Gelecek/Saadet Merger",
+        "SAADET_VOTING_BLOC": "Large number of Future Party members joined the Saadet party to supply enough MPs for them to form a party group.",
+        "28TH_PARLIAMENT_PRESENT_DAY": "28th Term of the Assembly as of mid-2026"
     },
     "Parties": {
         "Cumhur İttifakı": "People's Alliance",
@@ -30,7 +37,15 @@
         "Fazilet Partisi": "Virtue Party",
         "Anavatan Partisi": "Homeland Party",
         "Doğru Yol Partisi": "True Path Party",
-        "Refah Partisi": "Welfare Party"
+        "Refah Partisi": "Welfare Party",
+        "Saadet Partisi": "The Felicity Party",
+        "Demokrat Parti": "Democrat Party",
+        "Emek Partisi": "Labour Party",
+        "Demokratik Bölgeler Partisi": "Democratic Regions Party",
+        "Hür Dava Partisi": "Free Cause Party",
+        "Yeni Yol": "New Path",
+        "Bağımsız": "Independent",
+        "Boş": "Vacant"
     },
     "Utils": {
         "SwitchLanguage": "Switch Language"

@@ -68,6 +68,7 @@ type ParleventPartyChanged = {
   target: string; // Party name
   metadata: {
     reason: "ALLIANCE"; // Why change happened?
+    from?: string // Sometimes names collide so we have a from
   };
 } & ParleventCommon;
 
@@ -231,6 +232,10 @@ export class ParleventEngine {
             accum.alliances.set(event.actor, new Set<string>());
             break;
           case "OFFICE_VACATED":
+            if (event.metadata.reason === 'TERM_END') {
+              // Unimportant, already handled etc.
+              break;
+            }
             // dangerous assumption that no names repeat within
             // a single term.
             const toDelete = accum.representatives
@@ -238,13 +243,15 @@ export class ParleventEngine {
               .find(({ name }) => name === event.actor);
             if (toDelete) {
               accum.representatives.delete(toDelete);
+            } else {
+              console.error(`Could not find ${event.actor}`)
             }
             break;
           case "PARTY_CHANGED":
             const { target: newParty, actor: representativeName } = event;
-            const targetRepresentative = accum.representatives
+            const targetRepresentative =  accum.representatives
               .values()
-              .find(({ name }) => name === representativeName);
+              .find(({ name, party }) => (!event.metadata.from || event.metadata.from === party) && name === representativeName);
             if (targetRepresentative) {
               targetRepresentative.party = newParty;
               const partyFound = p.find(

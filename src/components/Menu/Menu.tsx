@@ -7,7 +7,7 @@ import { useLocale, useTranslations } from "next-intl";
 type MenuProps = {
   selectedTerm: number,
   selectedMilestone: string,
-  milestonesOfTerm: Record<string, { date: string, slug: string }>,
+  milestonesOfTerm: Record<string, { date: string, slug: string, description?: string }>,
   onMilestoneSelect: (newMilestone: string) => void,
   onTermSelect: (newTerm: number) => void,
   selectedDisplayOption: string,
@@ -28,6 +28,7 @@ export const Menu: FC<MenuProps> = ({
   const locale = useLocale();
   const t = useTranslations('Menu');
   const selectedMilestoneDate = useMemo(() => new Date(Object.values(milestonesOfTerm).find(({ slug }) => selectedMilestone === slug)?.date || ''), [milestonesOfTerm, selectedMilestone])
+  const selectedMilestoneInfo = useMemo(() => Object.values(milestonesOfTerm).find(({ slug }) => selectedMilestone === slug)?.description || '', [milestonesOfTerm, selectedMilestone])
   return (
     <menu className="w-full items-stretch flex flex-col text-lg p-4 bg-background-secondary border-4 border-background-secondary rounded-sm">
       <MenuItem
@@ -88,6 +89,13 @@ export const Menu: FC<MenuProps> = ({
         {' '}
         
       </MenuItem>
+      {selectedMilestoneInfo && (
+        <MenuItem
+          icon="&#xE88E;"
+        >
+          {t(selectedMilestoneInfo)}
+        </MenuItem>)
+      }
     </menu>
   )
 }

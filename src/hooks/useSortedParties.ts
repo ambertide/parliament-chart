@@ -84,14 +84,14 @@ export function sortAndGroupParties(
 };
 
 const swapIndependentsAndVacants = (parties: Party[]): Party[] => {
-  const vacant = parties.find(({ partyName }) => partyName === "Vacant");
-  const independents = parties.find(({ partyName }) => partyName === "Ind.");
+  const vacants = parties.find(({ partyName}) => partyName === "Boş");
+  const independents = parties.find(({ partyName }) => partyName === "Bağımsız");
   return [
     ...parties.filter(
-      ({ partyName }) => !["Ind.", "Vacant"].includes(partyName)
+      ({ partyName }) => !["Boş", "Bağımsız"].includes(partyName)
     ),
     independents,
-    vacant
+    vacants
   ].filter(e => e) as Party[];
 };
 
@@ -117,16 +117,32 @@ type UnflattenedGroupOutput = CommonProps & {
 
 type TotalProps = UnflattenedGroupOutput | UnflattenedPartyOutput | FlattenedProps;
 
+const injectVacancies = (parties: Party[]): Party[] => {
+  const vacantSeats = parties.reduce((sum, { representativeCount }) => sum - representativeCount, 600);
+  const vacants = vacantSeats > 0 ? [{
+    partyName: "Boş",
+    partyColor: "#111111",
+    groupName: "",
+    allianceName: "",
+    representativeCount: vacantSeats
+  } satisfies Party] : [];
+  return [
+    ...parties,
+    ...vacants
+  ];
+}
+
 export function useSortedParties(p: FlattenedProps): Party[];
 export function useSortedParties(p: UnflattenedPartyOutput): Party[];
 export function useSortedParties(p: UnflattenedGroupOutput): [string, Party[]]
 export function useSortedParties({
-  parties,
+  parties: partiesWOVacancies,
   groupBy,
   flatten 
 }: TotalProps): [string, Party[]] | Party[] {
   return useMemo(
     () => {
+      const parties = injectVacancies(partiesWOVacancies);
       if (!flatten && ['alliance', 'groups'].includes(groupBy)) {
         return sortAndGroupParties(
           parties as any,
@@ -142,6 +158,6 @@ export function useSortedParties({
         )
       )
     },
-    [parties, groupBy, flatten]
+    [partiesWOVacancies, groupBy, flatten]
   )
 }

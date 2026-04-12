@@ -442,16 +442,6 @@
         },
         {
             "action": "PARTY_CHANGED",
-            "target": "Türkiye Değişim Partisi",
-            "actor": "Mustafa Sarıgül",
-            "metadata": {
-                "reason": "ALLIANCE"
-            },
-            "date": "2023-06-02T12:00:00.000Z",
-            "source": "https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi"
-        },
-        {
-            "action": "PARTY_CHANGED",
             "target": "Demokratik Bölgeler Partisi",
             "actor": "Salihe Aydeniz",
             "metadata": {
@@ -700,8 +690,28 @@
         },
         {
             "action": "PARTY_CHANGED",
-            "actor": "Nimet Özdemir",
+            "actor": "Ahmet Ersagun Yücel",
             "date": "2024-07-22T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://t24.com.tr/haber/iyi-parti-milletvekili-ersagun-yucel-partisinden-istifa-etti,1175629",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ahmet Ersagun Yücel",
+            "date": "2024-08-14T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.sozcu.com.tr/23-yilda-transferli-kutlama-akp-ye-katilan-yeni-isimler-belli-oldu-p75159",
+            "target": "Adalet ve Kalkınma Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Nimet Özdemir",
+            "date": "2024-07-24T00:00:00.000Z",
             "metadata": {
                 "reason": "RESIGNATION"
             },
@@ -1583,7 +1593,8 @@
             "actor": "Mustafa Demir",
             "date": "2024-11-20T00:00:00.000Z",
             "metadata": {
-                "reason": "RESIGNATION"
+                "reason": "RESIGNATION",
+                "from": "Milliyetçi Hareket Partisi"
             },
             "source": "https://www.aa.com.tr/tr/politika/mhpde-uc-milletvekilinin-istifasi-istendi/3399343",
             "target": "Bağımsız"
@@ -1606,6 +1617,16 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://medyascope.tv/2025/07/19/selim-temurci-ve-isa-mesih-sahin-gelecek-partisinden-istifa-etti",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ramazan Kaşlı",
+            "date": "2026-03-12T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.haberler.com/politika/bahceli-ocak-disisin-dedi-iste-mhp-li-vekilin-19649773-haberi/",
             "target": "Bağımsız"
         },
         {
@@ -1670,7 +1691,7 @@
         },
         {
             "action": "OFFICE_VACATED",
-            "actor": "Can Atalay",
+            "actor": "Şerafettin Can Atalay",
             "date": "2024-01-30T00:00:00.000Z",
             "metadata": {
                 "reason": "MEMBERSHIP_LOSS"

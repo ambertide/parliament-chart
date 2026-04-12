@@ -229,7 +229,8 @@ const getParliamentRecords = async () => {
                   partySummaryData as PartySummaryRecord[],
                 ),
                 date: milestone.date.toISOString(),
-                slug: milestone.slug
+                slug: milestone.slug,
+                description: milestone.description
               },
             }),
             {},
