@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "fetch-parliament": "node src/scripts/fetch.ts",
+    "generate-diagrams": "node src/scripts/generateDiagrams.ts",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
