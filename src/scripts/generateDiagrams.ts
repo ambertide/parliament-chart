@@ -72,17 +72,25 @@ const calculateSankeyDataForPair = (from: Milestone, to: Milestone): SankeyData[
   return sankeyData;
 }
 
-const calculateData = (): SankeyData[] => {
-  const milestoneOfTerm = milestones["28"];
+const calculateData = (
+  milestone: keyof typeof milestones,
+  from: string,
+  to: string,
+  party: string
+): SankeyData[] => {
+  const milestonesOfTerm = milestones[milestone];
   // So for instance, for [1, 2, 3, 4] you would
   // have [[1, 2], [2, 3], [3, 4]]
   // ie: sliding window.
-  const entries = Object.entries(milestoneOfTerm);
-  const pairs = [...new Array(entries.length - 1).keys()].map((_, i) => [
-    entries[i],
-    entries[i + 1],
-  ]);
-  return pairs.flatMap(([[_, from], [__, to]]) => calculateSankeyDataForPair(from, to)).filter(({ value }) => !!value);
+  const milestoneEntities = Object.values(milestonesOfTerm);
+  const fromData = milestoneEntities.find(({ slug }) => slug === from);
+  const toData = milestoneEntities.find(({ slug }) => slug === to);
+  return calculateSankeyDataForPair(
+    fromData as Milestone,
+    toData as Milestone
+  )
+    .filter(({ value }) => !!value)
+    .filter(({ from, to }) => from.startsWith(`${party}_`) || to.startsWith(`${party}_`));
 };
 
 const shortenPartyName = (partyName: string): string => {
@@ -118,8 +126,18 @@ const noUnicode = (text: string) => text.split('').map(ch => ({
 const convertDataToMarkup = (data: SankeyData[]): string =>
   data.map(({ from, to, value}) => noUnicode(`"${shortenPartyName(from)}","${shortenPartyName(to)}",${value}`)).join("\n");
 
-const generateDiagrams = () => {
-  const data: SankeyData[] = calculateData();
+const generateDiagrams = (
+  milestone: keyof typeof milestones,
+  from: string,
+  to: string,
+  party: string
+) => {
+  const data: SankeyData[] = calculateData(
+    milestone,
+    from,
+    to,
+    party
+  );
   const mermaidMarkup: string = convertDataToMarkup(data);
   console.log(mermaidMarkup)
 };
