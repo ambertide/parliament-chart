@@ -27,7 +27,7 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
   const partiesOrGroups = useSortedParties({ parties, groupBy, flatten: false as true}); // <-- Makes sense in the context. 
  
   return <figure
-    className="max-w-200 max-h-100 w-full"
+    className="max-w-200 max-h-110 w-full flex flex-col"
   >
     <ParliamentChart representatives={representatives}/>
     <figcaption>
