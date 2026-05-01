@@ -11,6 +11,7 @@ const eslintConfig = defineConfig([...nextVitals, ...nextTs, {
     "@stylistic": stylistic,
   },
   rules: {
+    "@stylistic/semi": ["error", "always"],
     "@stylistic/indent": ["error", 2],
     "no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars": [
