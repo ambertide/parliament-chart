@@ -11,8 +11,8 @@ const preview: Preview = {
     },
   },
   parameters: {
+    layout: "centered",
     nextIntl,
-
     controls: {
       matchers: {
         color: /(background|color)$/i,

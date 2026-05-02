@@ -23,7 +23,9 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
 }) => {
   const [diagramMode, setDiagramMode] = useState<Mode>('chart');
   const RenderElement = useMemo(() => diagramModeRenderMap[diagramMode], [diagramMode]);
-  return <section>
+  return <section
+    className="flex flex-col items-center"
+  >
     <ModeSwitch
       setMode={setDiagramMode}
       selectedMode={diagramMode}

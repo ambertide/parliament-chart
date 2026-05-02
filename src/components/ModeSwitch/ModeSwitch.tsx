@@ -16,7 +16,7 @@ export const ModeSwitch: FC<ModeSwitchProps> = ({
   setMode
 }) => {
   return (<fieldset
-    className="bg-background-secondary w-fit flex rounded-4xl p-0.5 before:content-[' '] before:block before:w-13.25 before:absolute before:rounded-4xl before:left-0.5 before:top-0.5 before:z-10 before:h-8 before:bg-emphasis [&:has(#chart-mode-switch:checked)]:before:translate-x-13.25 before:transition:transform before:duration-200"
+    className="bg-background-secondary w-fit flex rounded-4xl p-0.5 before:content-[' '] before:block before:w-13.25 before:absolute relative before:rounded-4xl before:left-0.5 before:top-0.5 before:z-10 before:h-8 before:bg-emphasis [&:has(#chart-mode-switch:checked)]:before:translate-x-13.25 before:transition:transform before:duration-200"
   >
     {modes.map(
       mode => <ModeSwitchButton
