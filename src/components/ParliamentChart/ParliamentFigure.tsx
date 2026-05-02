@@ -1,6 +1,6 @@
 import { useCalculateDiagramCircles, useSortedParties } from "@/hooks";
-import { ParliamentChart } from "./ParliamentChart"
-import { PartyLegend } from "./PartyLegend"
+import { ParliamentChart } from "./ParliamentChart";
+import { PartyLegend } from "./PartyLegend";
 import { Party } from "@/types";
 import { FC } from "react";
 
@@ -26,16 +26,5 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
 
   const partiesOrGroups = useSortedParties({ parties, groupBy, flatten: false as true}); // <-- Makes sense in the context. 
  
-  return <figure
-    className="max-w-200 max-h-110 w-full flex flex-col"
-  >
-    <ParliamentChart representatives={representatives}/>
-    <figcaption>
-      <PartyLegend
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        groupBy={groupBy as any}
-        partiesOrGroups={partiesOrGroups}
-      />
-    </figcaption>
-  </figure>
-}
+  
+};

@@ -1,8 +1,8 @@
-import { Representative } from "@/types"
+import { Representative } from "@/types";
 import { FC } from "react";
 import { RepresentativeCircle } from "./RepresentativeCircle";
 
-type ParliamentChartProps = {
+export type ParliamentChartProps = {
   representatives: Representative[]
 };
 
@@ -17,4 +17,4 @@ export const ParliamentChart: FC<ParliamentChartProps> = ({
   >
     {representatives.map((rep, i) => <RepresentativeCircle key={i} {...rep} />)}
   </svg>
-)
+);

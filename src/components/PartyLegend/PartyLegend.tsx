@@ -1,7 +1,7 @@
-import { FC } from "react"
-import { PartyGroupLegendItem } from "./PartyGroupLegendItem"
-import { PartyLegendItem } from "./PartyLegendItem"
-import { Party } from "@/types"
+import { FC } from "react";
+import { PartyLegendItem } from "./PartyLegendItem";
+import { Party } from "@/types";
+import { PartyGroupLegendItem } from "./PartyGroupLegendItem";
 
 type PartyLegenedProps = {
   groupBy: 'deputies',
@@ -37,5 +37,5 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
                 partiesInGroup={parties}
               />)
       }
-    </ol>)    
-}
+    </ol>);    
+};

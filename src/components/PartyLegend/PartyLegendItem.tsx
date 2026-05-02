@@ -4,7 +4,7 @@ import { PartyLegenedTooltip } from "./PartyLegendTooltip";
 import { Party } from "@/types";
 import { useTranslations } from "next-intl";
 
-type PartyLegendItemProps = Party
+type PartyLegendItemProps = Party;
 
 const specialPartyName = (partyName: string) => (
   ['Boş', 'Bağımsız'].includes(partyName) ? partyName : null
@@ -19,7 +19,7 @@ export const PartyLegendItem: FC<PartyLegendItemProps> = ({
   allianceName,
   representativeCount 
 }) => {
-  const t = useTranslations('Parties')
+  const t = useTranslations('Parties');
   return (
     <li
       className="group/party-legend-item list-none flex items-center gap-1 w-36 cursor-zoom-in"
@@ -44,4 +44,4 @@ export const PartyLegendItem: FC<PartyLegendItemProps> = ({
       </span>
     </li>
   );
-}
+};
