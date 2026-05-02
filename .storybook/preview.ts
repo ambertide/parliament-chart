@@ -1,15 +1,24 @@
 import type { Preview } from '@storybook/nextjs-vite';
 import "../src/assets/globals.css";
+import nextIntl from './next-intl';
 
 const preview: Preview = {
+  initialGlobals: {
+    locale: 'en',
+    locales: {
+      en: 'English (UK)',
+      tr: 'Türkçe',
+    },
+  },
   parameters: {
+    nextIntl,
+
     controls: {
       matchers: {
         color: /(background|color)$/i,
         date: /Date$/i,
       },
     },
-
     a11y: {
       // 'todo' - show a11y violations in the test UI only
       // 'error' - fail CI on a11y violations

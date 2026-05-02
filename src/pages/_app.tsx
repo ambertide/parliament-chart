@@ -1,4 +1,4 @@
-import Layout from '../components/Layout'
+import Layout from '../components/Layout';
 import '@/assets/globals.css';
 import { LanguageSelect } from '@/components';
 import { NextIntlClientProvider} from 'next-intl';
@@ -15,5 +15,5 @@ export default function MyApp({ Component, pageProps }) {
         <Component {...pageProps} />
       </Layout>
     </NextIntlClientProvider>
-  )
+  );
 }
