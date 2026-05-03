@@ -3,8 +3,8 @@ import { Party } from "@/types";
 import { useMemo } from "react";
 
 export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'deputies' | 'alliance' | 'groups', flatten: true): Party[];
-export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'deputies', flatten: false): Party[]
-export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'alliance' | 'groups', flatten: false): [string, Party[]][]
+export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'deputies', flatten: false): Party[];
+export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'alliance' | 'groups', flatten: false): [string, Party[]][];
 export function sortAndGroupParties(
   parties: Party[],
   sortAndGroupBy: 'deputies' | 'groups' | 'alliance',
@@ -113,7 +113,7 @@ type UnflattenedPartyOutput = CommonProps & {
 type UnflattenedGroupOutput = CommonProps & {
   flatten: false,
   groupBy: 'alliance' | 'groups'
-}
+};
 
 type TotalProps = UnflattenedGroupOutput | UnflattenedPartyOutput | FlattenedProps;
 
@@ -130,11 +130,11 @@ const injectVacancies = (parties: Party[]): Party[] => {
     ...parties,
     ...vacants
   ];
-}
+};
 
 export function useSortedParties(p: FlattenedProps): Party[];
 export function useSortedParties(p: UnflattenedPartyOutput): Party[];
-export function useSortedParties(p: UnflattenedGroupOutput): [string, Party[]]
+export function useSortedParties(p: UnflattenedGroupOutput): [string, Party[]];
 export function useSortedParties({
   parties: partiesWOVacancies,
   groupBy,
@@ -156,8 +156,8 @@ export function useSortedParties({
           groupBy as any,
           flatten as any
         )
-      )
+      );
     },
     [partiesWOVacancies, groupBy, flatten]
-  )
+  );
 }

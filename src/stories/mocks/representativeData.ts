@@ -120,7 +120,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -135,7 +136,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -150,7 +152,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -165,7 +168,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -180,7 +184,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adıyaman"
     },
     {
       "location": {
@@ -195,7 +200,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adıyaman"
     },
     {
       "location": {
@@ -210,7 +216,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adıyaman"
     },
     {
       "location": {
@@ -225,7 +232,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adıyaman"
     },
     {
       "location": {
@@ -240,7 +248,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Afyonkarahisar"
     },
     {
       "location": {
@@ -255,7 +264,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Afyonkarahisar"
     },
     {
       "location": {
@@ -270,7 +280,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Afyonkarahisar"
     },
     {
       "location": {
@@ -285,7 +296,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ağrı"
     },
     {
       "location": {
@@ -300,7 +312,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Aksaray"
     },
     {
       "location": {
@@ -315,7 +328,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Aksaray"
     },
     {
       "location": {
@@ -330,7 +344,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Amasya"
     },
     {
       "location": {
@@ -345,7 +360,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Amasya"
     },
     {
       "location": {
@@ -360,7 +376,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -375,7 +392,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -390,7 +408,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -405,7 +424,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -420,7 +440,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -435,7 +456,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (II)"
     },
     {
       "location": {
@@ -450,7 +472,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (II)"
     },
     {
       "location": {
@@ -465,7 +488,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (II)"
     },
     {
       "location": {
@@ -480,7 +504,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (II)"
     },
     {
       "location": {
@@ -495,7 +520,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (II)"
     },
     {
       "location": {
@@ -510,7 +536,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (II)"
     },
     {
       "location": {
@@ -525,7 +552,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (III)"
     },
     {
       "location": {
@@ -540,7 +568,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (III)"
     },
     {
       "location": {
@@ -555,7 +584,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (III)"
     },
     {
       "location": {
@@ -570,7 +600,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (III)"
     },
     {
       "location": {
@@ -585,7 +616,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (III)"
     },
     {
       "location": {
@@ -600,7 +632,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (III)"
     },
     {
       "location": {
@@ -615,7 +648,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -630,7 +664,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -645,7 +680,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -660,7 +696,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -675,7 +712,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -690,7 +728,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -705,7 +744,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -720,7 +760,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ardahan"
     },
     {
       "location": {
@@ -735,7 +776,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Artvin"
     },
     {
       "location": {
@@ -750,7 +792,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Aydın"
     },
     {
       "location": {
@@ -765,7 +808,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Aydın"
     },
     {
       "location": {
@@ -780,7 +824,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Aydın"
     },
     {
       "location": {
@@ -795,7 +840,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Balıkesir"
     },
     {
       "location": {
@@ -810,7 +856,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Balıkesir"
     },
     {
       "location": {
@@ -825,7 +872,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Balıkesir"
     },
     {
       "location": {
@@ -840,7 +888,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Balıkesir"
     },
     {
       "location": {
@@ -855,7 +904,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bartın"
     },
     {
       "location": {
@@ -870,7 +920,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Batman"
     },
     {
       "location": {
@@ -885,7 +936,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bayburt"
     },
     {
       "location": {
@@ -900,7 +952,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bilecik"
     },
     {
       "location": {
@@ -915,7 +968,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bingöl"
     },
     {
       "location": {
@@ -930,7 +984,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bingöl"
     },
     {
       "location": {
@@ -945,7 +1000,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bitlis"
     },
     {
       "location": {
@@ -960,7 +1016,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bolu"
     },
     {
       "location": {
@@ -975,7 +1032,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Burdur"
     },
     {
       "location": {
@@ -990,7 +1048,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Burdur"
     },
     {
       "location": {
@@ -1005,7 +1064,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (I)"
     },
     {
       "location": {
@@ -1020,7 +1080,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (I)"
     },
     {
       "location": {
@@ -1035,7 +1096,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (I)"
     },
     {
       "location": {
@@ -1050,7 +1112,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (I)"
     },
     {
       "location": {
@@ -1065,7 +1128,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (I)"
     },
     {
       "location": {
@@ -1080,7 +1144,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (II)"
     },
     {
       "location": {
@@ -1095,7 +1160,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (II)"
     },
     {
       "location": {
@@ -1110,7 +1176,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (II)"
     },
     {
       "location": {
@@ -1125,7 +1192,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (II)"
     },
     {
       "location": {
@@ -1140,7 +1208,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (II)"
     },
     {
       "location": {
@@ -1155,7 +1224,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Çanakkale"
     },
     {
       "location": {
@@ -1170,7 +1240,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Çankırı"
     },
     {
       "location": {
@@ -1185,7 +1256,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Çorum"
     },
     {
       "location": {
@@ -1200,7 +1272,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Çorum"
     },
     {
       "location": {
@@ -1215,7 +1288,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Denizli"
     },
     {
       "location": {
@@ -1230,7 +1304,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Denizli"
     },
     {
       "location": {
@@ -1245,7 +1320,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Denizli"
     },
     {
       "location": {
@@ -1260,7 +1336,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Diyarbakır"
     },
     {
       "location": {
@@ -1275,7 +1352,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Diyarbakır"
     },
     {
       "location": {
@@ -1290,7 +1368,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Diyarbakır"
     },
     {
       "location": {
@@ -1305,7 +1384,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Düzce"
     },
     {
       "location": {
@@ -1320,7 +1400,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Düzce"
     },
     {
       "location": {
@@ -1335,7 +1416,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Edirne"
     },
     {
       "location": {
@@ -1350,7 +1432,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Elazığ"
     },
     {
       "location": {
@@ -1365,7 +1448,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Elazığ"
     },
     {
       "location": {
@@ -1380,7 +1464,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Elazığ"
     },
     {
       "location": {
@@ -1395,7 +1480,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Erzincan"
     },
     {
       "location": {
@@ -1410,7 +1496,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Erzurum"
     },
     {
       "location": {
@@ -1425,7 +1512,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Erzurum"
     },
     {
       "location": {
@@ -1440,7 +1528,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Erzurum"
     },
     {
       "location": {
@@ -1455,7 +1544,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Erzurum"
     },
     {
       "location": {
@@ -1470,7 +1560,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Eskişehir"
     },
     {
       "location": {
@@ -1485,7 +1576,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Eskişehir"
     },
     {
       "location": {
@@ -1500,7 +1592,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Eskişehir"
     },
     {
       "location": {
@@ -1515,7 +1608,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -1530,7 +1624,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -1545,7 +1640,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -1560,7 +1656,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -1575,7 +1672,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -1590,7 +1688,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -1605,7 +1704,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -1620,7 +1720,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Giresun"
     },
     {
       "location": {
@@ -1635,7 +1736,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Giresun"
     },
     {
       "location": {
@@ -1650,7 +1752,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gümüşhane"
     },
     {
       "location": {
@@ -1665,7 +1768,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hatay"
     },
     {
       "location": {
@@ -1680,7 +1784,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hatay"
     },
     {
       "location": {
@@ -1695,7 +1800,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hatay"
     },
     {
       "location": {
@@ -1710,7 +1816,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hatay"
     },
     {
       "location": {
@@ -1725,7 +1832,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Iğdır"
     },
     {
       "location": {
@@ -1740,7 +1848,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Isparta"
     },
     {
       "location": {
@@ -1755,7 +1864,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Isparta"
     },
     {
       "location": {
@@ -1770,7 +1880,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1785,7 +1896,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1800,7 +1912,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1815,7 +1928,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1830,7 +1944,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1845,7 +1960,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1860,7 +1976,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1875,7 +1992,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1890,7 +2008,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1905,7 +2024,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1920,7 +2040,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1935,7 +2056,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1950,7 +2072,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1965,7 +2088,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1980,7 +2104,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -1995,7 +2120,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2010,7 +2136,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2025,7 +2152,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2040,7 +2168,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2055,7 +2184,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2070,7 +2200,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2085,7 +2216,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2100,7 +2232,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2115,7 +2248,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2130,7 +2264,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2145,7 +2280,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2160,7 +2296,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2175,7 +2312,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -2190,7 +2328,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2205,7 +2344,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2220,7 +2360,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2235,7 +2376,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2250,7 +2392,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2265,7 +2408,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2280,7 +2424,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2295,7 +2440,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2310,7 +2456,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2325,7 +2472,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2340,7 +2488,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2355,7 +2504,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2370,7 +2520,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2385,7 +2536,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -2400,7 +2552,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -2415,7 +2568,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -2430,7 +2584,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -2445,7 +2600,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -2460,7 +2616,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -2475,7 +2632,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -2490,7 +2648,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -2505,7 +2664,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -2520,7 +2680,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kahramanmaraş"
     },
     {
       "location": {
@@ -2535,7 +2696,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kahramanmaraş"
     },
     {
       "location": {
@@ -2550,7 +2712,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kahramanmaraş"
     },
     {
       "location": {
@@ -2565,7 +2728,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kahramanmaraş"
     },
     {
       "location": {
@@ -2580,7 +2744,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kahramanmaraş"
     },
     {
       "location": {
@@ -2595,7 +2760,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kahramanmaraş"
     },
     {
       "location": {
@@ -2610,7 +2776,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Karabük"
     },
     {
       "location": {
@@ -2625,7 +2792,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Karabük"
     },
     {
       "location": {
@@ -2640,7 +2808,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Karaman"
     },
     {
       "location": {
@@ -2655,7 +2824,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Karaman"
     },
     {
       "location": {
@@ -2670,7 +2840,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kars"
     },
     {
       "location": {
@@ -2685,7 +2856,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kastamonu"
     },
     {
       "location": {
@@ -2700,7 +2872,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kastamonu"
     },
     {
       "location": {
@@ -2715,7 +2888,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kayseri"
     },
     {
       "location": {
@@ -2730,7 +2904,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kayseri"
     },
     {
       "location": {
@@ -2745,7 +2920,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kayseri"
     },
     {
       "location": {
@@ -2760,7 +2936,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kayseri"
     },
     {
       "location": {
@@ -2775,7 +2952,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kayseri"
     },
     {
       "location": {
@@ -2790,7 +2968,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kayseri"
     },
     {
       "location": {
@@ -2805,7 +2984,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kırıkkale"
     },
     {
       "location": {
@@ -2820,7 +3000,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kırklareli"
     },
     {
       "location": {
@@ -2835,7 +3016,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kırşehir"
     },
     {
       "location": {
@@ -2850,7 +3032,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kilis"
     },
     {
       "location": {
@@ -2865,7 +3048,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -2880,7 +3064,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -2895,7 +3080,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -2910,7 +3096,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -2925,7 +3112,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -2940,7 +3128,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -2955,7 +3144,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -2970,7 +3160,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -2985,7 +3176,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -3000,7 +3192,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -3015,7 +3208,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -3030,7 +3224,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -3045,7 +3240,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -3060,7 +3256,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -3075,7 +3272,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -3090,7 +3288,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -3105,7 +3304,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -3120,7 +3320,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kütahya"
     },
     {
       "location": {
@@ -3135,7 +3336,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kütahya"
     },
     {
       "location": {
@@ -3150,7 +3352,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kütahya"
     },
     {
       "location": {
@@ -3165,7 +3368,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Malatya"
     },
     {
       "location": {
@@ -3180,7 +3384,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Malatya"
     },
     {
       "location": {
@@ -3195,7 +3400,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Malatya"
     },
     {
       "location": {
@@ -3210,7 +3416,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Malatya"
     },
     {
       "location": {
@@ -3225,7 +3432,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Manisa"
     },
     {
       "location": {
@@ -3240,7 +3448,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Manisa"
     },
     {
       "location": {
@@ -3255,7 +3464,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Manisa"
     },
     {
       "location": {
@@ -3270,7 +3480,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Manisa"
     },
     {
       "location": {
@@ -3285,7 +3496,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mardin"
     },
     {
       "location": {
@@ -3300,7 +3512,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mardin"
     },
     {
       "location": {
@@ -3315,7 +3528,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -3330,7 +3544,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -3345,7 +3560,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -3360,7 +3576,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -3375,7 +3592,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Muğla"
     },
     {
       "location": {
@@ -3390,7 +3608,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Muğla"
     },
     {
       "location": {
@@ -3405,7 +3624,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Muş"
     },
     {
       "location": {
@@ -3420,7 +3640,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Nevşehir"
     },
     {
       "location": {
@@ -3435,7 +3656,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Nevşehir"
     },
     {
       "location": {
@@ -3450,7 +3672,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Niğde"
     },
     {
       "location": {
@@ -3465,7 +3688,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ordu"
     },
     {
       "location": {
@@ -3480,7 +3704,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ordu"
     },
     {
       "location": {
@@ -3495,7 +3720,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ordu"
     },
     {
       "location": {
@@ -3510,7 +3736,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Osmaniye"
     },
     {
       "location": {
@@ -3525,7 +3752,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Osmaniye"
     },
     {
       "location": {
@@ -3540,7 +3768,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Rize"
     },
     {
       "location": {
@@ -3555,7 +3784,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Rize"
     },
     {
       "location": {
@@ -3570,7 +3800,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sakarya"
     },
     {
       "location": {
@@ -3585,7 +3816,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sakarya"
     },
     {
       "location": {
@@ -3600,7 +3832,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sakarya"
     },
     {
       "location": {
@@ -3615,7 +3848,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sakarya"
     },
     {
       "location": {
@@ -3630,7 +3864,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sakarya"
     },
     {
       "location": {
@@ -3645,7 +3880,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Samsun"
     },
     {
       "location": {
@@ -3660,7 +3896,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Samsun"
     },
     {
       "location": {
@@ -3675,7 +3912,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Samsun"
     },
     {
       "location": {
@@ -3690,7 +3928,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Samsun"
     },
     {
       "location": {
@@ -3705,7 +3944,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Samsun"
     },
     {
       "location": {
@@ -3720,7 +3960,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Siirt"
     },
     {
       "location": {
@@ -3735,7 +3976,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sinop"
     },
     {
       "location": {
@@ -3750,7 +3992,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sivas"
     },
     {
       "location": {
@@ -3765,7 +4008,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sivas"
     },
     {
       "location": {
@@ -3780,7 +4024,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sivas"
     },
     {
       "location": {
@@ -3795,7 +4040,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -3810,7 +4056,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -3825,7 +4072,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -3840,7 +4088,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -3855,7 +4104,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -3870,7 +4120,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -3885,7 +4136,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -3900,7 +4152,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -3915,7 +4168,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şırnak"
     },
     {
       "location": {
@@ -3930,7 +4184,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tekirdağ"
     },
     {
       "location": {
@@ -3945,7 +4200,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tekirdağ"
     },
     {
       "location": {
@@ -3960,7 +4216,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tekirdağ"
     },
     {
       "location": {
@@ -3975,7 +4232,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tokat"
     },
     {
       "location": {
@@ -3990,7 +4248,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tokat"
     },
     {
       "location": {
@@ -4005,7 +4264,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tokat"
     },
     {
       "location": {
@@ -4020,7 +4280,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Trabzon"
     },
     {
       "location": {
@@ -4035,7 +4296,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Trabzon"
     },
     {
       "location": {
@@ -4050,7 +4312,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Trabzon"
     },
     {
       "location": {
@@ -4065,7 +4328,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Trabzon"
     },
     {
       "location": {
@@ -4080,7 +4344,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Uşak"
     },
     {
       "location": {
@@ -4095,7 +4360,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Uşak"
     },
     {
       "location": {
@@ -4110,7 +4376,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Van"
     },
     {
       "location": {
@@ -4125,7 +4392,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Van"
     },
     {
       "location": {
@@ -4140,7 +4408,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Yalova"
     },
     {
       "location": {
@@ -4155,7 +4424,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Yalova"
     },
     {
       "location": {
@@ -4170,7 +4440,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Yozgat"
     },
     {
       "location": {
@@ -4185,7 +4456,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Yozgat"
     },
     {
       "location": {
@@ -4200,7 +4472,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Zonguldak"
     },
     {
       "location": {
@@ -4215,7 +4488,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Zonguldak"
     },
     {
       "location": {
@@ -4230,7 +4504,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "",
-      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Zonguldak"
     },
     {
       "location": {
@@ -4245,7 +4520,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -4260,7 +4536,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -4275,7 +4552,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -4290,7 +4568,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -4305,7 +4584,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -4320,7 +4600,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Amasya"
     },
     {
       "location": {
@@ -4335,7 +4616,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -4350,7 +4632,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -4365,7 +4648,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -4380,7 +4664,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -4395,7 +4680,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (II)"
     },
     {
       "location": {
@@ -4410,7 +4696,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (II)"
     },
     {
       "location": {
@@ -4425,7 +4712,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (II)"
     },
     {
       "location": {
@@ -4440,7 +4728,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (III)"
     },
     {
       "location": {
@@ -4455,7 +4744,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (III)"
     },
     {
       "location": {
@@ -4470,7 +4760,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (III)"
     },
     {
       "location": {
@@ -4485,7 +4776,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -4500,7 +4792,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -4515,7 +4808,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -4530,7 +4824,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -4545,7 +4840,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -4560,7 +4856,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ardahan"
     },
     {
       "location": {
@@ -4575,7 +4872,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Artvin"
     },
     {
       "location": {
@@ -4590,7 +4888,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Aydın"
     },
     {
       "location": {
@@ -4605,7 +4904,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Aydın"
     },
     {
       "location": {
@@ -4620,7 +4920,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Aydın"
     },
     {
       "location": {
@@ -4635,7 +4936,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Aydın"
     },
     {
       "location": {
@@ -4650,7 +4952,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Balıkesir"
     },
     {
       "location": {
@@ -4665,7 +4968,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Balıkesir"
     },
     {
       "location": {
@@ -4680,7 +4984,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bartın"
     },
     {
       "location": {
@@ -4695,7 +5000,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bilecik"
     },
     {
       "location": {
@@ -4710,7 +5016,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bolu"
     },
     {
       "location": {
@@ -4725,7 +5032,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Burdur"
     },
     {
       "location": {
@@ -4740,7 +5048,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (I)"
     },
     {
       "location": {
@@ -4755,7 +5064,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (I)"
     },
     {
       "location": {
@@ -4770,7 +5080,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (II)"
     },
     {
       "location": {
@@ -4785,7 +5096,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (II)"
     },
     {
       "location": {
@@ -4800,7 +5112,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Çanakkale"
     },
     {
       "location": {
@@ -4815,7 +5128,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Çanakkale"
     },
     {
       "location": {
@@ -4830,7 +5144,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Çorum"
     },
     {
       "location": {
@@ -4845,7 +5160,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Denizli"
     },
     {
       "location": {
@@ -4860,7 +5176,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Denizli"
     },
     {
       "location": {
@@ -4875,7 +5192,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Diyarbakır"
     },
     {
       "location": {
@@ -4890,7 +5208,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Düzce"
     },
     {
       "location": {
@@ -4905,7 +5224,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Edirne"
     },
     {
       "location": {
@@ -4920,7 +5240,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Elazığ"
     },
     {
       "location": {
@@ -4935,7 +5256,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Erzincan"
     },
     {
       "location": {
@@ -4950,7 +5272,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Eskişehir"
     },
     {
       "location": {
@@ -4965,7 +5288,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Eskişehir"
     },
     {
       "location": {
@@ -4980,7 +5304,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Eskişehir"
     },
     {
       "location": {
@@ -4995,7 +5320,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -5010,7 +5336,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -5025,7 +5352,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Giresun"
     },
     {
       "location": {
@@ -5040,7 +5368,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hatay"
     },
     {
       "location": {
@@ -5055,7 +5384,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hatay"
     },
     {
       "location": {
@@ -5070,7 +5400,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hatay"
     },
     {
       "location": {
@@ -5085,7 +5416,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Isparta"
     },
     {
       "location": {
@@ -5100,7 +5432,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -5115,7 +5448,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -5130,7 +5464,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -5145,7 +5480,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -5160,7 +5496,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -5175,7 +5512,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -5190,7 +5528,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -5205,7 +5544,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -5220,7 +5560,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -5235,7 +5576,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -5250,7 +5592,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -5265,7 +5608,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -5280,7 +5624,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -5295,7 +5640,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -5310,7 +5656,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -5325,7 +5672,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -5340,7 +5688,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -5355,7 +5704,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -5370,7 +5720,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -5385,7 +5736,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -5400,7 +5752,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -5415,7 +5768,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -5430,7 +5784,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -5445,7 +5800,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -5460,7 +5816,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -5475,7 +5832,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -5490,7 +5848,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -5505,7 +5864,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -5520,7 +5880,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -5535,7 +5896,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -5550,7 +5912,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -5565,7 +5928,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -5580,7 +5944,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -5595,7 +5960,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -5610,7 +5976,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -5625,7 +5992,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -5640,7 +6008,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kahramanmaraş"
     },
     {
       "location": {
@@ -5655,7 +6024,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Karabük"
     },
     {
       "location": {
@@ -5670,7 +6040,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Karaman"
     },
     {
       "location": {
@@ -5685,7 +6056,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kars"
     },
     {
       "location": {
@@ -5700,7 +6072,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kayseri"
     },
     {
       "location": {
@@ -5715,7 +6088,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kırklareli"
     },
     {
       "location": {
@@ -5730,7 +6104,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kırklareli"
     },
     {
       "location": {
@@ -5745,7 +6120,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kırşehir"
     },
     {
       "location": {
@@ -5760,7 +6136,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -5775,7 +6152,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -5790,7 +6168,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -5805,7 +6184,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -5820,7 +6200,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kütahya"
     },
     {
       "location": {
@@ -5835,7 +6216,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Malatya"
     },
     {
       "location": {
@@ -5850,7 +6232,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Manisa"
     },
     {
       "location": {
@@ -5865,7 +6248,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Manisa"
     },
     {
       "location": {
@@ -5880,7 +6264,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Manisa"
     },
     {
       "location": {
@@ -5895,7 +6280,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Manisa"
     },
     {
       "location": {
@@ -5910,7 +6296,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -5925,7 +6312,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -5940,7 +6328,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -5955,7 +6344,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Muğla"
     },
     {
       "location": {
@@ -5970,7 +6360,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Muğla"
     },
     {
       "location": {
@@ -5985,7 +6376,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Muğla"
     },
     {
       "location": {
@@ -6000,7 +6392,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Niğde"
     },
     {
       "location": {
@@ -6015,7 +6408,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ordu"
     },
     {
       "location": {
@@ -6030,7 +6424,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ordu"
     },
     {
       "location": {
@@ -6045,7 +6440,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Osmaniye"
     },
     {
       "location": {
@@ -6060,7 +6456,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Rize"
     },
     {
       "location": {
@@ -6075,7 +6472,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sakarya"
     },
     {
       "location": {
@@ -6090,7 +6488,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sakarya"
     },
     {
       "location": {
@@ -6105,7 +6504,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Samsun"
     },
     {
       "location": {
@@ -6120,7 +6520,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sinop"
     },
     {
       "location": {
@@ -6135,7 +6536,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sivas"
     },
     {
       "location": {
@@ -6150,7 +6552,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -6165,7 +6568,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tekirdağ"
     },
     {
       "location": {
@@ -6180,7 +6584,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tekirdağ"
     },
     {
       "location": {
@@ -6195,7 +6600,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tekirdağ"
     },
     {
       "location": {
@@ -6210,7 +6616,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tekirdağ"
     },
     {
       "location": {
@@ -6225,7 +6632,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tokat"
     },
     {
       "location": {
@@ -6240,7 +6648,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Trabzon"
     },
     {
       "location": {
@@ -6255,7 +6664,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Uşak"
     },
     {
       "location": {
@@ -6270,7 +6680,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Yalova"
     },
     {
       "location": {
@@ -6285,7 +6696,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Zonguldak"
     },
     {
       "location": {
@@ -6300,7 +6712,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi]",
-      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Zonguldak"
     },
     {
       "location": {
@@ -6315,7 +6728,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -6330,7 +6744,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ağrı"
     },
     {
       "location": {
@@ -6345,7 +6760,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ağrı"
     },
     {
       "location": {
@@ -6360,7 +6776,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ağrı"
     },
     {
       "location": {
@@ -6375,7 +6792,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -6390,7 +6808,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Batman"
     },
     {
       "location": {
@@ -6405,7 +6824,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Batman"
     },
     {
       "location": {
@@ -6420,7 +6840,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bingöl"
     },
     {
       "location": {
@@ -6435,7 +6856,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bitlis"
     },
     {
       "location": {
@@ -6450,7 +6872,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bitlis"
     },
     {
       "location": {
@@ -6465,7 +6888,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Diyarbakır"
     },
     {
       "location": {
@@ -6480,7 +6904,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Diyarbakır"
     },
     {
       "location": {
@@ -6495,7 +6920,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Diyarbakır"
     },
     {
       "location": {
@@ -6510,7 +6936,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Diyarbakır"
     },
     {
       "location": {
@@ -6525,7 +6952,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Diyarbakır"
     },
     {
       "location": {
@@ -6540,7 +6968,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Diyarbakır"
     },
     {
       "location": {
@@ -6555,7 +6984,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Diyarbakır"
     },
     {
       "location": {
@@ -6570,7 +7000,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Diyarbakır"
     },
     {
       "location": {
@@ -6585,7 +7016,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Erzurum"
     },
     {
       "location": {
@@ -6600,7 +7032,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hakkâri"
     },
     {
       "location": {
@@ -6615,7 +7048,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hakkâri"
     },
     {
       "location": {
@@ -6630,7 +7064,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hakkâri"
     },
     {
       "location": {
@@ -6645,7 +7080,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Iğdır"
     },
     {
       "location": {
@@ -6660,7 +7096,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -6675,7 +7112,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -6690,7 +7128,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -6705,7 +7144,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -6720,7 +7160,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -6735,7 +7176,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -6750,7 +7192,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -6765,7 +7208,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kars"
     },
     {
       "location": {
@@ -6780,7 +7224,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -6795,7 +7240,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mardin"
     },
     {
       "location": {
@@ -6810,7 +7256,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mardin"
     },
     {
       "location": {
@@ -6825,7 +7272,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mardin"
     },
     {
       "location": {
@@ -6840,7 +7288,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mardin"
     },
     {
       "location": {
@@ -6855,7 +7304,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -6870,7 +7320,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -6885,7 +7336,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Muş"
     },
     {
       "location": {
@@ -6900,7 +7352,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Muş"
     },
     {
       "location": {
@@ -6915,7 +7368,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Siirt"
     },
     {
       "location": {
@@ -6930,7 +7384,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Siirt"
     },
     {
       "location": {
@@ -6945,7 +7400,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -6960,7 +7416,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -6975,7 +7432,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -6990,7 +7448,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -7005,7 +7464,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şırnak"
     },
     {
       "location": {
@@ -7020,7 +7480,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şırnak"
     },
     {
       "location": {
@@ -7035,7 +7496,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şırnak"
     },
     {
       "location": {
@@ -7050,7 +7512,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tunceli"
     },
     {
       "location": {
@@ -7065,7 +7528,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Van"
     },
     {
       "location": {
@@ -7080,7 +7544,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Van"
     },
     {
       "location": {
@@ -7095,7 +7560,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Van"
     },
     {
       "location": {
@@ -7110,7 +7576,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Van"
     },
     {
       "location": {
@@ -7125,7 +7592,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Van"
     },
     {
       "location": {
@@ -7140,7 +7608,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi]",
-      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Van"
     },
     {
       "location": {
@@ -7155,7 +7624,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -7170,7 +7640,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -7185,7 +7656,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Afyonkarahisar"
     },
     {
       "location": {
@@ -7200,7 +7672,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -7215,7 +7688,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (II)"
     },
     {
       "location": {
@@ -7230,7 +7704,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (III)"
     },
     {
       "location": {
@@ -7245,7 +7720,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -7260,7 +7736,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -7275,7 +7752,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Balıkesir"
     },
     {
       "location": {
@@ -7290,7 +7768,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (I)"
     },
     {
       "location": {
@@ -7305,7 +7784,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (II)"
     },
     {
       "location": {
@@ -7320,7 +7800,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Çankırı"
     },
     {
       "location": {
@@ -7335,7 +7816,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Çorum"
     },
     {
       "location": {
@@ -7350,7 +7832,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Elazığ"
     },
     {
       "location": {
@@ -7365,7 +7848,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Erzurum"
     },
     {
       "location": {
@@ -7380,7 +7864,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -7395,7 +7880,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Giresun"
     },
     {
       "location": {
@@ -7410,7 +7896,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gümüşhane"
     },
     {
       "location": {
@@ -7425,7 +7912,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hatay"
     },
     {
       "location": {
@@ -7440,7 +7928,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -7455,7 +7944,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -7470,7 +7960,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -7485,7 +7976,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -7500,7 +7992,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -7515,7 +8008,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -7530,7 +8024,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kahramanmaraş"
     },
     {
       "location": {
@@ -7545,7 +8040,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kayseri"
     },
     {
       "location": {
@@ -7560,7 +8056,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kayseri"
     },
     {
       "location": {
@@ -7575,7 +8072,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kırıkkale"
     },
     {
       "location": {
@@ -7590,7 +8088,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -7605,7 +8104,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -7620,7 +8120,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -7635,7 +8136,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kütahya"
     },
     {
       "location": {
@@ -7650,7 +8152,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Malatya"
     },
     {
       "location": {
@@ -7665,7 +8168,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Manisa"
     },
     {
       "location": {
@@ -7680,7 +8184,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -7695,7 +8200,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Nevşehir"
     },
     {
       "location": {
@@ -7710,7 +8216,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Niğde"
     },
     {
       "location": {
@@ -7725,7 +8232,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ordu"
     },
     {
       "location": {
@@ -7740,7 +8248,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Osmaniye"
     },
     {
       "location": {
@@ -7755,7 +8264,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sakarya"
     },
     {
       "location": {
@@ -7770,7 +8280,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Samsun"
     },
     {
       "location": {
@@ -7785,7 +8296,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Sivas"
     },
     {
       "location": {
@@ -7800,7 +8312,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Şanlıurfa"
     },
     {
       "location": {
@@ -7815,7 +8328,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tokat"
     },
     {
       "location": {
@@ -7830,7 +8344,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi]",
-      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Yozgat"
     },
     {
       "location": {
@@ -7845,7 +8360,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -7860,7 +8376,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Afyonkarahisar"
     },
     {
       "location": {
@@ -7875,7 +8392,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Aksaray"
     },
     {
       "location": {
@@ -7890,7 +8408,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -7905,7 +8424,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (III)"
     },
     {
       "location": {
@@ -7920,7 +8440,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -7935,7 +8456,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Aydın"
     },
     {
       "location": {
@@ -7950,7 +8472,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Balıkesir"
     },
     {
       "location": {
@@ -7965,7 +8488,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Balıkesir"
     },
     {
       "location": {
@@ -7980,7 +8504,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (I)"
     },
     {
       "location": {
@@ -7995,7 +8520,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (II)"
     },
     {
       "location": {
@@ -8010,7 +8536,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Çanakkale"
     },
     {
       "location": {
@@ -8025,7 +8552,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Denizli"
     },
     {
       "location": {
@@ -8040,7 +8568,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Edirne"
     },
     {
       "location": {
@@ -8055,7 +8584,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -8070,7 +8600,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hatay"
     },
     {
       "location": {
@@ -8085,7 +8616,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -8100,7 +8632,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -8115,7 +8648,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -8130,7 +8664,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -8145,7 +8680,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -8160,7 +8696,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -8175,7 +8712,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -8190,7 +8728,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Manisa"
     },
     {
       "location": {
@@ -8205,7 +8744,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -8220,7 +8760,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Muğla"
     },
     {
       "location": {
@@ -8235,7 +8776,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Samsun"
     },
     {
       "location": {
@@ -8250,7 +8792,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Tekirdağ"
     },
     {
       "location": {
@@ -8265,7 +8808,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Trabzon"
     },
     {
       "location": {
@@ -8280,7 +8824,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi]",
-      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Yozgat"
     },
     {
       "location": {
@@ -8295,7 +8840,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -8310,7 +8856,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -8325,7 +8872,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (II)"
     },
     {
       "location": {
@@ -8340,7 +8888,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Ankara (III)"
     },
     {
       "location": {
@@ -8355,7 +8904,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Antalya"
     },
     {
       "location": {
@@ -8370,7 +8920,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (I)"
     },
     {
       "location": {
@@ -8385,7 +8936,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Bursa (II)"
     },
     {
       "location": {
@@ -8400,7 +8952,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Denizli"
     },
     {
       "location": {
@@ -8415,7 +8968,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -8430,7 +8984,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Hatay"
     },
     {
       "location": {
@@ -8445,7 +9000,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -8460,7 +9016,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -8475,7 +9032,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -8490,7 +9048,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -8505,7 +9064,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -8520,7 +9080,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -8535,7 +9096,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (II)"
     },
     {
       "location": {
@@ -8550,7 +9112,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -8565,7 +9128,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Muğla"
     },
     {
       "location": {
@@ -8580,7 +9144,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti]",
-      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Samsun"
     },
     {
       "location": {
@@ -8595,7 +9160,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol]",
-      "counterClockwise": "[Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -8610,7 +9176,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol]",
-      "counterClockwise": "[Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -8625,7 +9192,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol]",
-      "counterClockwise": "[Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Kocaeli"
     },
     {
       "location": {
@@ -8640,7 +9208,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol]",
-      "counterClockwise": "[Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Konya"
     },
     {
       "location": {
@@ -8655,7 +9224,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi]",
-      "counterClockwise": "[Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Batman"
     },
     {
       "location": {
@@ -8670,7 +9240,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi]",
-      "counterClockwise": "[Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -8685,7 +9256,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi]",
-      "counterClockwise": "[Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -8700,7 +9272,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi]",
-      "counterClockwise": "[Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Mersin"
     },
     {
       "location": {
@@ -8715,7 +9288,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi]",
-      "counterClockwise": "[Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -8730,7 +9304,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi]",
-      "counterClockwise": "[Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -8745,7 +9320,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi]",
-      "counterClockwise": "[Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -8760,7 +9336,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi]",
-      "counterClockwise": "[Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Batman"
     },
     {
       "location": {
@@ -8775,7 +9352,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi]",
-      "counterClockwise": "[Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -8790,7 +9368,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi]",
-      "counterClockwise": "[Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "Gaziantep"
     },
     {
       "location": {
@@ -8805,7 +9384,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi]",
-      "counterClockwise": "[Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Demokratik Sol Parti][Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -8820,7 +9400,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi]",
-      "counterClockwise": "[Demokrat Parti][Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Demokrat Parti][Saadet Partisi][Bağımsız][Boş]",
+      "province": "İstanbul (II)"
     },
     {
       "location": {
@@ -8835,7 +9416,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti]",
-      "counterClockwise": "[Saadet Partisi][Bağımsız][Boş]"
+      "counterClockwise": "[Saadet Partisi][Bağımsız][Boş]",
+      "province": "İzmir (I)"
     },
     {
       "location": {
@@ -8850,7 +9432,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti]",
-      "counterClockwise": "[Bağımsız][Boş]"
+      "counterClockwise": "[Bağımsız][Boş]",
+      "province": "Kayseri"
     },
     {
       "location": {
@@ -8865,7 +9448,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi]",
-      "counterClockwise": "[Boş]"
+      "counterClockwise": "[Boş]",
+      "province": "Adana"
     },
     {
       "location": {
@@ -8880,7 +9464,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi]",
-      "counterClockwise": "[Boş]"
+      "counterClockwise": "[Boş]",
+      "province": "Aksaray"
     },
     {
       "location": {
@@ -8895,7 +9480,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi]",
-      "counterClockwise": "[Boş]"
+      "counterClockwise": "[Boş]",
+      "province": "Ankara (I)"
     },
     {
       "location": {
@@ -8910,7 +9496,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi]",
-      "counterClockwise": "[Boş]"
+      "counterClockwise": "[Boş]",
+      "province": "Bolu"
     },
     {
       "location": {
@@ -8925,7 +9512,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi]",
-      "counterClockwise": "[Boş]"
+      "counterClockwise": "[Boş]",
+      "province": "Edirne"
     },
     {
       "location": {
@@ -8940,7 +9528,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi]",
-      "counterClockwise": "[Boş]"
+      "counterClockwise": "[Boş]",
+      "province": "Isparta"
     },
     {
       "location": {
@@ -8955,7 +9544,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi]",
-      "counterClockwise": "[Boş]"
+      "counterClockwise": "[Boş]",
+      "province": "İstanbul (I)"
     },
     {
       "location": {
@@ -8970,7 +9560,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi]",
-      "counterClockwise": "[Boş]"
+      "counterClockwise": "[Boş]",
+      "province": "İstanbul (III)"
     },
     {
       "location": {
@@ -8985,7 +9576,8 @@ export const representativeData = {
         "allianceName": ""
       },
       "clockwise": "[Adalet ve Kalkınma Partisi][Cumhuriyet Halk Partisi][Halkların Eşitlik ve Demokrasi Partisi][Milliyetçi Hareket Partisi][İYİ Parti][Yeni Yol][Yeniden Refah Partisi][Hür Dava Partisi][Türkiye İşçi Partisi][Demokratik Bölgeler Partisi][Emek Partisi][Demokratik Sol Parti][Demokrat Parti][Saadet Partisi]",
-      "counterClockwise": "[Boş]"
+      "counterClockwise": "[Boş]",
+      "province": "Kilis"
     },
     {
       "location": {

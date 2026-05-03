@@ -7,5 +7,6 @@ export type Representative = {
     y: number
   },
   counterClockwise: string,
-  clockwise: string
+  clockwise: string,
+  province?: string
 };
