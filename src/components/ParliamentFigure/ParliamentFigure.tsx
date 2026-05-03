@@ -2,10 +2,11 @@ import { ComponentProps, ElementType, FC, useMemo, useState } from "react";
 import { Mode, ModeSwitch } from "../ModeSwitch";
 import { ParliamentChart, ParliamentChartProps } from "../ParliamentChart";
 import { PartyLegend } from "../PartyLegend";
+import { ParliamentMap } from "../ParliamentMap";
 
 const diagramModeRenderMap: Record<Mode, ElementType<ParliamentChartProps>> = {
   'chart': ParliamentChart,
-  'map': ParliamentChart
+  'map': ParliamentMap
 };
 
 type ParliamentFigureProps = ComponentProps<typeof ParliamentChart> & 
@@ -31,7 +32,7 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
       selectedMode={diagramMode}
     />
     <figure
-      className="max-w-200 max-h-110 w-full flex flex-col"
+      className="sm:w-160 w-80 max-h-113 flex flex-col"
     >
       <RenderElement representatives={representatives}/>
       <figcaption>
