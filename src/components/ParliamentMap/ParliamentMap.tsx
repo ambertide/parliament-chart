@@ -1,12 +1,11 @@
-import { Party, Representative } from '@/types';
+import { Representative } from '@/types';
 import {MapSvg} from '../../assets/images/MapSvg';
 import { FC } from 'react';
 import { useFillPaintSeats } from '@/hooks';
 import { Attribution } from './Attribution';
 
 type ParliamentMapProps = {
-  representatives: Representative[],
-  parties: Party[]
+  representatives: Representative[]
 };
 
 

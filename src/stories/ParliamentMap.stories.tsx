@@ -22,7 +22,6 @@ type Story = StoryObj<typeof meta>;
 
 export const DefaultStory: Story = {
   args: {
-    representatives: representativeData.representatives,
-    parties: []
+    representatives: representativeData.representatives
   }
 };
