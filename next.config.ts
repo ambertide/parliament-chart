@@ -1,4 +1,5 @@
 import type { NextConfig } from "next";
+import createMDX from '@next/mdx';
 
 const nextConfig: NextConfig = {
   redirects: async () => ([
@@ -12,8 +13,13 @@ const nextConfig: NextConfig = {
       destination: "/:lang/terms/:term/formation",
       permanent: false
     }
-  ])
+  ]),
+  pageExtensions: ['ts', 'tsx', 'md']
   /* config options here */
 };
 
-export default nextConfig;
+const withMDX = createMDX({
+  extension: /\.(md|mdx)$/,
+});
+
+export default withMDX(nextConfig);

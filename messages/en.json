@@ -49,5 +49,8 @@
     },
     "Utils": {
         "SwitchLanguage": "Switch Language"
+    },
+    "Attribution": {
+        "Attribution": "Attribution"
     }
 }

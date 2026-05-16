@@ -30,5 +30,8 @@
     },
     "Utils": {
         "SwitchLanguage": "Dil Değiştir"
+    },
+    "Attribution": {
+        "Attribution": "Atıf Metni"
     }
 }
