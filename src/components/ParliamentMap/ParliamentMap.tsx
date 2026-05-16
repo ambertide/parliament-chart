@@ -1,7 +1,6 @@
 import { Party, Representative } from '@/types';
 import {MapSvg} from '../../assets/images/MapSvg';
-import { FC, useCallback } from 'react';
-import { usePlaceSeatsToRenderedMap } from '@/hooks';
+import { FC, useCallback, useEffect } from 'react';
 
 type ParliamentMapProps = {
   representatives: Representative[],
@@ -9,7 +8,24 @@ type ParliamentMapProps = {
 };
 
 const nameToASCII = (n: string) => (
-  n.replaceAll('İ', 'I').replaceAll('Ç', 'C').replaceAll('Ş', 'S')
+  n.replaceAll('İ', 'I')
+    .replaceAll('ı', 'i')
+    .replaceAll('Ç', 'C')
+    .replaceAll('ç', 'c')
+    .replaceAll('Ş', 'S')
+    .replaceAll('ş', 's')
+    .replaceAll('Ü', 'U')
+    .replaceAll('ü', 'u')
+    .replaceAll('Ö', 'O')
+    .replaceAll('ö', 'o')
+    .replaceAll('Ğ', 'G')
+    .replaceAll('ğ', 'g')
+    .replaceAll(' ', '_')
+    .replaceAll('(I)', '(i)')
+    .replaceAll('(II)', '(ii)')
+    .replaceAll('(III)', '(iii)')
+    .replaceAll('â', 'a')
+
 );
 
 export const ParliamentMap: FC<ParliamentMapProps> = ({ representatives }) => {
@@ -39,15 +55,17 @@ export const ParliamentMap: FC<ParliamentMapProps> = ({ representatives }) => {
         const nextSeatToColor = maybeSeatsOfProvinces?.pop();
         if (nextSeatToColor) {
           nextSeatToColor.style.fill = party.partyColor;
+        } else {
+          debugger;
         }
       }
     });
   }, [
     representatives
   ]);
-  usePlaceSeatsToRenderedMap(
-    onColourSeatsRequests
-  );
+  useEffect(() => {
+    onColourSeatsRequests();
+  }, [onColourSeatsRequests]);
   return (
     <div
       className="my-5 parliament-map"
