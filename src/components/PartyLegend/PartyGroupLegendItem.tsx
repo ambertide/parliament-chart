@@ -7,7 +7,7 @@ type PartyLegendItemProps = {
   groupName: string,
   groupColor: string,
   partiesInGroup: Party[]
-}
+};
 
 /**
  * A group of party items
@@ -43,5 +43,5 @@ export const PartyGroupLegendItem: FC<PartyLegendItemProps> = ({
         ))}
       </ul>
     </li>
-  )
-}
+  );
+};

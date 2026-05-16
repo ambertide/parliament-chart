@@ -20,7 +20,7 @@ type UseSortedRepresentatives = (p:{
   representatives: Representative[],
   sortedParties: Party[],
   repsByParty: RepsByParty
-}
+};
 
 const sortRepresentatives = (representatives: PreSortRepresentative[]) => (
   representatives.sort(
@@ -32,7 +32,7 @@ const sortRepresentatives = (representatives: PreSortRepresentative[]) => (
         ? (tA - tB)
         : (rA - rB)
     )).toReversed()
-)
+);
 
 /**
  * Sort the representatives and the parties.
@@ -42,7 +42,7 @@ export const useSortedRepresentatives: UseSortedRepresentatives = ({
   groupBy,
   representatives
 }) => {
-  const sortedRepresentatives = sortRepresentatives(representatives)
+  const sortedRepresentatives = sortRepresentatives(representatives);
   const sortedParties = useSortedParties({ parties, groupBy, flatten: true });
   let currentPartyIndex = 0;
   const repsUpdated: Representative[] = [];
@@ -102,5 +102,5 @@ export const useSortedRepresentatives: UseSortedRepresentatives = ({
     representatives: repsUpdated,
     repsByParty: representativesByParty,
     sortedParties
-  }
-}
+  };
+};

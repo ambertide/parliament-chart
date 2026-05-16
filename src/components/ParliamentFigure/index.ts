@@ -1,0 +1,1 @@
+export { ParliamentFigure } from './ParliamentFigure';

@@ -1,0 +1,1 @@
+export { PartyLegend } from './PartyLegend';

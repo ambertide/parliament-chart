@@ -1,0 +1,3 @@
+export const Attribution = () => <span className="absolute bottom-0 right-0 text-sm text-foreground opacity-25 max-w-1/2">
+  <span className="text-emphasis">©</span> <a className="text-emphasis-secondary" href="https://commons.wikimedia.org/wiki/User:MapsandMP">MapsandMP</a>, <a className="text-emphasis-secondary" href="https://commons.wikimedia.org/wiki/File:Turkish_Electoral_District_2023.svg">Turkish Electoral District 2023</a>, removed numbers and added seats by Ege Özkan, <a className="text-emphasis-secondary" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-SA 4.0</a>
+</span>;

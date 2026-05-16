@@ -1,7 +1,7 @@
-import { FC } from "react"
-import { PartyGroupLegendItem } from "./PartyGroupLegendItem"
-import { PartyLegendItem } from "./PartyLegendItem"
-import { Party } from "@/types"
+import { FC } from "react";
+import { PartyLegendItem } from "./PartyLegendItem";
+import { Party } from "@/types";
+import { PartyGroupLegendItem } from "./PartyGroupLegendItem";
 
 type PartyLegenedProps = {
   groupBy: 'deputies',
@@ -17,7 +17,7 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
 }) => {
   return (
     <ol
-      className="flex flex-wrap flex-col gap-1 md:max-h-28 sm:max-h-80"
+      className="flex flex-wrap flex-col gap-1 max-h-48 sm:max-h-28"
     >
       {
         groupBy === 'deputies'
@@ -37,5 +37,5 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
                 partiesInGroup={parties}
               />)
       }
-    </ol>)    
-}
+    </ol>);    
+};

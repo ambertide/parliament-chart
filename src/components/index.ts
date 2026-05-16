@@ -1,3 +1,3 @@
-export { ParliamentChart } from "./Chart/ParliamentChart";
-export { ParliamentFigure } from "./Chart/ParliamentFigure";
-export { LanguageSelect } from "./LanguageSelect"
+export { LanguageSelect } from "./LanguageSelect";
+export { ModeSwitch } from './ModeSwitch';
+export { ParliamentFigure } from "./ParliamentFigure";
