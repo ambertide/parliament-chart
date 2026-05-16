@@ -6,7 +6,7 @@ import { ModeSwitch } from '../components';
 import { useArgs } from 'storybook/internal/preview-api';
 
 const meta = {
-  title: 'Example/ModeSwitch',
+  title: 'Components/ModeSwitch',
   component: ModeSwitch,
   // This component will have an automatically generated Autodocs entry: https://storybook.js.org/docs/writing-docs/autodocs
   tags: ['autodocs'],

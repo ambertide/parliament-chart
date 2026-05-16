@@ -1,11 +1,11 @@
 import type { Meta, StoryObj } from '@storybook/nextjs-vite';
 
-import { ParliamentFigure } from '../components';
 import { representativeData } from './mocks';
+import { ParliamentMap } from '@/components/ParliamentMap';
 
 const meta = {
-  title: 'Components/ParliamentFigure',
-  component: ParliamentFigure,
+  title: 'Components/ParliamentMap',
+  component: ParliamentMap,
   // This component will have an automatically generated Autodocs entry: https://storybook.js.org/docs/writing-docs/autodocs
   tags: ['autodocs'],
   parameters: {
@@ -14,17 +14,15 @@ const meta = {
   },
   args: {
     representatives: [],
-    partiesOrGroups: [],
-    groupBy: 'deputies' 
   },
-} satisfies Meta<typeof ParliamentFigure>;
+} satisfies Meta<typeof ParliamentMap>;
 
 export default meta;
 type Story = StoryObj<typeof meta>;
 
-export const GroupedByDeputies: Story = {
+export const DefaultStory: Story = {
   args: {
-    groupBy: 'deputies',
-    ...representativeData
+    representatives: representativeData.representatives,
+    parties: []
   }
 };
