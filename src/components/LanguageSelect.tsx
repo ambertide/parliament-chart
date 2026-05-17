@@ -1,5 +1,5 @@
-import { useLocale, useTranslations } from "next-intl"
-import { BasicSelect } from "./common"
+import { useLocale, useTranslations } from "next-intl";
+import { BasicSelect } from "./common";
 import { useRouter } from "next/router";
 import { useCallback } from "react";
 
@@ -13,10 +13,10 @@ export const LanguageSelect = () => {
   }, [
     locale,
     router
-  ])
+  ]);
   return (
     <div
-      className="p-1 bg-background-secondary gap-1 flex absolute right-2 top-2 align-bottom"
+      className="p-1 bg-background-secondary gap-1 flex align-bottom"
     >
       <label
         htmlFor="locale-select"
@@ -44,5 +44,5 @@ export const LanguageSelect = () => {
         ]}
       />
     </div>
-  )
-}
+  );
+};

@@ -25,12 +25,12 @@ export default function RootLayout({
 }>) {
   const locale = useLocale();
   return (
-    <html lang={locale}>
+    <html lang={locale} className="h-full">
       <Head>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=account_balance,arrow_drop_down_circle,calendar_month,gavel,how_to_vote,info,sort,translate" />
       </Head>
       <body
-        className={`${ibmPlexSans.variable} ${newsreader.variable} antialiased`}
+        className={`${ibmPlexSans.variable} ${newsreader.variable} antialiased p-2 h-full`}
       >
         {children}
       </body>

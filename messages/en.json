@@ -52,5 +52,13 @@
     },
     "Attribution": {
         "Attribution": "Attribution"
+    },
+    "Header": {
+        "HOME": "HOME",
+        "DOCS": "DOCS"
+    },
+    "DocsSidebar": {
+        "Parlevents": "Parlevents",
+        "Attribution": "Attribution"
     }
 }

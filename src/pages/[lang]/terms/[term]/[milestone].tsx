@@ -37,29 +37,27 @@ export default function Term({ parties, term, lang, milestone, milestonesOfTerm,
   const [groupBy, setGroupBy] = useState<'alliance' | 'groups' | 'deputies'>('alliance');
   const { push } = useRouter();
   return (
-    <div className="flex min-h-screen items-center justify-center">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center gap-16 py-32 px-16 sm:items-start">
-        <Figure
-          groupBy={groupBy}
-          parties={parties}
-          numberOfRepresentatives={selectedTerm >= 27 ? 600 : 550}
-          individualRepresentatives={representatives}
-        />
-        <Menu
-          selectedTerm={selectedTerm}
-          selectedMilestone={milestone}
-          milestonesOfTerm={milestonesOfTerm}
-          onMilestoneSelect={newMilestone => push(`/${lang}/terms/${term}/${newMilestone}`)}
-          onTermSelect={term => push(`/${lang}/terms/${term}`)}
-          onDisplayOptionChange={e => setGroupBy(e as 'alliance' | 'groups' | 'deputies')}
-          selectedDisplayOption={groupBy}
-          displayOptions={[
-            { value: 'alliance', displayValue: t('electoralAlliance')},
-            { value: 'deputies', displayValue: t('numberOfRepresentatives')},
-            { value: 'groups', displayValue: t('parliamentaryGroups') }
-          ]}
-        />
-      </main>
+    <div className="flex flex-col gap-8">
+      <Figure
+        groupBy={groupBy}
+        parties={parties}
+        numberOfRepresentatives={selectedTerm >= 27 ? 600 : 550}
+        individualRepresentatives={representatives}
+      />
+      <Menu
+        selectedTerm={selectedTerm}
+        selectedMilestone={milestone}
+        milestonesOfTerm={milestonesOfTerm}
+        onMilestoneSelect={newMilestone => push(`/${lang}/terms/${term}/${newMilestone}`)}
+        onTermSelect={term => push(`/${lang}/terms/${term}`)}
+        onDisplayOptionChange={e => setGroupBy(e as 'alliance' | 'groups' | 'deputies')}
+        selectedDisplayOption={groupBy}
+        displayOptions={[
+          { value: 'alliance', displayValue: t('electoralAlliance')},
+          { value: 'deputies', displayValue: t('numberOfRepresentatives')},
+          { value: 'groups', displayValue: t('parliamentaryGroups') }
+        ]}
+      />
     </div>
   );
 }
