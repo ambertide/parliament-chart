@@ -27,10 +27,10 @@ export const Menu: FC<MenuProps> = ({
 }) => {
   const locale = useLocale();
   const t = useTranslations('Menu');
-  const selectedMilestoneDate = useMemo(() => new Date(Object.values(milestonesOfTerm).find(({ slug }) => selectedMilestone === slug)?.date || ''), [milestonesOfTerm, selectedMilestone])
-  const selectedMilestoneInfo = useMemo(() => Object.values(milestonesOfTerm).find(({ slug }) => selectedMilestone === slug)?.description || '', [milestonesOfTerm, selectedMilestone])
+  const selectedMilestoneDate = useMemo(() => new Date(Object.values(milestonesOfTerm).find(({ slug }) => selectedMilestone === slug)?.date || ''), [milestonesOfTerm, selectedMilestone]);
+  const selectedMilestoneInfo = useMemo(() => Object.values(milestonesOfTerm).find(({ slug }) => selectedMilestone === slug)?.description || '', [milestonesOfTerm, selectedMilestone]);
   return (
-    <menu className="w-full items-stretch flex flex-col text-lg p-4 bg-background-secondary border-4 border-background-secondary rounded-sm">
+    <menu className="w-full max-w-160 items-stretch flex flex-col text-lg p-4 bg-background-secondary border-4 border-background-secondary rounded-sm">
       <MenuItem
         icon="&#xE84F;"
       >
@@ -97,5 +97,5 @@ export const Menu: FC<MenuProps> = ({
         </MenuItem>)
       }
     </menu>
-  )
-}
+  );
+};
