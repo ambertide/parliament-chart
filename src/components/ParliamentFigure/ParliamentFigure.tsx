@@ -32,9 +32,13 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
       selectedMode={diagramMode}
     />
     <figure
-      className="sm:w-160 w-80 max-h-113 flex flex-col"
+      className="sm:w-160 w-80 flex flex-col gap-5"
     >
-      <RenderElement representatives={representatives}/>
+      <div
+        className="h-46 sm:h-96 box-border"
+      >
+        <RenderElement representatives={representatives}/>
+      </div>
       <figcaption>
         <PartyLegend {...legendProps} />
       </figcaption>

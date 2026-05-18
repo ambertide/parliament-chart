@@ -1,5 +1,5 @@
 export const MapSvg = () => (
-  <svg width="552" height="323" viewBox="0 0 552 323" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <svg viewBox="0 0 552 323" fill="none" xmlns="http://www.w3.org/2000/svg">
     <g id="map">
       <g id="istanbul">
         <g id="istanbul_(iii)_seats">

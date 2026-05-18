@@ -13,7 +13,7 @@ export const ParliamentMap: FC<ParliamentMapProps> = ({ representatives }) => {
   useFillPaintSeats(representatives);
   return (
     <div
-      className="my-5 parliament-map relative flex flex-col items-center"
+      className="parliament-map relative flex flex-col items-center w-full"
     >
       <MapSvg />
       <Attribution />
