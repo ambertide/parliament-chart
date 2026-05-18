@@ -35,7 +35,7 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
       className="sm:w-160 w-80 flex flex-col gap-5"
     >
       <div
-        className="h-46 sm:h-96 box-border"
+        className="h-46 sm:h-96 box-border flex flex-col items-center justify-center"
       >
         <RenderElement representatives={representatives}/>
       </div>
