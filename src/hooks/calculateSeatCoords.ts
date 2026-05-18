@@ -1,9 +1,9 @@
 import { IndividualRepresentative, Party, Representative } from "@/types";
 import { calculateRotatedCoordinates } from "./useRotatedCoordinates";
 import {
-  useSortedRepresentatives,
+  sortRepresentatives,
   type PreSortRepresentative,
-} from "./useSortedRepresentatives";
+} from "./sortRepresenatives";
 import { useMemo } from "react";
 
 const OPTIMAL_DISTANCE = 15;
@@ -180,7 +180,7 @@ const calculateBenches = (numberOfRepresentatives = 600) =>
     calculationFunction(numberOfRepresentatives),
   );
 
-type UseCalculateDiagramCircles = (p: {
+type CalculateSeatCoords = (p: {
   parties: Party[];
   groupBy: "deputies" | "groups" | "alliance";
   numberOfRepresentatives: number;
@@ -190,7 +190,7 @@ type UseCalculateDiagramCircles = (p: {
   sortedParties: Party[] | [string, Party[]][];
 };
 
-export const useCalculateDiagramCircles: UseCalculateDiagramCircles = ({
+export const calculateSeatCoords: CalculateSeatCoords = ({
   parties,
   groupBy,
   numberOfRepresentatives,
@@ -198,27 +198,22 @@ export const useCalculateDiagramCircles: UseCalculateDiagramCircles = ({
 }) => {
   const preSortRepresentatives = calculateBenches(numberOfRepresentatives);
   const { representatives: preAssignedRepresentatives, repsByParty, sortedParties } =
-    useSortedRepresentatives({
+    sortRepresentatives({
       parties,
       groupBy,
       representatives: preSortRepresentatives,
     });
-  const representatives = useMemo(() => {
-    const assignSpace = [...individualRepresentatives];
-    return preAssignedRepresentatives.map(rep => {
-      const maybeSelf = assignSpace.findIndex(needle => needle.party === rep.party.partyName);
-      // Try to assign the provinces to the calculated locations.
-      // if we can find them.
-      if (maybeSelf >= 0) {
-        rep.province = assignSpace[maybeSelf].province;
-        assignSpace.splice(maybeSelf, 1);
-      }
-      return rep;
-    });
-  }, [
-    preAssignedRepresentatives,
-    individualRepresentatives
-  ]);
+  const assignSpace = [...individualRepresentatives];
+  const representatives =preAssignedRepresentatives.map(rep => {
+    const maybeSelf = assignSpace.findIndex(needle => needle.party === rep.party.partyName);
+    // Try to assign the provinces to the calculated locations.
+    // if we can find them.
+    if (maybeSelf >= 0) {
+      rep.province = assignSpace[maybeSelf].province;
+      assignSpace.splice(maybeSelf, 1);
+    }
+    return rep;
+  });
   return {
     representatives,
     sortedParties,

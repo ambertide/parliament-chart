@@ -1,5 +1,5 @@
 import { Party, Representative } from "@/types";
-import { useSortedParties } from "./useSortedParties";
+import { sortParties } from "./sortParties";
 
 export type PreSortRepresentative = Omit<Representative, 'party' | 'clockwise' | 'counterClockwise'> & { angle: number, distanceFromCentre: number};
 type RepsByParty = Record<
@@ -12,7 +12,7 @@ type RepsByParty = Record<
 >;
 
 
-type UseSortedRepresentatives = (p:{
+type SortRepresentatives = (p:{
   parties: Party[],
   groupBy: 'deputies' | 'groups' | 'alliance',
   representatives: PreSortRepresentative[]
@@ -22,7 +22,7 @@ type UseSortedRepresentatives = (p:{
   repsByParty: RepsByParty
 };
 
-const sortRepresentatives = (representatives: PreSortRepresentative[]) => (
+const sortSeats = (representatives: PreSortRepresentative[]) => (
   representatives.sort(
     (
       {angle: tA, distanceFromCentre: rA},
@@ -37,13 +37,13 @@ const sortRepresentatives = (representatives: PreSortRepresentative[]) => (
 /**
  * Sort the representatives and the parties.
  */
-export const useSortedRepresentatives: UseSortedRepresentatives = ({
+export const sortRepresentatives: SortRepresentatives = ({
   parties,
   groupBy,
   representatives
 }) => {
-  const sortedRepresentatives = sortRepresentatives(representatives);
-  const sortedParties = useSortedParties({ parties, groupBy, flatten: true });
+  const sortedRepresentatives = sortSeats(representatives);
+  const sortedParties = sortParties({ parties, groupBy, flatten: true });
   let currentPartyIndex = 0;
   const repsUpdated: Representative[] = [];
   const repsClone = [...sortedRepresentatives];

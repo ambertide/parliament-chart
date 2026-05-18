@@ -1,5 +1,5 @@
 import { ParliamentFigure } from "@/components";
-import { useCalculateDiagramCircles, useSortedParties } from "@/hooks";
+import { sortParties, calculateSeatCoords } from "@/hooks";
 import { IndividualRepresentative, Party } from "@/types";
 import { FC } from "react";
 
@@ -19,17 +19,14 @@ export const Figure: FC<FigureProps> = ({
   const {
     representatives,
     sortedParties: _
-  } = useCalculateDiagramCircles({
+  } = calculateSeatCoords({
     parties,
     groupBy,
     numberOfRepresentatives,
     individualRepresentatives
   });
 
-  console.log(representatives);
-  const partiesOrGroups = useSortedParties({ parties, groupBy, flatten: false as true}); // < Makes sense in the context.
-  console.log(parties);
-  console.log(representatives);
+  const partiesOrGroups = sortParties({ parties, groupBy, flatten: false as true}); // < Makes sense in the context.
   return <ParliamentFigure
     partiesOrGroups={partiesOrGroups}
     representatives={representatives}

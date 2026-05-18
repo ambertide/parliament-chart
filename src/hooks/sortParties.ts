@@ -132,32 +132,28 @@ const injectVacancies = (parties: Party[]): Party[] => {
   ];
 };
 
-export function useSortedParties(p: FlattenedProps): Party[];
-export function useSortedParties(p: UnflattenedPartyOutput): Party[];
-export function useSortedParties(p: UnflattenedGroupOutput): [string, Party[]];
-export function useSortedParties({
+export function sortParties(p: FlattenedProps): Party[];
+export function sortParties(p: UnflattenedPartyOutput): Party[];
+export function sortParties(p: UnflattenedGroupOutput): [string, Party[]];
+export function sortParties({
   parties: partiesWOVacancies,
   groupBy,
   flatten 
 }: TotalProps): [string, Party[]] | Party[] {
-  return useMemo(
-    () => {
-      const parties = injectVacancies(partiesWOVacancies);
-      if (!flatten && ['alliance', 'groups'].includes(groupBy)) {
-        return sortAndGroupParties(
-          parties as any,
-          groupBy as any,
-          flatten as any
-        );
-      }
-      return swapIndependentsAndVacants(
-        sortAndGroupParties(
-          parties as any,
-          groupBy as any,
-          flatten as any
-        )
-      );
-    },
-    [partiesWOVacancies, groupBy, flatten]
+  
+  const parties = injectVacancies(partiesWOVacancies);
+  if (!flatten && ['alliance', 'groups'].includes(groupBy)) {
+    return sortAndGroupParties(
+      parties as any,
+      groupBy as any,
+      flatten as any
+    );
+  }
+  return swapIndependentsAndVacants(
+    sortAndGroupParties(
+      parties as any,
+      groupBy as any,
+      flatten as any
+    )
   );
 }

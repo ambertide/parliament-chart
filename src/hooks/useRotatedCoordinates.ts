@@ -8,7 +8,7 @@ type UseRotatedCoordinates = (p: {
   pointO: Point;
   /** Point around which the original point is rotated. */
   canvasPivotPointO: Point;
-}) => Point
+}) => Point;
 
 export const calculateRotatedCoordinates: UseRotatedCoordinates = ({
   angleOfRotation,
@@ -47,7 +47,7 @@ export const calculateRotatedCoordinates: UseRotatedCoordinates = ({
     x: roundedX,
     y: roundedY
   };
-}
+};
 
 export const useRotatedCoordinates: UseRotatedCoordinates = ({
   angleOfRotation,
@@ -66,4 +66,4 @@ export const useRotatedCoordinates: UseRotatedCoordinates = ({
       pointO,
       canvasPivotPointO
     ]);
-}
+};
