@@ -1,0 +1,12 @@
+steps:
+      - name: 'ubuntu'
+        args: ['wget', '-qO-', 'https://get.pnpm.io/install.sh', '|', 'ENV="$HOME/.bashrc"', 'SHELL="$(which bash)"', 'bash', '-']
+
+      - name: 'ubuntu'
+        args: ['pnpm', 'i']
+
+      - name: 'ubuntu'
+        args: ['pnpm', 'run', 'build']
+
+      - name: us-docker.pkg.dev/firebase-cli/us/firebase
+        args: ['deploy', '--project=$PROJECT_ID', '--only=hosting']
