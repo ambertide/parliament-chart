@@ -99,6 +99,12 @@ resource "google_project_iam_member" "ghtrigger_service_account_roles" {
 }
 
 
+resource "google_project_iam_member" "ghtrigger_service_account_firebase_role" {
+  project = google_project.default.project_id
+  role    = "roles/firebase.admin"
+  member  = "serviceAccount:${google_service_account.ghtrigger_service_account.email}"
+}
+
 resource "google_secret_manager_secret_version" "github_token_secret_version" {
   secret      = google_secret_manager_secret.github_token_secret.id
   secret_data = var.github_pat
