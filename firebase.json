@@ -1,0 +1,18 @@
+{
+    "hosting": {
+        "public": "out",
+        "rewrites": [
+            {
+                "source": "**",
+                "destination": "/$&.html"
+            }
+        ],
+        "cleanUrls": true,
+        "ignore": [
+            "firebase.json",
+            "**/.*",
+            "**/terraform/**",
+            "**/node_modules/**"
+        ]
+    }
+}
