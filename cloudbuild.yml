@@ -1,4 +1,11 @@
 steps:
+      - id: Build
+        name: 'node:20'
+        script: |
+          #!/usr/bin/env bash
+          npm install --global pnpm@10.28.1
+          pnpm install
+          pnpm run build
       - name: us-docker.pkg.dev/firebase-cli/us/firebase
         args: ['deploy', '--project=$PROJECT_ID', '--only=hosting']
 options:
