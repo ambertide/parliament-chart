@@ -1,13 +1,4 @@
 steps:
-      - name: 'ubuntu'
-        args: ['curl', '-fsSL', 'https://get.pnpm.io/install.sh', '|', 'sh', '-']
-
-      - name: 'ubuntu'
-        args: ['pnpm', 'i']
-
-      - name: 'ubuntu'
-        args: ['pnpm', 'run', 'build']
-
       - name: us-docker.pkg.dev/firebase-cli/us/firebase
         args: ['deploy', '--project=$PROJECT_ID', '--only=hosting']
 options:
