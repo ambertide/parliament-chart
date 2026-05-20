@@ -1,6 +1,6 @@
 steps:
       - id: Build
-        name: 'node:20'
+        name: 'node:25'
         script: |
           #!/usr/bin/env bash
           npm install --global pnpm@10.28.1
