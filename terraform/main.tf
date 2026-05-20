@@ -86,15 +86,27 @@ resource "google_secret_manager_secret" "github_token_secret" {
   }
 }
 
+resource "google_service_account" "ghtrigger_service_account" {
+  project      = google_project.default.project_id
+  account_id   = "cloudbuild-github-agent"
+  display_name = "Cloud Build GitHub Service Account"
+}
+
+resource "google_project_iam_member" "ghtrigger_service_account_roles" {
+  project = google_project.default.project_id
+  role    = "roles/cloudbuild.builds.builder"
+  member  = "serviceAccount:${google_service_account.ghtrigger_service_account.email}"
+}
+
+
 resource "google_secret_manager_secret_version" "github_token_secret_version" {
   secret      = google_secret_manager_secret.github_token_secret.id
   secret_data = var.github_pat
 }
-
 data "google_iam_policy" "serviceagent_secretAccessor" {
   binding {
     role    = "roles/secretmanager.secretAccessor"
-    members = ["serviceAccount:${google_project.default.number}-compute@developer.gserviceaccount.com"]
+    members = ["serviceAccount:${google_service_account.ghtrigger_service_account.email}"]
   }
 }
 
@@ -122,7 +134,7 @@ resource "google_cloudbuildv2_connection" "parlichart_connection" {
 resource "google_cloudbuildv2_repository" "parlichart_repo" {
   project           = google_project.default.project_id
   location          = "us-east1"
-  name              = "ambertide/parliament-chart"
+  name              = "parliament-chart"
   parent_connection = google_cloudbuildv2_connection.parlichart_connection.name
   remote_uri        = "https://github.com/ambertide/parliament-chart.git"
 }
@@ -137,6 +149,7 @@ resource "google_cloudbuild_trigger" "parlichart_on_push" {
     }
   }
 
-  service_account = "projects/${google_project.default.project_id}/serviceAccounts/${google_project.default.number}-compute@developer.gserviceaccount.com"
+  service_account = google_service_account.ghtrigger_service_account.id
   filename        = "cloudbuild.yml"
+  depends_on      = [google_secret_manager_secret_iam_policy.policy]
 }
