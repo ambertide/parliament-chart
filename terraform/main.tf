@@ -1,20 +1,4 @@
 # Creates a new Google Cloud project.
-
-variable "gcp_billing_account" {
-  type        = string
-  description = "GCP Billing Account ID"
-}
-
-variable "github_pat" {
-  type        = string
-  description = "GitHub PAT Value GCP uses."
-}
-
-variable "github_google_cloud_build_app_id" {
-  type        = string
-  description = "ID of the GCP Cloud Build connector app on parlichart"
-}
-
 resource "google_project" "default" {
   provider = google-beta.no_user_project_override
 
