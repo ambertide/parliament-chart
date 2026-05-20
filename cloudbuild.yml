@@ -1,6 +1,6 @@
 steps:
       - name: 'ubuntu'
-        args: ['curl', '-fsSL', 'https://get.pnpm.io/install.sh', '|', 'sh' '-']
+        args: ['curl', '-fsSL', 'https://get.pnpm.io/install.sh', '|', 'sh', '-']
 
       - name: 'ubuntu'
         args: ['pnpm', 'i']
