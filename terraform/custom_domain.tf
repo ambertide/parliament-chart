@@ -4,15 +4,17 @@ resource "google_firebase_hosting_custom_domain" "default" {
   project       = google_project.default.project_id
   site_id       = google_firebase_hosting_site.full.site_id
   custom_domain = "parlichart.com"
+  depends_on    = [cloudflare_dns_record.txt_record, cloudflare_dns_record.a_record_apex]
 }
 
 resource "cloudflare_dns_record" "txt_record" {
   type    = "TXT"
   name    = "parlichart.com"
   ttl     = 3600
-  content = "hosting-site=parlichart"
+  content = "\"hosting-site=partlichart-main\""
   comment = "Domain verification record"
   zone_id = var.zone_id
+  proxied = false
 }
 
 resource "cloudflare_dns_record" "a_record_apex" {

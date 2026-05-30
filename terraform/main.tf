@@ -55,7 +55,7 @@ resource "google_firebase_web_app" "default" {
 resource "google_firebase_hosting_site" "full" {
   provider = google-beta
   project  = google_project.default.project_id
-  site_id  = "parlichart"
+  site_id  = "partlichart-main"
   app_id   = google_firebase_web_app.default.app_id
 }
 
