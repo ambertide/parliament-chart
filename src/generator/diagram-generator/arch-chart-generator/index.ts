@@ -1,0 +1,1 @@
+export { calculateSeatCoords } from './calculateSeatCoords';

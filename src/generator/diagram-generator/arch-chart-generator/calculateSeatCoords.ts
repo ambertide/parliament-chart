@@ -1,10 +1,9 @@
 import { IndividualRepresentative, Party, Representative } from "@/types";
-import { calculateRotatedCoordinates } from "./useRotatedCoordinates";
+import { calculateRotatedCoordinates } from "./calculateRotatedCoordinates";
 import {
   sortRepresentatives,
   type PreSortRepresentative,
 } from "./sortRepresenatives";
-import { useMemo } from "react";
 
 const OPTIMAL_DISTANCE = 15;
 

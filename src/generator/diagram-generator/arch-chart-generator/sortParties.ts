@@ -1,6 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { Party } from "@/types";
-import { useMemo } from "react";
 
 export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'deputies' | 'alliance' | 'groups', flatten: true): Party[];
 export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'deputies', flatten: false): Party[];

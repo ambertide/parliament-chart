@@ -4,7 +4,7 @@ import { fetchAndSource } from "./fetch";
 export const fetchAndGenerate = async () => {
   // await fetchAndSource();
   const data = await generateFromSourcedData();
-  console.log(data);
+  console.log(JSON.stringify(data));
 };
 
 fetchAndGenerate();

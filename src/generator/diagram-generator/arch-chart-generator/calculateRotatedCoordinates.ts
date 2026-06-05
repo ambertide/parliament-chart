@@ -1,7 +1,6 @@
 import { Point } from "@/types";
-import { useMemo } from "react";
 
-type UseRotatedCoordinates = (p: {
+type CalculateRotatedCoordinates = (p: {
   /** Angle of rotation by which the original rep. circle will be rotated */
   angleOfRotation: number,
   /** We rotate around a fixed point, originally this was a CodePen and we had a template point*/
@@ -10,7 +9,7 @@ type UseRotatedCoordinates = (p: {
   canvasPivotPointO: Point;
 }) => Point;
 
-export const calculateRotatedCoordinates: UseRotatedCoordinates = ({
+export const calculateRotatedCoordinates: CalculateRotatedCoordinates = ({
   angleOfRotation,
   pointO,
   canvasPivotPointO
@@ -47,23 +46,4 @@ export const calculateRotatedCoordinates: UseRotatedCoordinates = ({
     x: roundedX,
     y: roundedY
   };
-};
-
-export const useRotatedCoordinates: UseRotatedCoordinates = ({
-  angleOfRotation,
-  pointO,
-  canvasPivotPointO
-}) => {
-  // Scale everything by 1000
-  return useMemo(
-    () => calculateRotatedCoordinates({
-      angleOfRotation,
-      pointO,
-      canvasPivotPointO
-    }),
-    [
-      angleOfRotation,
-      pointO,
-      canvasPivotPointO
-    ]);
 };
