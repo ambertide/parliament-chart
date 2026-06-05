@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "fetch-parliament": "node --import=tsx src/scripts/fetch.ts",
+    "gendiagram": "node --import=tsx src/generator/main.ts",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",

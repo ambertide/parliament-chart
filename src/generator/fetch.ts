@@ -7,7 +7,7 @@ import {
   termData,
   getMilestones,
   ParleventEngine
-} from "./parlevent/index";
+} from "./parlevent";
 
 type GovernmentRecord = {
   headOfGovernment: string;
@@ -193,7 +193,13 @@ const parseMPTable = ({
   };
 };
 
-const getParliamentRecords = async () => {
+/**
+ * Fetch parliamentary records Wikipedia, generate events for
+ * Parlevent Engine, combine them with extra event definitions
+ * and source the events to concrete milestones, outputing a
+ * file.
+ */
+export const fetchAndSource = async () => {
   const engine = new ParleventEngine();
   await engine.injectParlevents();
   await Promise.all(
@@ -243,5 +249,3 @@ const getParliamentRecords = async () => {
     ),
   );
 };
-
-getParliamentRecords();
