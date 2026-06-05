@@ -1,14 +1,13 @@
 import { JSDOM } from "jsdom";
 import { readFile, writeFile } from "node:fs/promises";
-import { governmentMap, termData, milestones } from "./resolveGovernments.ts";
-import { ParleventEngine } from "./parlevent.ts";
 
-import type {
+import {
   RepresentativeRecord,
-  PartyRecord,
-  ProvinceRecord,
   PartySummaryRecord,
-} from "./parlevent";
+  termData,
+  getMilestones,
+  ParleventEngine
+} from "./parlevent/index";
 
 type GovernmentRecord = {
   headOfGovernment: string;
@@ -214,6 +213,7 @@ const getParliamentRecords = async () => {
     JSON.stringify(engine.dump(), undefined, 4),
   );
 
+  const milestones = await getMilestones();
   await writeFile(
     "src/assets/milestones.json",
     JSON.stringify(
