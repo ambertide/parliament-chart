@@ -1,11 +1,11 @@
 import { Party, Representative } from "@/types";
 import { sortParties } from "./sortParties";
 
-export type PreSortRepresentative = Omit<Representative, 'party' | 'clockwise' | 'counterClockwise'> & { angle: number, distanceFromCentre: number};
+export type PreSortRepresentative = Omit<Representative, 'party' | 'clockwise' | 'counterClockwise' | 'mapLocation'> & { angle: number, distanceFromCentre: number};
 type RepsByParty = Record<
   string,
   {
-    representative: Representative,
+    representative: Omit<Representative, 'mapLocation'>,
     angle: number,
     distanceFromCentre: number
   }[]
@@ -17,7 +17,7 @@ type SortRepresentatives = (p:{
   groupBy: 'deputies' | 'groups' | 'alliance',
   representatives: PreSortRepresentative[]
 }) => {
-  representatives: Representative[],
+  representatives: Omit<Representative, 'mapLocation'>[],
   sortedParties: Party[],
   repsByParty: RepsByParty
 };
@@ -45,7 +45,7 @@ export const sortRepresentatives: SortRepresentatives = ({
   const sortedRepresentatives = sortSeats(representatives);
   const sortedParties = sortParties({ parties, groupBy, flatten: true });
   let currentPartyIndex = 0;
-  const repsUpdated: Representative[] = [];
+  const repsUpdated: Omit<Representative, 'mapLocation'>[] = [];
   const repsClone = [...sortedRepresentatives];
   const representativesByParty: RepsByParty = {};
   for (const { representativeCount, partyColor: color, partyName, ...otherPartyProps } of sortedParties) {

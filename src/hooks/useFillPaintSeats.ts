@@ -1,27 +1,6 @@
 import { Representative } from "@/types";
 import { useLayoutEffect } from "react";
 
-
-const nameToASCII = (n: string) => (
-  n.replaceAll('İ', 'I')
-    .replaceAll('ı', 'i')
-    .replaceAll('Ç', 'C')
-    .replaceAll('ç', 'c')
-    .replaceAll('Ş', 'S')
-    .replaceAll('ş', 's')
-    .replaceAll('Ü', 'U')
-    .replaceAll('ü', 'u')
-    .replaceAll('Ö', 'O')
-    .replaceAll('ö', 'o')
-    .replaceAll('Ğ', 'G')
-    .replaceAll('ğ', 'g')
-    .replaceAll(' ', '_')
-    .replaceAll('(I)', '(i)')
-    .replaceAll('(II)', '(ii)')
-    .replaceAll('(III)', '(iii)')
-    .replaceAll('â', 'a')
-);
-
 /**
  * Given an array of circle elements, filter those that are
  * actually parliamentary seats and then put them into a

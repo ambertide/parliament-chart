@@ -1,4 +1,4 @@
-import { IndividualRepresentative, Party, Representative } from "@/types";
+import { IndividualRepresentative, Party, Representative} from "@/types";
 import { calculateRotatedCoordinates } from "./calculateRotatedCoordinates";
 import {
   sortRepresentatives,
@@ -185,7 +185,7 @@ type CalculateSeatCoords = (p: {
   numberOfRepresentatives: number;
   individualRepresentatives: IndividualRepresentative[];
 }) => {
-  representatives: Representative[];
+  representatives: Omit<Representative, 'mapLocation'>[];
   sortedParties: Party[] | [string, Party[]][];
 };
 

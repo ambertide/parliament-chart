@@ -5,7 +5,7 @@ import { readFile } from "fs/promises";
  * seperated by electoral districts.
  * @returns 
  */
-export const getMapSlots = async () => {
+const extractMapSlotsUnsorted = async () => {
   // We use the same svg data as a single source of truth
   // to get the coordinates.
   const svgData = await readFile('./src/assets/images/map.svg');
@@ -24,7 +24,7 @@ export const getMapSlots = async () => {
         const districtName = /g id="(.*)_seats"/.exec(svgLine)?.[1];
         if (districtName) {
           // Create a new array for the seats to exist in.
-          accum.set(districtName, new Set<{x: number, y: number}>());
+          accum.set(districtName, []);
         }
         console.log(`Found ${districtName}`);
       } else if (/circle id="seat(?:\_\d+)?" cx="(.*)" cy="(.*)" r/.test(svgLine)) {
@@ -36,13 +36,32 @@ export const getMapSlots = async () => {
           // Maps are ordered, so get the last city set and insert
           // into it the seat coords.
           const lastInsertedCity = [...accum.values()].at(-1);
-          lastInsertedCity?.add({x, y});
+          lastInsertedCity?.push({x, y});
         }
         console.log(`Found seat ${x}, ${y}`);
       }
       return accum;
     },
-    new Map<string, Set<{x: number, y: number}>>());
+    new Map<string, {x: number, y: number}[]>());
   return seatCoordsByProvince;
 };
 
+
+const sortMapSlots = (map: Map<string, {x: number, y: number}[]>): Map<string, {x: number, y: number}[]> => {
+  map.values().forEach((repsInAProvince) => repsInAProvince.sort(
+    (
+      {y: CYa, x: CXa},
+      {y: CYb, x: CXb}
+    ) => CYb === CYa
+      ? (CXb - CXa)
+      : (CYb - CYa))
+  );
+  return map;
+};
+
+
+/**
+ * Extract and sort map slots, return the slot locations
+ * in the Turkish electoral districts map.
+ */
+export const extractMapSlots = async (): Promise<Map<string, {x: number, y: number}[]>> => sortMapSlots(await extractMapSlotsUnsorted()); 
