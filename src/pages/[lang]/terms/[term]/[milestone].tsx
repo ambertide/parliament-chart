@@ -34,7 +34,7 @@ export const getStaticProps: GetStaticProps<{term: string | string[] | undefined
 export default function Term({ term, lang, milestone, milestonesOfTerm, chartData }: { chartData: Snapshot, term: `${number}`, lang: string, milestone: string, milestonesOfTerm: Record<string, { date: string, slug: string }> }) {
   const t = useTranslations('Term');
   const selectedTerm = useMemo(() => Number.parseInt(term), [term]);
-  const [groupBy, setGroupBy] = useState<'alliance' | 'deputies'>('alliance');
+  const [groupBy, setGroupBy] = useState<'alliance' | 'deputies'>('deputies');
   const { push } = useRouter();
   return (
     <div className="flex flex-col gap-8">
@@ -42,7 +42,7 @@ export default function Term({ term, lang, milestone, milestonesOfTerm, chartDat
         groupBy={groupBy}
         sortedParties={chartData[groupBy].sortedParties}
         numberOfRepresentatives={selectedTerm >= 27 ? 600 : 550}
-        chartData={chartData[groupBy].chartData}
+        chartData={chartData[groupBy].representatives}
       />
       <Menu
         selectedTerm={selectedTerm}

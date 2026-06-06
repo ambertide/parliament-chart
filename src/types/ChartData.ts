@@ -6,11 +6,11 @@ export type Snapshot = {
   // this changes the arch diag so it is necessary
   // to include it.
   deputies : {
-    chartData: Representative[]
+    representatives: Representative[]
     sortedParties: Party[],
   },
   alliance: {
-    chartData: Representative[]
+    representatives: Representative[]
     sortedParties: Party[],
   }
 };
