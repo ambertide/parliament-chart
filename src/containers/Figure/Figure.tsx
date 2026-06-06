@@ -1,35 +1,23 @@
 import { ParliamentFigure } from "@/components";
-import { sortParties, calculateSeatCoords } from "@/hooks";
-import { IndividualRepresentative, Party } from "@/types";
+import { sortParties } from "@/hooks";
+import { Party, Representative } from "@/types";
 import { FC } from "react";
 
 type FigureProps = {
-  parties: Party[],
   groupBy: 'deputies' | 'groups' | 'alliance',
   numberOfRepresentatives: number,
-  individualRepresentatives: IndividualRepresentative[]
+  chartData: Representative[],
+  sortedParties: [string, Party[]][] | Party[]
 };
 
 export const Figure: FC<FigureProps> = ({
-  parties,
   groupBy,
-  numberOfRepresentatives,
-  individualRepresentatives
+  chartData,
+  sortedParties
 }) => {
-  const {
-    representatives,
-    sortedParties: _
-  } = calculateSeatCoords({
-    parties,
-    groupBy,
-    numberOfRepresentatives,
-    individualRepresentatives
-  });
-
-  const partiesOrGroups = sortParties({ parties, groupBy, flatten: false as true}); // < Makes sense in the context.
   return <ParliamentFigure
-    partiesOrGroups={partiesOrGroups}
-    representatives={representatives}
+    partiesOrGroups={sortedParties as unknown as any}
+    representatives={chartData}
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     groupBy={groupBy as any}
   />;

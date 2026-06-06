@@ -1,7 +1,6 @@
 import { readFile, writeFile } from "fs/promises";
 import { calculateSeatCoords } from "./arch-chart-generator";
 import { PartyRecord, RepresentativeRecord } from "../parlevent";
-import { Representative } from "@/types";
 
 type SourcedData = {
   [term: string]: {
@@ -10,24 +9,6 @@ type SourcedData = {
         representatives: RepresentativeRecord[],
         parties: PartyRecord[]
       },
-      date: string,
-      slug: string
-    }
-  }
-};
-
-type ChartData = {
-  [term: string]: {
-    [milestoneName: string]: {
-      snapshot: {
-        // Add an aditional layer for sort method
-        // this changes the arch diag so it is necessary
-        // to include it.
-        [sortMethod: string] : {
-          chartData: Representative[]
-          sortedParties: PartyRecord[],
-        }
-      }
       date: string,
       slug: string
     }
