@@ -1,4 +1,4 @@
-import { readFile } from "fs/promises";
+import { readFile, writeFile } from "fs/promises";
 import { calculateSeatCoords } from "./arch-chart-generator";
 import { PartyRecord, RepresentativeRecord } from "../parlevent";
 import { Representative } from "@/types";
@@ -37,9 +37,9 @@ type ChartData = {
 /**
  * Take the sourced data and convert it into chart data.
  */
-export const generateFromSourcedData = async (): Promise<ChartData> => {
+export const generateFromSourcedData = async (): Promise<void> => {
   const sourcedData: SourcedData = JSON.parse((await readFile('src/assets/milestones.json')).toString());
-  return Object.fromEntries(Object.entries(sourcedData).map(([term, termData]) => (
+  const generatedData = Object.fromEntries(Object.entries(sourcedData).map(([term, termData]) => (
     [
       term,
       Object.fromEntries(Object.entries(termData).map(
@@ -76,4 +76,6 @@ export const generateFromSourcedData = async (): Promise<ChartData> => {
       )
     ]
   )));
+  const jsonString = JSON.stringify(generatedData, undefined, 4);
+  await writeFile('./src/assets/data.generated.json', jsonString);
 };
