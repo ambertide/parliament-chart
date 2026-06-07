@@ -15,7 +15,10 @@ export const ParliamentMap: FC<ParliamentMapProps> = ({ representatives }) => {
     <div
       className="parliament-map relative flex flex-col items-center w-full"
     >
-      <MapSvg />
+      <svg viewBox="0 0 552 323" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <MapSvg />
+        {representatives.map(({ mapLocation: { x: cx, y: cy }}, key) => <circle cx={cx} cy={cy} r={0.25} key={key}/>)}
+      </svg>
       <Attribution />
     </div>
   );

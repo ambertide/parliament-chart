@@ -1,5 +1,4 @@
 import { ParliamentFigure } from "@/components";
-import { sortParties } from "@/hooks";
 import { Party, Representative } from "@/types";
 import { FC } from "react";
 
