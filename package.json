@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "fetch-parliament": "node src/scripts/fetch.ts",
+    "gendiagram": "node --import=tsx src/generator/main.ts",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
@@ -44,6 +44,7 @@
     "storybook": "^10.3.6",
     "storybook-next-intl": "^10.1.1",
     "tailwindcss": "^4",
+    "tsx": "^4.22.4",
     "typescript": "^5",
     "vite": "^8.0.10",
     "vitest": "^4.1.5"

@@ -1,0 +1,1 @@
+export { injectMapData } from './injectMapData';

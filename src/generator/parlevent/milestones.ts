@@ -34,25 +34,27 @@ export const termData = Object.fromEntries(
   ]),
 );
 
-const { terms: milestonesPerTerm } = JSON.parse(
-  await readFile("src/assets/milestone.declarations.json", "utf-8"),
-);
+export const getMilestones = async () => {
+  const { terms: milestonesPerTerm } = JSON.parse(
+    await readFile("src/assets/milestone.declarations.json", "utf-8"),
+  );
 
-export const milestones = Object.fromEntries(
-  Object.entries(termData).map(([term, { start }]) => [
-    term,
-    [
-      {
-        date: start,
-        name: `${term}_PARLIAMENT_FORMATION`,
-        slug: 'formation'
-      },
-      ...(milestonesPerTerm[term as "28"]?.["milestones"].map(
-        ({ date, ...rest }: { date: string }) => ({
-          date: new Date(date),
-          ...rest,
-        }),
-      ) ?? []),
-    ],
-  ]),
-);
+  return Object.fromEntries(
+    Object.entries(termData).map(([term, { start }]) => [
+      term,
+      [
+        {
+          date: start,
+          name: `${term}_PARLIAMENT_FORMATION`,
+          slug: 'formation'
+        },
+        ...(milestonesPerTerm[term as "28"]?.["milestones"].map(
+          ({ date, ...rest }: { date: string }) => ({
+            date: new Date(date),
+            ...rest,
+          }),
+        ) ?? []),
+      ],
+    ]),
+  );
+};

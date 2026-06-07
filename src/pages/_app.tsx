@@ -1,13 +1,13 @@
 import Layout from '../components/Layout';
 import '@/assets/globals.css';
-import { Header, DocsLayout } from '@/components';
+import { Header } from '@/components';
 import { NextIntlClientProvider} from 'next-intl';
 
 /** @ts-ignore: I can't be bothered to deal with this */
-export default function MyApp({ Component, pageProps, router }) {
-  const isDocsRoute = router.route.startsWith('/docs');
+export default function MyApp({ Component, pageProps }) {
   return (
     <NextIntlClientProvider
+      timeZone={"Europe/Istanbul"}
       locale={pageProps.lang ?? 'en'}
       messages={pageProps.messages ?? {}}
     >
@@ -19,11 +19,7 @@ export default function MyApp({ Component, pageProps, router }) {
           <main
             className="grow flex items-center justify-center"
           >
-            {isDocsRoute ?
-              <DocsLayout>
-                <Component {...pageProps} />
-              </DocsLayout>
-              : <Component {...pageProps} />}
+            <Component {...pageProps} />
           </main>
         </div>
       </Layout>

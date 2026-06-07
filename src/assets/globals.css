@@ -41,3 +41,13 @@ div#__next {
   font-family: var(--font-sans), Arial, Helvetica, sans-serif;
   height: 100%;
 }
+
+.turkey-map[data-map-hidden="true"] {
+  opacity: 0;
+  transition-duration: 500ms;
+}
+
+.turkey-map[data-map-hidden="false"] {
+  opacity: 1;
+  transition-duration: 500ms;
+}

@@ -1,13 +1,12 @@
 import { JSDOM } from "jsdom";
 import { readFile, writeFile } from "node:fs/promises";
-import { governmentMap, termData, milestones } from "./resolveGovernments.ts";
-import { ParleventEngine } from "./parlevent.ts";
 
-import type {
+import {
   RepresentativeRecord,
-  PartyRecord,
-  ProvinceRecord,
   PartySummaryRecord,
+  termData,
+  getMilestones,
+  ParleventEngine
 } from "./parlevent";
 
 type GovernmentRecord = {
@@ -194,7 +193,13 @@ const parseMPTable = ({
   };
 };
 
-const getParliamentRecords = async () => {
+/**
+ * Fetch parliamentary records Wikipedia, generate events for
+ * Parlevent Engine, combine them with extra event definitions
+ * and source the events to concrete milestones, outputing a
+ * file.
+ */
+export const fetchAndSource = async () => {
   const engine = new ParleventEngine();
   await engine.injectParlevents();
   await Promise.all(
@@ -214,6 +219,7 @@ const getParliamentRecords = async () => {
     JSON.stringify(engine.dump(), undefined, 4),
   );
 
+  const milestones = await getMilestones();
   await writeFile(
     "src/assets/milestones.json",
     JSON.stringify(
@@ -243,5 +249,3 @@ const getParliamentRecords = async () => {
     ),
   );
 };
-
-getParliamentRecords();

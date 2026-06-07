@@ -26,5 +26,5 @@ export const GroupedByDeputies: Story = {
   args: {
     groupBy: 'deputies',
     ...representativeData
-  }
+  } as any
 };

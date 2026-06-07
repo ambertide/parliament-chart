@@ -1,0 +1,23 @@
+{
+    "docs": [
+        {
+            "slug": "attribution",
+            "available": [
+                "en",
+                "tr"
+            ]
+        },
+        {
+            "slug": "ai_use",
+            "available": [
+                "en"
+            ]
+        },
+        {
+            "slug": "events",
+            "available": [
+                "en"
+            ]
+        }
+    ]
+}
