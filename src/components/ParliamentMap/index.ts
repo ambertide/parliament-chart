@@ -1,1 +1,0 @@
-export { ParliamentMap } from './ParliamentMap';

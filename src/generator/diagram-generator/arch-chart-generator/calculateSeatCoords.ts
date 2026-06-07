@@ -5,7 +5,22 @@ import {
   type PreSortRepresentative,
 } from "./sortRepresenatives";
 
-const OPTIMAL_DISTANCE = 15;
+const RADII = 2.5;
+
+const OPTIMAL_DISTANCE = RADII * 4;
+
+const SVG_VIEWPORT_DIMENSIONS = {
+  WIDTH: 552,
+  HEIGHT: 323
+};
+
+const CHART_CENTRE = {
+  X: SVG_VIEWPORT_DIMENSIONS.WIDTH / 2,
+  Y: SVG_VIEWPORT_DIMENSIONS.HEIGHT * 0.825
+};
+
+const START_DISTANCE = 80; 
+
 
 /**
  * Calculate the multipliers for the rotational transforms
@@ -55,15 +70,15 @@ const calculateRepsForSection = (
         const localAngle = (2 * step + 1) * stepLength * directionMultiplier;
         const currentAngle = localAngle + globalAngleModifier;
         const mpPoint = {
-          x: 400,
-          y: 350 - radiusThisRow,
+          x: CHART_CENTRE.X,
+          y: CHART_CENTRE.Y - radiusThisRow,
         };
         const rotatedMPPoint = calculateRotatedCoordinates({
           angleOfRotation: currentAngle,
           pointO: mpPoint,
           canvasPivotPointO: {
-            x: 400,
-            y: 350,
+            x: CHART_CENTRE.X,
+            y: CHART_CENTRE.Y,
           },
         });
         reps.push({
@@ -104,7 +119,7 @@ const calculateFrontBenches = (): PreSortRepresentative[] => {
       .flatMap((globalAngleModifier) =>
         calculateRepsForSection(
           globalAngleModifier,
-          120,
+          START_DISTANCE,
           7,
           35 * (Math.PI / 180),
           frontBenchSeatsPerRow,
@@ -122,7 +137,7 @@ const calculateBackBenches = (numberOfRepresentatives = 600) => {
       const globalAngleModifier = (2 * step + 1) * stepAngle * direction;
       const repsThisLoop = calculateRepsForSection(
         globalAngleModifier,
-        120 + OPTIMAL_DISTANCE * 8,
+        START_DISTANCE + OPTIMAL_DISTANCE * 8,
         5,
         19 * (Math.PI / 180),
         backBenchSeatsPerRow,
@@ -144,11 +159,11 @@ const calculateFrontRectangularBenches = () => {
   for (let col = 0; col < 7; col++) {
     for (let row = 0; row < 2; row++) {
       for (const direction of [-1, 1]) {
-        const distanceH = 120 + col * OPTIMAL_DISTANCE;
+        const distanceH = START_DISTANCE + col * OPTIMAL_DISTANCE;
         const distanceV = row * OPTIMAL_DISTANCE + OPTIMAL_DISTANCE / 4;
         const location = {
-          x: 400 + direction * distanceH,
-          y: 350 + distanceV,
+          x: CHART_CENTRE.X + direction * distanceH,
+          y: CHART_CENTRE.Y + distanceV,
         };
         if (direction > 0) {
           reps.push({

@@ -1,1 +1,0 @@
-export { useFillPaintSeats } from './useFillPaintSeats';

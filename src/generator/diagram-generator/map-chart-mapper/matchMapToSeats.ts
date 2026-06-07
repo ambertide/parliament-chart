@@ -81,7 +81,6 @@ export const matchMapToSeats = (
           return;
         }
 
-        seatsAlreadyAssigned.add(seatToAssign);
         seatToAssign.province = province;
         (seatToAssign as Representative).mapLocation = nextSlotToAssign;
       });
