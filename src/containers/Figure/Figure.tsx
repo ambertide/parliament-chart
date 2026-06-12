@@ -3,7 +3,7 @@ import { Party, Representative } from "@/types";
 import { FC } from "react";
 
 type FigureProps = {
-  groupBy: 'deputies' | 'groups' | 'alliance',
+  groupBy: 'deputies' | 'alliance',
   numberOfRepresentatives: number,
   chartData: Representative[],
   sortedParties: [string, Party[]][] | Party[]

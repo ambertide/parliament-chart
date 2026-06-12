@@ -7,7 +7,7 @@ type PartyLegenedProps = {
   groupBy: 'deputies',
   partiesOrGroups: Party[]
 } | {
-  groupBy: 'alliance' | 'groups',
+  groupBy: 'alliance',
   partiesOrGroups: [string, Party[]][]
 };
 

@@ -1,12 +1,12 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { Party } from "@/types";
 
-export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'deputies' | 'alliance' | 'groups', flatten: true): Party[];
+export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'deputies' | 'alliance' , flatten: true): Party[];
 export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'deputies', flatten: false): Party[];
-export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'alliance' | 'groups', flatten: false): [string, Party[]][];
+export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'alliance', flatten: false): [string, Party[]][];
 export function sortAndGroupParties(
   parties: Party[],
-  sortAndGroupBy: 'deputies' | 'groups' | 'alliance',
+  sortAndGroupBy: 'deputies' | 'alliance',
   flatten = true
 ): [string, Party[]][] | Party[] {
   switch (sortAndGroupBy) {
@@ -26,31 +26,6 @@ export function sortAndGroupParties(
         })
         .toSorted((a, b) => (a?.representativeCount ?? 0) - (b?.representativeCount ?? 0))
         .toReversed() as Party[];
-    case "groups":
-      const groupedByGroups = Object.entries(
-        Object.groupBy(parties, ({ groupName }) => groupName)
-      )
-        .map<[string, Party[]]>(([categoryName, subslice]) => ([
-          categoryName,
-          sortAndGroupParties(subslice as Party[], "deputies", true) as Party[]
-        ]))
-        .toSorted(([_, a], [__, b]) => {
-          // This time, sort by total deputies elected from that group
-          const aSum = a.reduce(
-            (runningTotal, current) => current.representativeCount + runningTotal,
-            0
-          );
-          const bSum = b.reduce(
-            (runningTotal, current) => current.representativeCount + runningTotal,
-            0
-          );
-          return aSum - bSum;
-        })
-        .toReversed();
-      if (flatten) {
-        return groupedByGroups.flatMap(([_, parties]) => parties) as Party[];
-      }
-      return groupedByGroups;
     case "alliance":
       const groupedByAlliance = Object.entries(
         Object.groupBy(parties, ({ allianceName }) => allianceName)

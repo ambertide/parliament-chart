@@ -4,6 +4,7 @@ import {
   sortRepresentatives,
   type PreSortRepresentative,
 } from "./sortRepresenatives";
+import { sortParties } from "./sortParties";
 
 const RADII = 2.5;
 
@@ -185,6 +186,12 @@ const calculateFrontRectangularBenches = () => {
   return reps;
 };
 
+/**
+ * Calculate the bench coordinates for
+ * handling the graph driving.
+ * @param numberOfRepresentatives Number of representatives to draw for.
+ * @returns 
+ */
 const calculateBenches = (numberOfRepresentatives = 600) =>
   [
     calculateBackBenches,
@@ -196,7 +203,7 @@ const calculateBenches = (numberOfRepresentatives = 600) =>
 
 type CalculateSeatCoords = (p: {
   parties: Party[];
-  groupBy: "deputies" | "groups" | "alliance";
+  groupBy: "deputies" | "alliance";
   numberOfRepresentatives: number;
   individualRepresentatives: IndividualRepresentative[];
 }) => {
@@ -208,25 +215,18 @@ export const calculateSeatCoords: CalculateSeatCoords = ({
   parties,
   groupBy,
   numberOfRepresentatives,
-  individualRepresentatives
 }) => {
   const preSortRepresentatives = calculateBenches(numberOfRepresentatives);
-  const { representatives: preAssignedRepresentatives, repsByParty, sortedParties } =
+  const { representatives } =
     sortRepresentatives({
       parties,
       groupBy,
       representatives: preSortRepresentatives,
     });
-  const assignSpace = [...individualRepresentatives];
-  const representatives =preAssignedRepresentatives.map(rep => {
-    const maybeSelf = assignSpace.findIndex(needle => needle.party === rep.party.partyName);
-    // Try to assign the provinces to the calculated locations.
-    // if we can find them.
-    if (maybeSelf >= 0) {
-      rep.province = assignSpace[maybeSelf].province;
-      assignSpace.splice(maybeSelf, 1);
-    }
-    return rep;
+  const sortedParties = sortParties({
+    parties,
+    flatten: groupBy === 'deputies' as any,
+    groupBy 
   });
   return {
     representatives,
