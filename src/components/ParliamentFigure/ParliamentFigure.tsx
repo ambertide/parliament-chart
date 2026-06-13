@@ -12,6 +12,27 @@ type ParliamentFigureProps = { representatives: Representative[] }&
 const ANIMATION_DURATION = 500;
 
 
+const determineAnimationProps = (representative: Representative, diagramMode: 'map' | 'chart') => {
+  const { x: xFrom, y: yFrom } = diagramMode === 'map' ? representative.mapLocation : representative.location;
+  const { x: xTo, y: yTo } = diagramMode === 'chart' ? representative.mapLocation : representative.location;
+  const rFrom = diagramMode === 'chart' ? 3.5 : 2.5;
+  const rTo = diagramMode === 'chart' ? 2.5 : 3.5;
+  return {
+    cx: {
+      from: xFrom,
+      to: xTo
+    },
+    cy: {
+      from: yFrom,
+      to: yTo
+    },
+    r: {
+      from: rFrom,
+      to: rTo
+    }
+  };
+};
+
 export const ParliamentFigure: FC<ParliamentFigureProps> = ({
   representatives,
   // DO NOT try to grab the legend props seperately
@@ -42,96 +63,40 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
         >
           <BlankMapSVG isVisible={diagramMode === "map"} />
           {representatives.map((
-            {
-              mapLocation: {
-                x: xTo,
-                y: yTo
-              } = {
-                x: 0,
-                y: 0
-              },
-              location: {
-                x: xFrom,
-                y: yFrom
-              } = {
-                x: 0,
-                y: 0
-              },
-              party: {
-                partyColor
-              }
-            },
+            representative,
             index
-          ) =>
-            <circle
-              key={index}
-              fill={partyColor}
-              cx={xFrom}
-              cy={yFrom}
-              r={3.5}
-            >
-              <animate
-                className="to-map-animation"
-                attributeName="r"
-                dur={`${ANIMATION_DURATION}ms`}
-                from={3.5}
-                to={2.5}
-                repeatCount="once"
-                fill="freeze"
-                begin="indefinite"
-              />
-              <animate
-                className="to-chart-animation"
-                attributeName="r"
-                dur={`${ANIMATION_DURATION}ms`}
-                to={3.5}
-                from={2.5}
-                repeatCount="once"
-                fill="freeze"
-                begin="indefinite"
-              />
-              <animate
-                className="to-map-animation"
-                attributeName="cx"
-                from={xFrom}
-                to={xTo}
-                dur={`${ANIMATION_DURATION}ms`}
-                repeatCount="once"
-                fill="freeze"
-                begin="indefinite"
-              />
-              <animate
-                className="to-chart-animation"
-                attributeName="cx"
-                from={xTo}
-                to={xFrom}
-                dur={`${ANIMATION_DURATION}ms`}
-                repeatCount="once"
-                fill="freeze"
-                begin="indefinite"
-              />
-              <animate
-                className="to-map-animation"
-                attributeName="cy"
-                from={yFrom}
-                to={yTo}
-                dur={`${ANIMATION_DURATION}ms`}
-                repeatCount="once"
-                fill="freeze"
-                begin="indefinite"
-              />
-              <animate
-                className="to-chart-animation"
-                attributeName="cy"
-                from={yTo}
-                to={yFrom}
-                dur={`${ANIMATION_DURATION}ms`}
-                repeatCount="once"
-                fill="freeze"
-                begin="indefinite"
-              />
-            </circle>
-          )}
+          ) => {
+            const animationValues = determineAnimationProps(representative, diagramMode);
+            return (
+              <circle
+                key={index}
+                fill={representative.party.partyColor}
+                {
+                  ...Object.fromEntries(Object.entries(animationValues)
+                    // Set the initial values to that of the [attribute].from
+                    .map(([attributeName, { from, to: _discardForDefault }]) => ([attributeName, from]))
+                  )
+                }
+              >
+                {
+                  // Then add animations for each attributes from -> to pair.
+                  // First convert to prop objects and then into the
+                  // animate tags
+                  Object.entries(animationValues)
+                    .map(([attributeName, { from, to }]) => ({ attributeName, from, to}))
+                    .map( animProps => <animate
+                      key={`repr-${index}-${animProps.attributeName}-animation`}
+                      className="to-map-animation"
+                      dur={`${ANIMATION_DURATION}ms`}
+                      repeatCount="once"
+                      fill="freeze"
+                      begin="indefinite"
+                      {...animProps}
+                    />)
+                }
+              </circle>
+            );
+          })}
         </svg>
       </div>
       <figcaption>
