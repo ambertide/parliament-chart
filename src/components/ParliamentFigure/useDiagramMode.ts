@@ -14,7 +14,7 @@ export const useDiagramMode: UseDiagramMode = () => {
   const [diagramMode, setDiagramMode] = useState<'chart' | 'map'>('chart');
   const svgRootRef = useRef<SVGSVGElement>(null);
   const onDiagramToggleClick = useCallback((newDiagramMode: 'chart' | 'map') => {
-    svgRootRef.current?.querySelectorAll(`animate.to-${newDiagramMode}-animation`).forEach((animation) => {
+    svgRootRef.current?.querySelectorAll('animate.chart-transition-animation').forEach((animation) => {
       (animation as SVGAnimateElement).beginElement();
     });
     setDiagramMode(newDiagramMode);

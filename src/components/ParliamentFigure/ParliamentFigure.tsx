@@ -4,13 +4,11 @@ import { PartyLegend } from "../PartyLegend";
 import { BlankMapSVG } from "@/assets/images/BlankMapSVG";
 import { useDiagramMode } from "./useDiagramMode";
 import { Representative } from "@/types";
+import { RepresentativeSeat } from "./RepresentativeSeat";
 
 type ParliamentFigureProps = { representatives: Representative[] }& 
   ComponentProps<typeof PartyLegend>
 ;
-
-const ANIMATION_DURATION = 500;
-
 
 export const ParliamentFigure: FC<ParliamentFigureProps> = ({
   representatives,
@@ -42,95 +40,15 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
         >
           <BlankMapSVG isVisible={diagramMode === "map"} />
           {representatives.map((
-            {
-              mapLocation: {
-                x: xTo,
-                y: yTo
-              } = {
-                x: 0,
-                y: 0
-              },
-              location: {
-                x: xFrom,
-                y: yFrom
-              } = {
-                x: 0,
-                y: 0
-              },
-              party: {
-                partyColor
-              }
-            },
-            index
+            representative
           ) =>
-            <circle
-              key={index}
-              fill={partyColor}
-              cx={xFrom}
-              cy={yFrom}
-              r={3.5}
-            >
-              <animate
-                className="to-map-animation"
-                attributeName="r"
-                dur={`${ANIMATION_DURATION}ms`}
-                from={3.5}
-                to={2.5}
-                repeatCount="once"
-                fill="freeze"
-                begin="indefinite"
-              />
-              <animate
-                className="to-chart-animation"
-                attributeName="r"
-                dur={`${ANIMATION_DURATION}ms`}
-                to={3.5}
-                from={2.5}
-                repeatCount="once"
-                fill="freeze"
-                begin="indefinite"
-              />
-              <animate
-                className="to-map-animation"
-                attributeName="cx"
-                from={xFrom}
-                to={xTo}
-                dur={`${ANIMATION_DURATION}ms`}
-                repeatCount="once"
-                fill="freeze"
-                begin="indefinite"
-              />
-              <animate
-                className="to-chart-animation"
-                attributeName="cx"
-                from={xTo}
-                to={xFrom}
-                dur={`${ANIMATION_DURATION}ms`}
-                repeatCount="once"
-                fill="freeze"
-                begin="indefinite"
-              />
-              <animate
-                className="to-map-animation"
-                attributeName="cy"
-                from={yFrom}
-                to={yTo}
-                dur={`${ANIMATION_DURATION}ms`}
-                repeatCount="once"
-                fill="freeze"
-                begin="indefinite"
-              />
-              <animate
-                className="to-chart-animation"
-                attributeName="cy"
-                from={yTo}
-                to={yFrom}
-                dur={`${ANIMATION_DURATION}ms`}
-                repeatCount="once"
-                fill="freeze"
-                begin="indefinite"
-              />
-            </circle>
+            <RepresentativeSeat
+              // This is required the force the rerender when the groupBy attribute changes
+              // as well, do not set this to index or sth :)
+              key={representative.id}
+              representative={representative}
+              diagramMode={diagramMode}
+            />
           )}
         </svg>
       </div>

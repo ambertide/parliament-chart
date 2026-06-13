@@ -70,7 +70,7 @@ export const sortRepresentatives: SortRepresentatives = ({
     );
 
     for (let _ = 0; _ < representativeCount; _++) {
-      const { location, angle, distanceFromCentre } = repsClone.pop() as PreSortRepresentative;
+      const { location, angle, distanceFromCentre, id } = repsClone.pop() as PreSortRepresentative;
       const counterClockwise = dataAttributesToAdd
         .filter(({ partyName: pName }) => pName !== partyName)
         .filter(({ rotateOnSelect }) => rotateOnSelect === 'counterClockwise')
@@ -91,7 +91,8 @@ export const sortRepresentatives: SortRepresentatives = ({
           ...otherPartyProps
         },
         clockwise,
-        counterClockwise
+        counterClockwise,
+        id
       };
       repsUpdated.push(newRepresentative);
       representativesByParty[partyName].push({ representative: newRepresentative, angle, distanceFromCentre });

@@ -86,6 +86,7 @@ const calculateRepsForSection = (
           location: rotatedMPPoint,
           angle: currentAngle,
           distanceFromCentre: radiusThisRow,
+          id: crypto.randomUUID()
         });
       }
     }
@@ -171,6 +172,7 @@ const calculateFrontRectangularBenches = () => {
             location,
             angle: Math.PI / 2 + 0.1 * (row + 1),
             distanceFromCentre: distanceH,
+            id: crypto.randomUUID()
           });
         } else {
           // For left
@@ -178,6 +180,7 @@ const calculateFrontRectangularBenches = () => {
             location,
             angle: -Math.PI / 2 - 0.1 * (row + 1),
             distanceFromCentre: distanceH,
+            id: crypto.randomUUID()
           });
         }
       }
@@ -225,6 +228,7 @@ export const calculateSeatCoords: CalculateSeatCoords = ({
     });
   const sortedParties = sortParties({
     parties,
+    // @ts-ignore: Not necessary in build.
     flatten: groupBy === 'deputies' as any,
     groupBy 
   });

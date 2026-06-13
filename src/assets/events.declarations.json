@@ -135,6 +135,14 @@
         },
         {
             "action": "PARTY_JOINED_ALLIANCE",
+            "actor": "Halkların Demokratik Partisi",
+            "target": "Emek ve Özgürlük İttifakı",
+            "date": "2022-09-16T00:00:00.000Z",
+            "metadata": "",
+            "source": "https://dokuz8haber.net/hdp-emegin-ve-ozgurlugun-ittifaki-yola-cikiyor"
+        },
+        {
+            "action": "PARTY_JOINED_ALLIANCE",
             "actor": "Türkiye İşçi Partisi",
             "target": "Emek ve Özgürlük İttifakı",
             "date": "2022-09-16T00:00:00.000Z",

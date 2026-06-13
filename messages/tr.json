@@ -17,7 +17,8 @@
         "YENI_YOL_VOTING_BLOC": "Mecliste parti grubu kurulabilmesi adına; Gelecek, Saadet ve DEVA partilerinin büyük çoğunluğu, YENİ YOL partisi adı altında birleştiler",
         "LOCAL_ELECTIONS_OF_2024": "Yerel seçimler sonrasında, belediye başkanı seçilen milletvekilleri, belediye başkanı olabilmek adına milletvekillerinden istifa ettiler",
         "SAADET_VOTING_BLOC": "Gelecek Partisi grubunun büyük çoğunluğu, Saadet partisinin grup kurabilecek çoğunluğu kazanabilmesi adına Saadet'e geçtiler.",
-        "28TH_PARLIAMENT_PRESENT_DAY": "2026 Ortası civarında Millet Meclisi'nin dağılımı"
+        "28TH_PARLIAMENT_PRESENT_DAY": "2026 Ortası civarında Millet Meclisi'nin dağılımı",
+        "28TH_PARLIAMENT_INAGURATION": "Yemin Gününde Meclis'teki Koltuk Dağılımı"
     },
     "Parties": {
         "Cumhur İttifakı": "Cumhur İttifakı",
@@ -33,5 +34,9 @@
     },
     "Attribution": {
         "Attribution": "Atıf Metni"
+    },
+    "Header": {
+        "HOME": "ANASAYFA",
+        "DOCS": "DÖKÜMANLAR"
     }
 }

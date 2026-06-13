@@ -17,7 +17,8 @@
         "milestone_local-elections": "the Day after Local Elections",
         "milestone_saadet-voting-bloc": "the Aftermath of Gelecek/Saadet Merger",
         "SAADET_VOTING_BLOC": "Large number of Future Party members joined the Saadet party to supply enough MPs for them to form a party group.",
-        "28TH_PARLIAMENT_PRESENT_DAY": "28th Term of the Assembly as of mid-2026"
+        "28TH_PARLIAMENT_PRESENT_DAY": "28th Term of the Assembly as of mid-2026",
+        "28TH_PARLIAMENT_INAGURATION": "28th Term of the Assembly at Its Inaguration"
     },
     "Parties": {
         "Cumhur İttifakı": "People's Alliance",
@@ -30,6 +31,8 @@
         "Milliyetçi Hareket Partisi": "National Movement Party",
         "İYİ Parti": "Good Party",
         "Halkların Eşitlik ve Demokrasi Partisi": "Peoples' Equality and Democracy Party",
+        "Demokrasi ve Atılım Partisi": "Democracy and Progress Party",
+        "Gelecek Partisi": "Future Party",
         "Türkiye İşçi Partisi": "Worker's Party of Turkey",
         "Yeniden Refah Partisi": "New Welfare Party",
         "Halkların Demokratik Partisi": "Peoples' Democratic Party",

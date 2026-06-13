@@ -11,7 +11,7 @@ export type Snapshot = {
   },
   alliance: {
     representatives: Representative[]
-    sortedParties: Party[],
+    sortedParties: [string, Party[]][],
   }
 };
 

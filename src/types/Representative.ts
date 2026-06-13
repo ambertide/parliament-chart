@@ -1,6 +1,7 @@
 import { Party } from "./Party";
 
 export type Representative = {
+  id: string,
   party: Party,
   location: {
     x: number,
