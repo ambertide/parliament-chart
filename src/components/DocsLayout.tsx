@@ -1,25 +1,28 @@
-import { FC, PropsWithChildren } from "react";
+import { FC, PropsWithChildren, useMemo } from "react";
 import { DocsSidebar } from "./DocsSidebar";
 import { useLocale, useTranslations } from "next-intl";
+import { docsPages } from "@/docs";
 
 export const DocsLayout: FC<PropsWithChildren> = ({ children }) => {
   const locale = useLocale();
   const t = useTranslations('DocsSidebar');
+  const links = useMemo(() => (
+    docsPages
+      .filter(({ availableIn }) => locale in availableIn)
+      .map(({ slug, title }) => ({
+        link: `/${locale}/docs/${slug}`,
+        title: t(title)
+      }))
+  ), [
+    locale,
+    t
+  ]);
   return (<div className="w-full h-full flex">
     <aside
       className="min-w-64"
     >
       <DocsSidebar
-        links={[
-          {
-            link: `/docs/${locale}/events`,
-            title: t("Parlevents")
-          },
-          {
-            link: `/docs/${locale}/attribution`,
-            title: t("Attribution")
-          }
-        ]} 
+        links={links} 
       />
     </aside>
     <section

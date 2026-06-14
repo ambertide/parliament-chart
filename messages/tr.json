@@ -38,5 +38,10 @@
     "Header": {
         "HOME": "ANASAYFA",
         "DOCS": "DÖKÜMANLAR"
+    },
+    "DocsSidebar": {
+        "Parlevent System": "Parlevent Event Sistemi",
+        "Attributions": "Atıf Metinleri",
+        "AI Use Policy": "Yapay Zeka Politikası"
     }
 }
