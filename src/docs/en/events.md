@@ -20,14 +20,14 @@ type Parlevent = {
 
 Event types are as follows:
 
-| Type | Description
-| ===== | ====== |
-| `OFFICE_ASSUMED` | Denotes when an MP assumes office for a specific term |
-| `OFFICE_VACATED` | Denotes when an MP leaves office for whatever reason |
-| `TERM_START` | Denotes the start of a parliamentary term |
-| `GOVERNMENT_FORMED` | Denotes the creation of a parliamentary term |
-| `MINISTER_ASSUMED_OFFICE` | Minister assuming ministerial office |
-| `PARTY_CHANGED` | Denotes an MP switching parties
+| Type                      | Description                                           |
+| ------------------------- | ----------------------------------------------------- |
+| `OFFICE_ASSUMED`          | Denotes when an MP assumes office for a specific term |
+| `OFFICE_VACATED`          | Denotes when an MP leaves office for whatever reason  |
+| `TERM_START`              | Denotes the start of a parliamentary term             |
+| `GOVERNMENT_FORMED`       | Denotes the creation of a parliamentary term          |
+| `MINISTER_ASSUMED_OFFICE` |  Minister assuming ministerial office                 |
+| `PARTY_CHANGED`           |  Denotes an MP switching parties                      |
 
 ## Notes on Party Changes
 

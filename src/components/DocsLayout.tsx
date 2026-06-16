@@ -17,18 +17,23 @@ export const DocsLayout: FC<PropsWithChildren> = ({ children }) => {
     locale,
     t
   ]);
-  return (<div className="w-full h-full flex">
-    <aside
-      className="min-w-64"
-    >
-      <DocsSidebar
-        links={links} 
-      />
-    </aside>
-    <section
-      className="grow block"
-    >
-      {children}
-    </section>
-  </div>);
+  return (
+    <div className="w-full h-full flex px-2">
+      <aside
+        className="min-w-64"
+      >
+        <DocsSidebar
+          links={links} 
+        />
+      </aside>
+      <section
+        className="grow block max-w-full"
+      >
+        <main
+          className="font-sans text-sm"
+        >
+          {children}
+        </main>
+      </section>
+    </div>);
 };
