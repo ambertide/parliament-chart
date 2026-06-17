@@ -35,11 +35,11 @@ export const PartyLegendItem: FC<PartyLegendItemProps> = ({
       onClick={onSelect}
     >
       <div
-        className={`inline-block w-4 h-4 ${notSelected ? "opacity-50" : ""}`}
+        className={`inline-block w-4 h-4 ${notSelected ? "opacity-25" : ""}`}
         style={{ backgroundColor }}
       />
       <span
-        className={`inline-block leading-none ${notSelected ? "opacity-50" : ""}`}
+        className={`inline-block leading-none ${notSelected ? "opacity-25" : ""}`}
         style={{
           anchorName: `--${partyShortName(partyName)}-legend-item`
         }}

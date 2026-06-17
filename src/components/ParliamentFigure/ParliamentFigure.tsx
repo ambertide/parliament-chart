@@ -48,6 +48,8 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
               key={representative.id}
               representative={representative}
               diagramMode={diagramMode}
+              selectedAlliance={selectedAlliance}
+              selectedParty={selectedParty}
             />
           )}
         </svg>

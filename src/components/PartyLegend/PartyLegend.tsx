@@ -41,7 +41,7 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
                 <PartyLegendItem
                   key={p.partyName}
                   onSelect={(partyName: string) => onPartyOrGroupSelect('party', partyName)}
-                  notSelected={!!selectedParty && selectedParty !== p.partyName}
+                  notSelected={!!selectedAlliance || (!!selectedParty && selectedParty !== p.partyName)}
                   {...p}
                 />) :
               <PartyGroupLegendItem

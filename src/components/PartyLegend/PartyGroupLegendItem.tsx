@@ -37,12 +37,12 @@ export const PartyGroupLegendItem: FC<PartyLegendItemProps> = ({
       onClick={onSelect}
     >
       <span
-        className={`col-span-full ${notSelected ? "opacity-50" : ""}`}
+        className={`col-span-full ${notSelected ? "opacity-25" : ""}`}
       >
         {t(groupName)}
       </span>
       <div
-        className={`block w-full h-full ${notSelected ? "opacity-50" : ""}`}
+        className={`block w-full h-full ${notSelected ? "opacity-25" : ""}`}
         style={{ backgroundColor }}
       />
       <ul
