@@ -17,5 +17,10 @@ export const injectMapData = async (
   individualReperesentatives: IndividualRepresentative[] 
 ): Promise<Representative[]> => {
   const slots = await extractMapSlots();
-  return matchMapToSeats(slots, chartData, individualReperesentatives);
+  const realData = matchMapToSeats(slots, chartData, individualReperesentatives);
+  return realData.map(({ mapLocation, location, ...rest }) => ({
+    ...rest,
+    mapLocation: {x: Number.parseFloat(mapLocation?.x?.toFixed(2) ?? 0), y: Number.parseFloat(mapLocation?.y?.toFixed(2) ?? 0)},
+    location: {x: Number.parseFloat(location.x.toFixed(2)), y: Number.parseFloat(location.y.toFixed(2))}
+  }));
 };
