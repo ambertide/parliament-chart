@@ -8,7 +8,7 @@ import { RepresentativeSeat } from "./RepresentativeSeat";
 import { usePartyOrGroupSelect } from "./usePartyOrGroupSelect";
 
 type ParliamentFigureProps = { representatives: Representative[] }& 
-  Omit<ComponentProps<typeof PartyLegend>, 'onPartyOrGroupSelect'>
+  Omit<ComponentProps<typeof PartyLegend>, 'onPartyOrGroupSelect' | 'selectedParty' | 'selectedAlliance'>
 ;
 
 export const ParliamentFigure: FC<ParliamentFigureProps> = ({
