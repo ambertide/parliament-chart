@@ -23,7 +23,7 @@ export const PartyLegenedTooltip: FC<PartyLegendTooltipProps> = ({
   const locale = useLocale();
   const t = useTranslations('Parties');
   return <div
-    className="hidden group-hover/party-legend-item:flex bg-background-secondary px-2 min-w-1/5 flex-col absolute"
+    className="hidden group-hover/party-legend-item:flex bg-background-secondary px-2 min-w-1/5 flex-col absolute opacity-100"
     style={{
       positionAnchor: anchorName,
       left: "anchor(right)",

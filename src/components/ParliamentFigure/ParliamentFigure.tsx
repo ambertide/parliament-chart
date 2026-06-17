@@ -3,24 +3,24 @@ import { Mode, ModeSwitch } from "../ModeSwitch";
 import { PartyLegend } from "../PartyLegend";
 import { BlankMapSVG } from "@/assets/images/BlankMapSVG";
 import { useDiagramMode } from "./useDiagramMode";
-import { Representative } from "@/types";
+import { Party, Representative } from "@/types";
 import { RepresentativeSeat } from "./RepresentativeSeat";
+import { usePartyOrGroupSelect } from "./usePartyOrGroupSelect";
 
 type ParliamentFigureProps = { representatives: Representative[] }& 
-  ComponentProps<typeof PartyLegend>
+  Omit<ComponentProps<typeof PartyLegend>, 'onPartyOrGroupSelect'>
 ;
 
 export const ParliamentFigure: FC<ParliamentFigureProps> = ({
   representatives,
-  // DO NOT try to grab the legend props seperately
-  // ts compoiler cannot figure out that the remaining
-  // props are tied to each other through the tagged union
-  // declaration I gave under party legend, and WILL error out.
-  ...legendProps
+  groupBy,
+  partiesOrGroups
 }) => {
-  const {svgRootRef, onDiagramToggleClick, diagramMode} = useDiagramMode(); 
+  const {svgRootRef, onDiagramToggleClick, diagramMode} = useDiagramMode();
+  const { onPartyOrGroupSelect, rootProps, selectedAlliance, selectedParty } = usePartyOrGroupSelect(); 
   return <section
     className="flex flex-col items-center"
+    {...rootProps}
   >
     <ModeSwitch
       setMode={onDiagramToggleClick}
@@ -53,7 +53,15 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
         </svg>
       </div>
       <figcaption>
-        <PartyLegend {...legendProps} />
+        <PartyLegend
+          onPartyOrGroupSelect={onPartyOrGroupSelect}
+          // Below casts aren't real, they're to fool the ts compiler as there is a bug
+          // that causes the groupBy/partiesOrGroups link.
+          groupBy={groupBy as 'deputies'}
+          partiesOrGroups={partiesOrGroups as Party[]}
+          selectedAlliance={selectedAlliance}
+          selectedParty={selectedParty}
+        />
       </figcaption>
     </figure>
   </section>;

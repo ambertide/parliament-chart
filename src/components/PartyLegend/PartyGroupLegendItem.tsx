@@ -1,4 +1,4 @@
-import type { FC } from "react";
+import { EventHandler, MouseEventHandler, useCallback, type FC } from "react";
 import type { Party } from "@/types";
 import { PartyLegendItem } from "./PartyLegendItem";
 import { useTranslations } from "next-intl";
@@ -6,7 +6,10 @@ import { useTranslations } from "next-intl";
 type PartyLegendItemProps = {
   groupName: string,
   groupColor: string,
-  partiesInGroup: Party[]
+  partiesInGroup: Party[],
+  onPartyOrGroupSelect: (type: 'alliance' | 'party', partyOrGroupName: string) => void,
+  selectedParty: string,
+  notSelected: boolean
 };
 
 /**
@@ -15,20 +18,31 @@ type PartyLegendItemProps = {
 export const PartyGroupLegendItem: FC<PartyLegendItemProps> = ({
   groupName,
   groupColor: backgroundColor,
-  partiesInGroup
+  partiesInGroup,
+  onPartyOrGroupSelect,
+  notSelected = false,
+  selectedParty
 }) => {
+  const onSelect = useCallback((e: unknown) => {
+    (e as Event).stopPropagation();
+    onPartyOrGroupSelect('alliance', groupName);
+  }, [
+    onPartyOrGroupSelect,
+    groupName
+  ]);
   const t = useTranslations('Parties');
   return (
     <li
-      className="list-none grid gap-1 grid-cols-[0.75em_auto]"
+      className="list-none grid gap-1 grid-cols-[0.75em_auto] cursor-pointer"
+      onClick={onSelect}
     >
       <span
-        className="col-span-full"
+        className={`col-span-full ${notSelected ? "opacity-50" : ""}`}
       >
         {t(groupName)}
       </span>
       <div
-        className="block w-full h-gull"
+        className={`block w-full h-full ${notSelected ? "opacity-50" : ""}`}
         style={{ backgroundColor }}
       />
       <ul
@@ -38,6 +52,9 @@ export const PartyGroupLegendItem: FC<PartyLegendItemProps> = ({
           <PartyLegendItem
             key={`${groupName}-${partyName}`}
             partyName={partyName}
+            onSelect={() => onPartyOrGroupSelect('party', partyName)}
+            // Blur if an alliance (that isn't this') is selected or if a party (that isn't this) is selected
+            notSelected={notSelected || (!!selectedParty && selectedParty !== partyName)}
             {...partyProps}
           />
         ))}
