@@ -27,7 +27,7 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
       selectedMode={diagramMode}
     />
     <figure
-      className="sm:w-160 w-80 flex flex-col gap-5"
+      className="lg:w-7xl sm:w-160 w-80 flex flex-col gap-5"
     >
       <div
         className="h-46 sm:h-96 box-border flex flex-col items-center justify-center"
