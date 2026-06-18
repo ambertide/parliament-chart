@@ -40,6 +40,7 @@ export const ModeSwitchButton: FC<ModeSwitchButtonProps> = ({
       alt={type}
       className="h-4"
       height="16"
+      loading="eager"
     />
   </label>
 </div>;
