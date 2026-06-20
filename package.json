@@ -2,6 +2,13 @@
   "name": "parliament-chart",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "22",
+    "runtime": {
+      "name": "node",
+      "version": "22"
+    }
+  },
   "scripts": {
     "dev": "next dev",
     "gendiagram": "node --import=tsx src/generator/main.ts",
