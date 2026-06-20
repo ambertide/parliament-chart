@@ -1,0 +1,1 @@
+export { ParliamentView } from './ParliamentView';

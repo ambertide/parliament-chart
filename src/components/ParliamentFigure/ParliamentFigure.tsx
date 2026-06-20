@@ -1,5 +1,5 @@
-import { ComponentProps, ElementType, FC, useMemo, useState } from "react";
-import { Mode, ModeSwitch } from "../ModeSwitch";
+import { ComponentProps, FC } from "react";
+import { ModeSwitch } from "../ModeSwitch";
 import { PartyLegend } from "../PartyLegend";
 import { BlankMapSVG } from "@/assets/images/BlankMapSVG";
 import { useDiagramMode } from "./useDiagramMode";

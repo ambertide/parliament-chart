@@ -1,6 +1,5 @@
 import data from "@/assets/data.generated.json";
-import { Menu } from "@/components/Menu/Menu";
-import { Figure } from "@/containers";
+import { ParliamentView } from "@/components";
 import { ChartData, Snapshot } from "@/types/ChartData";
 import { GetStaticPaths, GetStaticProps } from "next";
 import { useTranslations } from "next-intl";
@@ -38,13 +37,10 @@ export default function Term({ term, lang, milestone, milestonesOfTerm, chartDat
   const { push } = useRouter();
   return (
     <div className="flex flex-col gap-8">
-      <Figure
+      <ParliamentView
         groupBy={groupBy}
-        sortedParties={chartData[groupBy].sortedParties}
-        numberOfRepresentatives={selectedTerm >= 27 ? 600 : 550}
-        chartData={chartData[groupBy].representatives}
-      />
-      <Menu
+        partiesOrGroups={chartData[groupBy].sortedParties}
+        representatives={chartData[groupBy].representatives}
         selectedTerm={selectedTerm}
         selectedMilestone={milestone}
         milestonesOfTerm={milestonesOfTerm}

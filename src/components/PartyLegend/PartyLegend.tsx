@@ -24,7 +24,7 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
 }) => {
   return (
     <ol
-      className="flex flex-wrap flex-col gap-1 max-h-48 sm:max-h-28"
+      className={`flex flex-wrap flex-col gap-1 max-h-48 ${ groupBy === "deputies" ? "sm:max-h-28" : ""}`}
     >
       {
         groupBy === 'deputies'
