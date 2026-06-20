@@ -1949,6 +1949,16 @@
             "target": "PARLIAMENT"
         },
         {
+            "date": "2026-06-17T00:00:00.000Z",
+            "action": "PARTY_CHANGED",
+            "actor": "Nimet Özdemir",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://t24.com.tr/politika/chp-milletvekili-nimet-ozdemir-partisinden-istifa-etti,1329467?_t=1781950196648",
+            "target": "PARLIAMENT"
+        },
+        {
             "action": "OFFICE_ASSUMED",
             "target": "Parliament",
             "actor": "Jülide Sarıeroğlu",

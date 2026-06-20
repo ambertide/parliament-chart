@@ -1,4 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
+import { Vacancy } from "@/generator/parlevent/types";
 import { Party } from "@/types";
 
 export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'deputies' | 'alliance' , flatten: true): Party[];
@@ -72,6 +73,7 @@ const swapIndependentsAndVacants = (parties: Party[]): Party[] => {
 
 type CommonProps = {
   parties: Party[],
+  vacancies: Vacancy[]
 };
 
 type FlattenedProps = CommonProps & {
@@ -91,14 +93,13 @@ type UnflattenedGroupOutput = CommonProps & {
 
 type TotalProps = UnflattenedGroupOutput | UnflattenedPartyOutput | FlattenedProps;
 
-const injectVacancies = (parties: Party[]): Party[] => {
-  const vacantSeats = parties.reduce((sum, { representativeCount }) => sum - representativeCount, 600);
-  const vacants = vacantSeats > 0 ? [{
+const injectVacancies = (parties: Party[], vacancies: Vacancy[]): Party[] => {
+  const vacants = vacancies.length > 0 ? [{
     partyName: "Boş",
     partyColor: "#111111",
     groupName: "",
     allianceName: "",
-    representativeCount: vacantSeats
+    representativeCount: vacancies.length
   } satisfies Party] : [];
   return [
     ...parties,
@@ -112,10 +113,11 @@ export function sortParties(p: UnflattenedGroupOutput): [string, Party[]];
 export function sortParties({
   parties: partiesWOVacancies,
   groupBy,
-  flatten 
+  flatten,
+  vacancies
 }: TotalProps): [string, Party[]] | Party[] {
   
-  const parties = injectVacancies(partiesWOVacancies);
+  const parties = injectVacancies(partiesWOVacancies, vacancies);
   if (!flatten && ['alliance', 'groups'].includes(groupBy)) {
     return sortAndGroupParties(
       parties as any,

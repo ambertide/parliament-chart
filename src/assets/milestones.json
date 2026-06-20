@@ -4840,7 +4840,8 @@
                         "allianceName": "Millet İttifakı",
                         "representativeCount": 43
                     }
-                ]
+                ],
+                "vacancies": []
             },
             "date": "2018-07-07T00:00:00.000Z",
             "slug": "formation"
@@ -9701,7 +9702,8 @@
                         "allianceName": "Cumhur İttifakı",
                         "representativeCount": 5
                     }
-                ]
+                ],
+                "vacancies": []
             },
             "date": "2023-06-02T00:00:00.000Z",
             "slug": "formation"
@@ -14623,7 +14625,8 @@
                         "allianceName": "Cumhur İttifakı",
                         "representativeCount": 1
                     }
-                ]
+                ],
+                "vacancies": []
             },
             "date": "2023-06-02T12:00:00.000Z",
             "slug": "inaguration",
@@ -19539,7 +19542,8 @@
                         "allianceName": "Cumhur İttifakı",
                         "representativeCount": 1
                     }
-                ]
+                ],
+                "vacancies": []
             },
             "date": "2023-07-06T12:00:00.000Z",
             "slug": "saadet-voting-bloc",
@@ -24406,6 +24410,140 @@
                         "groupName": "",
                         "allianceName": "",
                         "representativeCount": 6
+                    }
+                ],
+                "vacancies": [
+                    {
+                        "term": 28,
+                        "province": "Kocaeli",
+                        "lastOfficeHolder": {
+                            "name": "Hasan Bitmez",
+                            "party": "Saadet Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#CF3338",
+                            "term": 28,
+                            "province": "Kocaeli"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2023-12-14T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Hasan Bitmez",
+                            "metadata": {
+                                "reason": "PASSED"
+                            },
+                            "source": "https://www.bbc.com/turkce/articles/cpex5g33kzno",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Hatay",
+                        "lastOfficeHolder": {
+                            "name": "Şerafettin Can Atalay",
+                            "party": "Türkiye İşçi Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#B61F23",
+                            "term": 28,
+                            "province": "Hatay"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-01-30T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Şerafettin Can Atalay",
+                            "metadata": {
+                                "reason": "MEMBERSHIP_LOSS"
+                            },
+                            "source": "https://www.bbc.com/turkce/articles/c6p9x0wn6lko",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Afyonkarahisar",
+                        "lastOfficeHolder": {
+                            "name": "Burcu Köksal",
+                            "party": "Cumhuriyet Halk Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#ED1C24",
+                            "term": 28,
+                            "province": "Afyonkarahisar"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-04-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Burcu Köksal",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Kırıkkale",
+                        "lastOfficeHolder": {
+                            "name": "Ahmet Önal",
+                            "party": "Cumhuriyet Halk Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#ED1C24",
+                            "term": 28,
+                            "province": "Kırıkkale"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-04-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Ahmet Önal",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Adıyaman",
+                        "lastOfficeHolder": {
+                            "name": "Abdurrahman Tutdere",
+                            "party": "Cumhuriyet Halk Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#ED1C24",
+                            "term": 28,
+                            "province": "Adıyaman"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-04-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Abdurrahman Tutdere",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Kastamonu",
+                        "lastOfficeHolder": {
+                            "name": "Hasan Baltacı",
+                            "party": "Cumhuriyet Halk Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#ED1C24",
+                            "term": 28,
+                            "province": "Kastamonu"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-04-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Hasan Baltacı",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+                            "target": "PARLIAMENT"
+                        }
                     }
                 ]
             },
@@ -29274,6 +29412,162 @@
                         "allianceName": "Millet İttifakı",
                         "representativeCount": 25
                     }
+                ],
+                "vacancies": [
+                    {
+                        "term": 28,
+                        "province": "Kocaeli",
+                        "lastOfficeHolder": {
+                            "name": "Hasan Bitmez",
+                            "party": "Saadet Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#CF3338",
+                            "term": 28,
+                            "province": "Kocaeli"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2023-12-14T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Hasan Bitmez",
+                            "metadata": {
+                                "reason": "PASSED"
+                            },
+                            "source": "https://www.bbc.com/turkce/articles/cpex5g33kzno",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Hatay",
+                        "lastOfficeHolder": {
+                            "name": "Şerafettin Can Atalay",
+                            "party": "Türkiye İşçi Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#B61F23",
+                            "term": 28,
+                            "province": "Hatay"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-01-30T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Şerafettin Can Atalay",
+                            "metadata": {
+                                "reason": "MEMBERSHIP_LOSS"
+                            },
+                            "source": "https://www.bbc.com/turkce/articles/c6p9x0wn6lko",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Afyonkarahisar",
+                        "lastOfficeHolder": {
+                            "name": "Burcu Köksal",
+                            "party": "Cumhuriyet Halk Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#ED1C24",
+                            "term": 28,
+                            "province": "Afyonkarahisar"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-04-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Burcu Köksal",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Kırıkkale",
+                        "lastOfficeHolder": {
+                            "name": "Ahmet Önal",
+                            "party": "Cumhuriyet Halk Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#ED1C24",
+                            "term": 28,
+                            "province": "Kırıkkale"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-04-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Ahmet Önal",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Adıyaman",
+                        "lastOfficeHolder": {
+                            "name": "Abdurrahman Tutdere",
+                            "party": "Cumhuriyet Halk Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#ED1C24",
+                            "term": 28,
+                            "province": "Adıyaman"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-04-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Abdurrahman Tutdere",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Kastamonu",
+                        "lastOfficeHolder": {
+                            "name": "Hasan Baltacı",
+                            "party": "Cumhuriyet Halk Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#ED1C24",
+                            "term": 28,
+                            "province": "Kastamonu"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-04-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Hasan Baltacı",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "İstanbul (I)",
+                        "lastOfficeHolder": {
+                            "name": "Murat Kurum",
+                            "party": "Adalet ve Kalkınma Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#FDA000",
+                            "term": 28,
+                            "province": "İstanbul (I)"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-07-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Murat Kurum",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.bbc.com/turkce/articles/crgmzy12pm2o",
+                            "target": "PARLIAMENT"
+                        }
+                    }
                 ]
             },
             "date": "2025-01-10T12:00:00.000Z",
@@ -31445,9 +31739,9 @@
                     },
                     {
                         "name": "Nimet Özdemir",
-                        "party": "Cumhuriyet Halk Partisi",
+                        "party": "PARLIAMENT",
                         "endOfTermStatus": "",
-                        "partyColor": "#ED1C24",
+                        "partyColor": "#000000",
                         "term": 28,
                         "province": "İstanbul (I)"
                     },
@@ -34033,7 +34327,7 @@
                         "partyColor": "#ED1C24",
                         "groupName": "",
                         "allianceName": "Millet İttifakı",
-                        "representativeCount": 138
+                        "representativeCount": 137
                     },
                     {
                         "partyName": "Milliyetçi Hareket Partisi",
@@ -34126,9 +34420,187 @@
                         "allianceName": "Millet İttifakı",
                         "representativeCount": 20
                     }
+                ],
+                "vacancies": [
+                    {
+                        "term": 28,
+                        "province": "Kocaeli",
+                        "lastOfficeHolder": {
+                            "name": "Hasan Bitmez",
+                            "party": "Saadet Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#CF3338",
+                            "term": 28,
+                            "province": "Kocaeli"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2023-12-14T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Hasan Bitmez",
+                            "metadata": {
+                                "reason": "PASSED"
+                            },
+                            "source": "https://www.bbc.com/turkce/articles/cpex5g33kzno",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Hatay",
+                        "lastOfficeHolder": {
+                            "name": "Şerafettin Can Atalay",
+                            "party": "Türkiye İşçi Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#B61F23",
+                            "term": 28,
+                            "province": "Hatay"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-01-30T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Şerafettin Can Atalay",
+                            "metadata": {
+                                "reason": "MEMBERSHIP_LOSS"
+                            },
+                            "source": "https://www.bbc.com/turkce/articles/c6p9x0wn6lko",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Afyonkarahisar",
+                        "lastOfficeHolder": {
+                            "name": "Burcu Köksal",
+                            "party": "Cumhuriyet Halk Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#ED1C24",
+                            "term": 28,
+                            "province": "Afyonkarahisar"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-04-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Burcu Köksal",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Kırıkkale",
+                        "lastOfficeHolder": {
+                            "name": "Ahmet Önal",
+                            "party": "Cumhuriyet Halk Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#ED1C24",
+                            "term": 28,
+                            "province": "Kırıkkale"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-04-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Ahmet Önal",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Adıyaman",
+                        "lastOfficeHolder": {
+                            "name": "Abdurrahman Tutdere",
+                            "party": "Cumhuriyet Halk Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#ED1C24",
+                            "term": 28,
+                            "province": "Adıyaman"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-04-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Abdurrahman Tutdere",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "Kastamonu",
+                        "lastOfficeHolder": {
+                            "name": "Hasan Baltacı",
+                            "party": "Cumhuriyet Halk Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#ED1C24",
+                            "term": 28,
+                            "province": "Kastamonu"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-04-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Hasan Baltacı",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "İstanbul (I)",
+                        "lastOfficeHolder": {
+                            "name": "Murat Kurum",
+                            "party": "Adalet ve Kalkınma Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#FDA000",
+                            "term": 28,
+                            "province": "İstanbul (I)"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2024-07-02T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Murat Kurum",
+                            "metadata": {
+                                "reason": "RESIGNATION"
+                            },
+                            "source": "https://www.bbc.com/turkce/articles/crgmzy12pm2o",
+                            "target": "PARLIAMENT"
+                        }
+                    },
+                    {
+                        "term": 28,
+                        "province": "İstanbul (I)",
+                        "lastOfficeHolder": {
+                            "name": "Sırrı Süreyya Önder",
+                            "party": "Halkların Eşitlik ve Demokrasi Partisi",
+                            "endOfTermStatus": "",
+                            "partyColor": "#8C4799",
+                            "term": 28,
+                            "province": "İstanbul (I)"
+                        },
+                        "officeVacatedEvent": {
+                            "date": "2025-05-03T00:00:00.000Z",
+                            "action": "OFFICE_VACATED",
+                            "actor": "Sırrı Süreyya Önder",
+                            "metadata": {
+                                "reason": "PASSED"
+                            },
+                            "source": "https://www.bbc.com/turkce/articles/cd6jd230l41o",
+                            "target": "PARLIAMENT"
+                        }
+                    }
                 ]
             },
-            "date": "2026-04-01T00:00:00.000Z",
+            "date": "2026-07-01T00:00:00.000Z",
             "slug": "current",
             "description": "28TH_PARLIAMENT_PRESENT_DAY"
         }

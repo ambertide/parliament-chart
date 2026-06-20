@@ -1,5 +1,6 @@
 import { Party, Representative } from "@/types";
 import { sortParties } from "./sortParties";
+import { Vacancy } from "@/generator/parlevent/types";
 
 export type PreSortRepresentative = Omit<Representative, 'party' | 'clockwise' | 'counterClockwise' | 'mapLocation'> & { angle: number, distanceFromCentre: number};
 type RepsByParty = Record<
@@ -15,7 +16,8 @@ type RepsByParty = Record<
 type SortRepresentatives = (p:{
   parties: Party[],
   groupBy: 'deputies' | 'groups' | 'alliance',
-  representatives: PreSortRepresentative[]
+  representatives: PreSortRepresentative[],
+  vacancies: Vacancy[]
 }) => {
   representatives: Omit<Representative, 'mapLocation'>[],
   sortedParties: Party[],
@@ -40,10 +42,11 @@ const sortSeats = (representatives: PreSortRepresentative[]) => (
 export const sortRepresentatives: SortRepresentatives = ({
   parties,
   groupBy,
-  representatives
+  representatives,
+  vacancies
 }) => {
   const sortedRepresentatives = sortSeats(representatives);
-  const sortedParties = sortParties({ parties, groupBy, flatten: true });
+  const sortedParties = sortParties({ parties, groupBy, flatten: true, vacancies });
   let currentPartyIndex = 0;
   const repsUpdated: Omit<Representative, 'mapLocation'>[] = [];
   const repsClone = [...sortedRepresentatives];

@@ -117,3 +117,11 @@ export type Parlevent =
   | ParleventPartyJoinedAlliance
   | ParleventPartyLeftAlliance
   | ParleventPartyChanged;
+
+
+export type Vacancy = {
+  province: string,
+  term: number, 
+  lastOfficeHolder: RepresentativeRecord,
+  officeVacatedEvent: ParleventOfficeVacated
+};

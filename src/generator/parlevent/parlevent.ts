@@ -4,7 +4,8 @@ import {
   Parlevent,
   PartyRecord,
   PartySummaryRecord,
-  RepresentativeRecord
+  RepresentativeRecord,
+  Vacancy
 } from "./types";
 
 export class ParleventEngine {
@@ -130,6 +131,12 @@ export class ParleventEngine {
               .find(({ name }) => name === event.actor);
             if (toDelete) {
               accum.representatives.delete(toDelete);
+              accum.vacancies.push({
+                term: toDelete.term,
+                province: toDelete.province,
+                lastOfficeHolder: toDelete,
+                officeVacatedEvent: event
+              });
             } else {
               console.error(`Could not find ${event.actor}`);
             }
@@ -176,6 +183,7 @@ export class ParleventEngine {
         currentTerm: "20",
         representatives: new Set<RepresentativeRecord>(),
         alliances: new Map<string, Set<string>>(),
+        vacancies: [] as Vacancy[]
       },
     );
     return {
@@ -185,6 +193,7 @@ export class ParleventEngine {
         p,
         source.alliances,
       ),
+      vacancies: [ ...source.vacancies ]
     };
   };
 

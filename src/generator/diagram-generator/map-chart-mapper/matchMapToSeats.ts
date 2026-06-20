@@ -1,3 +1,4 @@
+import { Vacancy } from "@/generator/parlevent/types";
 import { IndividualRepresentative, Representative } from "@/types";
 
 
@@ -40,18 +41,42 @@ const pointDistance: PointDistance = ({x: xA, y: yA}, {x: xB, y: yB}) => (
  * @param mapData Map point slot data, seperated by province and sorted by y x offsets
  * @param chartData Parliamentary arch chart data not yet populated with map points
  * @param individualReperesentatives A list of individual represenetatives in this term.
+ * @param vacancies Province seats that are vacant.
  */
 export const matchMapToSeats = (
   mapData: Map<string, {x: number, y: number}[]>,
   // This one hold representations of the reps in the chart data
   chartData: Omit<Representative, 'mapLocation'>[],
   // this one holds actual representative data
-  individualReperesentatives: IndividualRepresentative[] 
+  individualReperesentatives: IndividualRepresentative[],
+  vacancies: Vacancy[] 
 ): Representative[] => {
   // First sort the reps by city.
   const groupedByProvince = Map.groupBy(individualReperesentatives, ({ province }) => canonizeName(province));
   // Also, those arrays by the party name.
-  const groupedByProvinceAndParty = new Map(Array.from(groupedByProvince).map(([province, reps]) => [province, Map.groupBy(reps, ({ party }) => party)]));
+  const groupedByProvinceAndPartyOnlyReps = new Map(Array.from(groupedByProvince).map(([province, reps]) => [province, Map.groupBy(reps, ({ party }) => party)]));
+  // Furthermore we must insert the vacancies, which has a different object shape than this
+  // into the vacancies table (ie: Consider that vacant seats are not rep data.)
+  const groupedByProvinceAndParty = vacancies.reduce((accum, vacantSeat) => {
+    // Boş is the special constant describing vacant seat "party".
+    const canonProvinceName = canonizeName(vacantSeat.province);
+    if (!accum.get(canonProvinceName)) {
+      accum.set(canonProvinceName, new Map<string, []>);
+    }
+
+    if (!accum.get(canonProvinceName)?.get('Boş')) {
+      accum.get(canonProvinceName)!.set('Boş', []);
+    }
+    accum.get(canonProvinceName)!.get('Boş')!.push({
+      endOfTermStatus: '',
+      name: '',
+      party: 'Boş',
+      partyColor: '#111111',
+      province: vacantSeat.province,
+      term: vacantSeat.term
+    });
+    return accum;
+  }, groupedByProvinceAndPartyOnlyReps);
   // Finally group the chart data by parties to access the objects faster by party.
   const partyChartLookupTable = Map.groupBy(chartData, ({ party: { partyName } }) => partyName);
   groupedByProvinceAndParty.forEach((partiesInProvince, province) => {

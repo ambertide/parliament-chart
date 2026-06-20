@@ -5,6 +5,7 @@ import {
   type PreSortRepresentative,
 } from "./sortRepresenatives";
 import { sortParties } from "./sortParties";
+import { Vacancy } from "@/generator/parlevent/types";
 
 const RADII = 2.5;
 
@@ -209,6 +210,7 @@ type CalculateSeatCoords = (p: {
   groupBy: "deputies" | "alliance";
   numberOfRepresentatives: number;
   individualRepresentatives: IndividualRepresentative[];
+  vacancies: Vacancy[];
 }) => {
   representatives: Omit<Representative, 'mapLocation'>[];
   sortedParties: Party[] | [string, Party[]][];
@@ -218,6 +220,7 @@ export const calculateSeatCoords: CalculateSeatCoords = ({
   parties,
   groupBy,
   numberOfRepresentatives,
+  vacancies
 }) => {
   const preSortRepresentatives = calculateBenches(numberOfRepresentatives);
   const { representatives } =
@@ -225,12 +228,14 @@ export const calculateSeatCoords: CalculateSeatCoords = ({
       parties,
       groupBy,
       representatives: preSortRepresentatives,
+      vacancies
     });
   const sortedParties = sortParties({
     parties,
     // @ts-ignore: Not necessary in build.
     flatten: groupBy === 'deputies' as any,
-    groupBy 
+    groupBy,
+    vacancies
   });
   return {
     representatives,

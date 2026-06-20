@@ -2,13 +2,15 @@ import { readFile, writeFile } from "fs/promises";
 import { calculateSeatCoords } from "./arch-chart-generator";
 import { PartyRecord, RepresentativeRecord } from "../parlevent";
 import { injectMapData } from "./map-chart-mapper";
+import { Vacancy } from "../parlevent/types";
 
 type SourcedData = {
   [term: string]: {
     [milestoneName: string]: {
       snapshot: {
         representatives: RepresentativeRecord[],
-        parties: PartyRecord[]
+        parties: PartyRecord[],
+        vacancies: Vacancy[]
       },
       date: string,
       slug: string
@@ -30,7 +32,8 @@ export const generateFromSourcedData = async (): Promise<void> => {
             const {
               snapshot: {
                 representatives: individualRepresentatives,
-                parties
+                parties,
+                vacancies
               },
               ...rest
             } = milestoneData;
@@ -41,14 +44,15 @@ export const generateFromSourcedData = async (): Promise<void> => {
                   individualRepresentatives,
                   groupBy,
                   numberOfRepresentatives: 600,
-                  parties
+                  parties,
+                  vacancies
                 });
                 return (
                   { ...await accum,
                     [groupBy]: {
                       sortedParties,
                       // Also fill in the map locations here as well
-                      representatives: await injectMapData(representatives, individualRepresentatives)
+                      representatives: await injectMapData(representatives, individualRepresentatives, vacancies)
                     }
                   });
               },
