@@ -11,7 +11,7 @@ resource "cloudflare_dns_record" "txt_record" {
   type    = "TXT"
   name    = "parlichart.com"
   ttl     = 3600
-  content = "\"hosting-site=partlichart-main\""
+  content = "\"hosting-site=parlichart-main-website\""
   comment = "Domain verification record"
   zone_id = var.zone_id
   proxied = false

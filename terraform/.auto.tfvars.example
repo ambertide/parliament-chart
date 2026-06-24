@@ -1,0 +1,5 @@
+cloudflare_api_token             = ""
+gcp_billing_account              = ""
+github_google_cloud_build_app_id = ""
+github_pat                       = ""
+zone_id                          = ""

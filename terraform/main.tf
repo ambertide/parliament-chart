@@ -3,7 +3,7 @@ resource "google_project" "default" {
   provider = google-beta.no_user_project_override
 
   name       = "Parlichart"
-  project_id = "partlichart-main"
+  project_id = "parlichart-main"
   # Required for any service that requires the Blaze pricing plan
   # (like Firebase Authentication with GCIP)
   billing_account = var.gcp_billing_account
@@ -55,7 +55,7 @@ resource "google_firebase_web_app" "default" {
 resource "google_firebase_hosting_site" "full" {
   provider = google-beta
   project  = google_project.default.project_id
-  site_id  = "partlichart-main"
+  site_id  = "parlichart-main-website"
   app_id   = google_firebase_web_app.default.app_id
 }
 
@@ -143,3 +143,38 @@ resource "google_cloudbuild_trigger" "parlichart_on_push" {
   filename        = "cloudbuild.yml"
   depends_on      = [google_secret_manager_secret_iam_policy.policy]
 }
+
+resource "random_id" "default" {
+  byte_length = 8
+}
+
+resource "google_storage_bucket" "default" {
+  project  = "parlichart-main"
+  name     = "${random_id.default.hex}-terraform-remote-backend"
+  location = "us-east1"
+
+  force_destroy               = false
+  public_access_prevention    = "enforced"
+  uniform_bucket_level_access = true
+
+  versioning {
+    enabled = true
+  }
+}
+
+resource "local_file" "default" {
+  file_permission = "0644"
+  filename        = "${path.module}/backend.tf"
+
+  # You can store the template in a file and use the templatefile function for
+  # more modularity, if you prefer, instead of storing the template inline as
+  # we do here.
+  content = <<-EOT
+  terraform {
+    backend "gcs" {
+      bucket = "${google_storage_bucket.default.name}"
+    }
+  }
+  EOT
+}
+
