@@ -20,7 +20,7 @@ export const LanguageSelect = () => {
     >
       <label
         htmlFor="locale-select"
-        className="not-italic font-ligature"
+        className="not-italic font-[Material_Symbols_Outlined]"
       >
         &#xe8e2;
         <span className="sr-only">
