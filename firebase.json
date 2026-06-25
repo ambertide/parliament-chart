@@ -1,7 +1,7 @@
 {
     "hosting": [
         {
-            "target": "target-name",
+            "target": "main",
             "public": "out",
             "rewrites": [
                 {
