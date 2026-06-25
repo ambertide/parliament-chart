@@ -33,6 +33,7 @@
   --font-serif: var(--font-redaction-10);
   --font-serif-degraded: var(--font-redaction-35);
   --font-mono: var(--font-ibm-plex-mono);
+  --font-ligature: var(--font-material-symbols-outlined);
 }
 
 body,
@@ -51,4 +52,18 @@ div#__next {
 .turkey-map[data-map-hidden="false"] {
   opacity: 1;
   transition-duration: 500ms;
+}
+
+.material-symbols-outlined {
+  font-family: "Material Symbols Outlined";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px; /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
 }

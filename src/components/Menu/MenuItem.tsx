@@ -11,11 +11,11 @@ export const MenuItem: FC<MenuItemProps> = ({ icon, children }) => (
   <li
     data-before={`${icon}`}
     className={`
-      before:h-full before:align-bottom before:inline-block before:font-[Material_Symbols_Outlined] before:mr-1 before:content-[attr(data-before)]
+      before:h-full before:align-bottom before:inline-block before:font-ligature before:mr-1 before:content-[attr(data-before)]
     `}
   >
     {children}
   </li>
-)
+);
 
 
