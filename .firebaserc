@@ -3,7 +3,7 @@
         "default": "parlichart-main"
     },
     "targets": {
-        "partlichart-main": {
+        "parlichart-main": {
             "hosting": {
                 "main": [
                     "parlichart-main-website"
