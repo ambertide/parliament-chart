@@ -1,0 +1,14 @@
+{
+    "projects": {
+        "default": "parlichart-main"
+    },
+    "targets": {
+        "partlichart-main": {
+            "hosting": {
+                "main": [
+                    "parlichart-main-website"
+                ]
+            }
+        }
+    }
+}
