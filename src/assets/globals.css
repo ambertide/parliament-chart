@@ -30,15 +30,16 @@
   --color-foreground-secondary: var(--foreground-secondary);
   --color-emphasis: var(--emphasis);
   --color-emphasis-secondary: var(--emphasis-secondary);
-  --font-sans: var(--font-ibm-plex-sans);
-  --font-mono: var(--font-newsreader);
+  --font-serif: var(--font-redaction-10);
+  --font-serif-degraded: var(--font-redaction-35);
+  --font-mono: var(--font-ibm-plex-mono);
 }
 
 body,
 div#__next {
   background-color: var(--background);
   color: var(--foreground);
-  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+  font-family: var(--font-redaction-10), Arial, Helvetica, sans-serif;
   height: 100%;
 }
 

@@ -8,7 +8,7 @@ export const Header = () => {
     className="w-full flex flex-row justify-between items-center shrink"
   >
     <nav
-      className="flex flex-row gap-2.5 text-foreground-secondary text-sm font-semibold"
+      className="flex flex-row gap-2.5 text-foreground-secondary text-sm font-semibold font-serif-degraded"
     >
       <a href={`/${locale}/terms/28/inaguration`}>{t('HOME')}</a>
       <a href={`/${locale}/docs/events`}>{t('DOCS')}</a>

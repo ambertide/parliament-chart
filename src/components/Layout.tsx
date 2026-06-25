@@ -1,17 +1,56 @@
 import type { Metadata } from "next";
 import { useLocale } from "next-intl";
-import { IBM_Plex_Sans, Newsreader } from "next/font/google";
+import { IBM_Plex_Mono, IBM_Plex_Sans, Newsreader } from "next/font/google";
+import localFont from 'next/font/local';
 import Head from "next/head";
 
-const ibmPlexSans = IBM_Plex_Sans({
-  variable: "--font-ibm-plex-sans",
-  subsets: ["latin"],
+const redaction10 = localFont({
+  src: [
+    {
+      path: '../assets/fonts/redaction/Redaction_10-Regular.woff2',
+      weight: '400',
+      style: 'normal',
+    },
+    {
+      path: '../assets/fonts/redaction/Redaction_10-Italic.woff2',
+      weight: '400',
+      style: 'italic',
+    },
+    {
+      path: '../assets/fonts/redaction/Redaction_10-Bold.woff2',
+      weight: '700',
+      style: 'normal',
+    }
+  ],
+  variable: '--font-redaction-10'
 });
 
-const newsreader = Newsreader({
-  variable: "--font-newsreader",
-  subsets: ["latin"],
+const redaction35 = localFont({
+  src: [
+    {
+      path: '../assets/fonts/redaction/Redaction_35-Regular.woff2',
+      weight: '400',
+      style: 'normal',
+    },
+    {
+      path: '../assets/fonts/redaction/Redaction_35-Italic.woff2',
+      weight: '400',
+      style: 'italic',
+    },
+    {
+      path: '../assets/fonts/redaction/Redaction_35-Bold.woff2',
+      weight: '700',
+      style: 'normal',
+    }
+  ],
+  variable: '--font-redaction-35'
 });
+
+const ibmPlexMono = IBM_Plex_Mono({
+  variable: "--font-ibm-plex-mono",
+  weight: ["400", "700"]
+});
+
 
 export const metadata: Metadata = {
   title: "Turkish Parliament Chart",
@@ -25,12 +64,12 @@ export default function RootLayout({
 }>) {
   const locale = useLocale();
   return (
-    <html lang={locale} className="h-full">
+    <html lang={locale} className={`h-full ${redaction10.variable} ${redaction35.variable} ${ibmPlexMono.variable}`}>
       <Head>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=account_balance,arrow_drop_down_circle,calendar_month,gavel,how_to_vote,info,sort,translate" />
       </Head>
       <body
-        className={`${ibmPlexSans.variable} ${newsreader.variable} antialiased p-2 h-full`}
+        className="antialiased p-2 h-full"
       >
         {children}
       </body>

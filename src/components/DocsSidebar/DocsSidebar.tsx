@@ -10,7 +10,7 @@ export const DocsSidebar: FC<DocsSidebarProps> = ({ links }) => (
   <nav>
     <ul>
       {links.map(({ link, title }) => <li
-        className="text-sm text-foreground"
+        className="text-sm text-foreground font-serif-degraded"
         key={link}
       >
         <a href={link}>
