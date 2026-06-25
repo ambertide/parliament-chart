@@ -66,7 +66,7 @@ export default function RootLayout({
   return (
     <html lang={locale} className={`h-full ${redaction10.variable} ${redaction35.variable} ${ibmPlexMono.variable}`}>
       <Head>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=account_balance,arrow_drop_down_circle,calendar_month,gavel,how_to_vote,info,sort,translate" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=account_balance,arrow_drop_down_circle,calendar_month,gavel,how_to_vote,info,sort,translatie&display=block" />
       </Head>
       <body
         className="antialiased p-2 h-full"
