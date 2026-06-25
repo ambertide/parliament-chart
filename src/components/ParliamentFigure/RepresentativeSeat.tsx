@@ -4,11 +4,20 @@ import { useSVGAnimationTimeline } from "./useSVGAnimationTimeline";
 
 const ANIMATION_DURATION = 500;
 
-export const RepresentativeSeat: FC<{representative: Representative, diagramMode: 'map' | 'chart', selectedAlliance: string, selectedParty: string}> = ({
+type RepresentativeSeatProps = {
+  representative: Representative,
+  diagramMode: 'map' | 'chart',
+  selectedAlliance: string,
+  selectedParty: string,
+  onRepresentativeClick: (representative: Representative) => void
+};
+
+export const RepresentativeSeat: FC<RepresentativeSeatProps> = ({
   representative,
   diagramMode,
   selectedAlliance,
-  selectedParty
+  selectedParty,
+  onRepresentativeClick
 }) => {
   const {
     svgProps,
@@ -37,7 +46,9 @@ export const RepresentativeSeat: FC<{representative: Representative, diagramMode
   ]);
   return (
     <circle
+      className="cursor-pointer"
       fill={representative.party.partyColor}
+      onClick={() => onRepresentativeClick(representative)}
       opacity={shouldBlurRepSeat ? 0.25 : 1.0}
       {...svgProps}
     >

@@ -50,6 +50,7 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
               diagramMode={diagramMode}
               selectedAlliance={selectedAlliance}
               selectedParty={selectedParty}
+              onRepresentativeClick={({ party: { partyName }}) => onPartyOrGroupSelect('party', partyName)}
             />
           )}
         </svg>
