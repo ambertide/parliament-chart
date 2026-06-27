@@ -64,5 +64,14 @@
         "Parlevent System": "Parlevent System",
         "Attributions": "Attributions",
         "AI Use Policy": "AI Use Policy"
+    },
+    "Banner": {
+        "28th Parliament": "28th Parliament",
+        "Elections no later than May 14, 2028": "Elections no later than May 14, 2028",
+        "Parliament in Session since May 14, 2023": "Parliament in Session since May 14, 2023",
+        "Browse historical data": "Browse historical data",
+        "Elections on May 14, 2028": "Elections on May 14, 2028",
+        "Innagurated on May 14, 2023": "Innagurated on May 14, 2023",
+        "History": "History"
     }
 }

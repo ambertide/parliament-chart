@@ -35,7 +35,6 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
         <svg
           id="root"
           viewBox="0 0 552 323"
-          className="grow w-full"
           ref={svgRootRef}
         >
           <BlankMapSVG isVisible={diagramMode === "map"} />

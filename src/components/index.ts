@@ -5,4 +5,4 @@ export { Header } from './Header';
 export { DocsLayout } from './DocsLayout';
 export { PartyLegend } from "./PartyLegend";
 export { ParliamentView } from './ParliamentView';
-
+export { ParlichartBanner } from './ParlichartBanner';

@@ -19,6 +19,8 @@
   --foreground-secondary: #dfe2e0;
   --emphasis: #f26a8d;
   --emphasis-secondary: #f58ea8;
+  --emphasis-tertiary: #fdecf1;
+  --activity-inactive-secondary: #fff9eb;
 }
 
 /*}*/
@@ -30,6 +32,8 @@
   --color-foreground-secondary: var(--foreground-secondary);
   --color-emphasis: var(--emphasis);
   --color-emphasis-secondary: var(--emphasis-secondary);
+  --color-emphasis-tertiary: var(--emphasis-tertiary);
+  --color-activity-inactive-secondary: var(--activity-inactive-secondary);
   --font-serif: var(--font-redaction-10);
   --font-serif-degraded: var(--font-redaction-35);
   --font-mono: var(--font-ibm-plex-mono);
