@@ -8,7 +8,7 @@ export const LanguageSelect = () => {
   const router = useRouter();
   const t = useTranslations('Utils');
   const onLanguageChange = useCallback((newLocale: string|number) => {
-    const newPath = router.asPath.replace(`/${locale}/`, `/${newLocale}/` as string);
+    const newPath = router.asPath.replace(`/${locale}`, `/${newLocale}` as string);
     router.push(newPath);
   }, [
     locale,
@@ -22,7 +22,7 @@ export const LanguageSelect = () => {
         htmlFor="locale-select"
         className="not-italic font-[Material_Symbols_Outlined]"
       >
-        &#xe8e2;
+        &#xE8E2;
         <span className="sr-only">
           {t('SwitchLanguage')}
         </span>

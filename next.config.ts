@@ -8,11 +8,6 @@ const nextConfig: NextConfig = {
   },
   redirects: async () => ([
     {
-      source: '/:lang',
-      destination: '/:lang/terms/28',
-      permanent: false
-    },
-    {
       source: "/:lang/terms/:term",
       destination: "/:lang/terms/:term/formation",
       permanent: false

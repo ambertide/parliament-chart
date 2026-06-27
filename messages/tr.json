@@ -43,5 +43,19 @@
         "Parlevent System": "Parlevent Event Sistemi",
         "Attributions": "Atıf Metinleri",
         "AI Use Policy": "Yapay Zeka Politikası"
+    },
+    "Banner": {
+        "28th Parliament": "28. Dönem",
+        "Elections no later than May 14, 2028": "Sonraki Seçim En Geç 14 Mayıs 2028",
+        "Parliament in Session since May 14, 2023": "14 Mayıs 2023'te Seçilen Dönem",
+        "Browse historical data": "Tarihi veriye gözat",
+        "Elections on 14/05/2028": "Seçimler 14/05/2028",
+        "Innagurated on 14/05/2023": "Yemin Töreni 14/05/2023",
+        "History": "Geçmiş"
+    },
+    "ExpressSelect": {
+        "orderBySelect": "<orderBySelect></orderBySelect> Sayısına Göre",
+        "electoralAlliance": "İttifaktakı Milletvekili",
+        "numberOfRepresentatives": "Partilerdeki Milletvekili"
     }
 }

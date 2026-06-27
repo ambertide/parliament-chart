@@ -10,7 +10,7 @@ export const Header = () => {
     <nav
       className="flex flex-row gap-2.5 text-foreground-secondary text-sm font-semibold font-serif-degraded"
     >
-      <a href={`/${locale}/terms/28/inaguration`}>{t('HOME')}</a>
+      <a href={`/${locale}`}>{t('HOME')}</a>
       <a href={`/${locale}/docs/events`}>{t('DOCS')}</a>
     </nav>
     <LanguageSelect />

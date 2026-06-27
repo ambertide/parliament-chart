@@ -1,11 +1,11 @@
-// ?react may look unimportant but is actually necessary for storybook
-// down the line.
 import ChartBanner from '@/assets/images/ChartBanner.svg';
-import { useTranslations } from 'next-intl';
-import { FC } from 'react';
+import { useLocale, useTranslations } from 'next-intl';
+import { FC, useMemo } from 'react';
 
 export const ParlichartBanner: FC<Record<never, never>> = () => {
   const t = useTranslations('Banner');
+  const locale = useLocale();
+  const link = useMemo(() => `/${locale}/terms/28/current`, [locale]);
   return (
     <div className="text-emphasis w-full">
       <div className="h-22 w-full flex flex-row gap-8 bg-emphasis-tertiary font-serif-degraded px-4 py-3">
@@ -27,13 +27,13 @@ export const ParlichartBanner: FC<Record<never, never>> = () => {
         </span>
         <a
           className="italic sm:hidden"
-          href=''
+          href={link}
         >
           {t('History')}
         </a>
         <a
           className="italic hidden sm:inline"
-          href=''
+          href={link}
         >
           {t('Browse historical data')}
         </a>
