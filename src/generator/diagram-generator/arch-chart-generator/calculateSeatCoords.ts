@@ -233,7 +233,7 @@ export const calculateSeatCoords: CalculateSeatCoords = ({
   const sortedParties = sortParties({
     parties,
     // @ts-ignore: Not necessary in build.
-    flatten: groupBy === 'deputies' as any,
+    flatten: groupBy === 'deputies',
     groupBy,
     vacancies
   });

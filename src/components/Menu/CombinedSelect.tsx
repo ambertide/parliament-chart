@@ -1,5 +1,5 @@
-import { parseOrdinal } from "@/utils"
-import { FC, useMemo } from "react"
+import { parseOrdinal } from "@/utils";
+import { FC } from "react";
 
 type CommonGovernmentProps = {
   headOfGovernment: string,
@@ -7,7 +7,7 @@ type CommonGovernmentProps = {
   // This should work until VIII, I may update later
   canonicalName: `${string}` | `${string} (${"I" | "II" | "III" | "IV" | "V" | "VI" | "VII" | "VIII"})`,
   supportingParties: string[]
-}
+};
 
 // Pre-2016 Priministerial governments
 type WestministerialGovernment = {
@@ -23,16 +23,16 @@ type WestministerialGovernment = {
     quorum: number
   }
   ministerialBreakdown: Record<string, number>
-} & CommonGovernmentProps
+} & CommonGovernmentProps;
 
-type PresidentialGovernment = CommonGovernmentProps
+type PresidentialGovernment = CommonGovernmentProps;
 
-type Government = WestministerialGovernment | PresidentialGovernment
+type Government = WestministerialGovernment | PresidentialGovernment;
 
 type TermMetadata = {
   term: number,
   governmentsUnderTerm: Government[],
-}
+};
 type CombinedSelectTypes = {
   terms: TermMetadata[],
   // Canonical name of the selected government
@@ -40,7 +40,7 @@ type CombinedSelectTypes = {
   selectedTerm: number,
   showGovernments: boolean,
   onTermSelect: (newTerm: number) => void 
-}
+};
 
 export const CombinedSelect: FC<CombinedSelectTypes> = ({
   terms,
@@ -84,14 +84,14 @@ export const CombinedSelect: FC<CombinedSelectTypes> = ({
                 if (isCollapsed) {
                   delete e.target.dataset.isCollapsed;
                 } else {
-                  e.target.dataset.isCollapsed = "true"
+                  e.target.dataset.isCollapsed = "true";
                 }
               } else if (e.target instanceof HTMLOptionElement) {
                 // Here we need an extra set to set the selectedcontets's innerText
                 // to the name of the term, so.
                 const selectedContent = e.target.closest('selectedcontent');
                 if (selectedContent) {
-                  selectedContent.textContent = `${parseOrdinal(term)} Term`
+                  selectedContent.textContent = `${parseOrdinal(term)} Term`;
                 }
               }
             }}
@@ -122,4 +122,4 @@ export const CombinedSelect: FC<CombinedSelectTypes> = ({
       ))}
     </select>
   );
-}
+};

@@ -1,9 +1,9 @@
-import { FC, JSX } from "react"
+import { FC, JSX } from "react";
 
 export type Option = {
   value: string | number,
   displayValue: string
-}
+};
 
 
 type BasicSelectProps = {
@@ -12,7 +12,7 @@ type BasicSelectProps = {
   id: string,
   onChange: (newValue: string | number) => void,
   className?: JSX.IntrinsicElements['select']['className']
-}
+};
 
 export const BasicSelect: FC<BasicSelectProps> = ({
   options,
@@ -36,4 +36,4 @@ export const BasicSelect: FC<BasicSelectProps> = ({
       </option>
     ))}
   </select>
-)
+);

@@ -26,7 +26,7 @@ export const ModeSwitchButton: FC<ModeSwitchButtonProps> = ({
     type="radio"
     checked={pressed}
     value={type}
-    onChange={e => {
+    onChange={() => {
       onClick();
     }}
     id={`${type}-mode-switch`}

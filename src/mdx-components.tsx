@@ -1,5 +1,5 @@
 import type { MDXComponents } from 'mdx/types';
-import { JSX } from 'react';
+
 
 
 const components = {

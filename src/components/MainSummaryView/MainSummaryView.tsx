@@ -1,4 +1,4 @@
-import { ComponentProps, FC, useState } from "react";
+import { ComponentProps, FC } from "react";
 import { ParliamentFigure } from "../ParliamentFigure";
 import { ParlichartBanner } from "../ParlichartBanner";
 

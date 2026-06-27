@@ -1,4 +1,4 @@
-import { FC, useMemo, useState } from "react";
+import { FC } from "react";
 import { ModeSwitchButton, ModeSwitchButtonProps } from "./ModeSwitchButton";
 
 type ModeSwitchProps = {

@@ -9,7 +9,7 @@ import {
   ParleventEngine
 } from "./parlevent";
 
-type GovernmentRecord = {
+export type GovernmentRecord = {
   headOfGovernment: string;
   canonicalName: string;
   /**

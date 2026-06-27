@@ -16,6 +16,6 @@ export const MenuItem: FC<MenuItemProps> = ({ icon, children }) => (
   >
     {children}
   </li>
-)
+);
 
 

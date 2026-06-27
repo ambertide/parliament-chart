@@ -1,1 +1,1 @@
-export { BasicSelect, type Option } from './BasicSelect'
+export { BasicSelect, type Option } from './BasicSelect';

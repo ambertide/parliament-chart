@@ -1,5 +1,5 @@
 import { DocsLayout } from "@/components";
-import { ChartData } from "@/types/ChartData";
+
 import { GetStaticPaths, GetStaticProps } from "next";
 import { docsPages } from '@/docs';
 

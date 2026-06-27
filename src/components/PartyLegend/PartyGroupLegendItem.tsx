@@ -1,4 +1,4 @@
-import { EventHandler, MouseEventHandler, useCallback, type FC } from "react";
+import {   useCallback, type FC } from "react";
 import type { Party } from "@/types";
 import { PartyLegendItem } from "./PartyLegendItem";
 import { useTranslations } from "next-intl";

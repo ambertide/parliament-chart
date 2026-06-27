@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { useLocale } from "next-intl";
-import { IBM_Plex_Mono, IBM_Plex_Sans, Newsreader } from "next/font/google";
+import { IBM_Plex_Mono } from "next/font/google";
 import localFont from 'next/font/local';
 import Head from "next/head";
 

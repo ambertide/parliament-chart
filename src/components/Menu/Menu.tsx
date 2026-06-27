@@ -56,7 +56,7 @@ export const Menu: FC<MenuProps> = ({
       >
         {t.rich("milestoneSelect", {
           milestoneSelect: () => <BasicSelect
-            options={(Object.entries(milestonesOfTerm) as ([string, { date: string, slug: string}][])).map(([_milestoneOfTerm, { date, slug }]) => ({
+            options={(Object.entries(milestonesOfTerm) as ([string, { date: string, slug: string}][])).map(([_milestoneOfTerm, { slug }]) => ({
               value: slug,
               displayValue: t(`milestone_${slug}`)
             }))}
