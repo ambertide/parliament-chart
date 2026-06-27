@@ -15,7 +15,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps<{lang: string | string[] | undefined}> = async ({ params: { lang } = {lang: 'en'}}) => {
   const messages = (await import(`../../../messages/${lang}.json`)).default;
-  const chartData = data["28" as keyof typeof data]["Present Day"]["snapshot"] as Snapshot;
+  const chartData = (data["28" as keyof typeof data] as any)["Present Day"]["snapshot"] as Snapshot;
   return { props: { lang, messages, chartData }};
 };
 
