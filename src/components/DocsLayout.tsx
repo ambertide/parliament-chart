@@ -1,11 +1,8 @@
-import dynamic from 'next/dynamic';
 import { FC, PropsWithChildren, useMemo } from "react";
+import { DocsSidebar } from './DocsSidebar';
 import { useLocale, useTranslations } from "next-intl";
 import { docsPages } from "@/docs";
 import { useRouter } from 'next/router';
-
- 
-const DocsSidebar = dynamic(() => import('../components/DocsSidebar'), { ssr: false });
 
 export const DocsLayout: FC<PropsWithChildren> = ({ children }) => {
   const locale = useLocale();
