@@ -1,7 +1,10 @@
+import dynamic from 'next/dynamic';
 import { FC, PropsWithChildren, useMemo } from "react";
-import { DocsSidebar } from "./DocsSidebar";
 import { useLocale, useTranslations } from "next-intl";
 import { docsPages } from "@/docs";
+
+ 
+const DocsSidebar = dynamic(() => import('../components/DocsSidebar'), { ssr: false });
 
 export const DocsLayout: FC<PropsWithChildren> = ({ children }) => {
   const locale = useLocale();
@@ -19,13 +22,9 @@ export const DocsLayout: FC<PropsWithChildren> = ({ children }) => {
   ]);
   return (
     <div className="w-full h-full flex px-2">
-      <aside
-        className="min-w-64"
-      >
-        <DocsSidebar
-          links={links} 
-        />
-      </aside>
+      <DocsSidebar
+        links={links} 
+      />
       <section
         className="grow block max-w-full"
       >
