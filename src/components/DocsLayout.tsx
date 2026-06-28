@@ -2,6 +2,7 @@ import dynamic from 'next/dynamic';
 import { FC, PropsWithChildren, useMemo } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { docsPages } from "@/docs";
+import { useRouter } from 'next/router';
 
  
 const DocsSidebar = dynamic(() => import('../components/DocsSidebar'), { ssr: false });
@@ -9,15 +10,18 @@ const DocsSidebar = dynamic(() => import('../components/DocsSidebar'), { ssr: fa
 export const DocsLayout: FC<PropsWithChildren> = ({ children }) => {
   const locale = useLocale();
   const t = useTranslations('DocsSidebar');
+  const router = useRouter();
   const links = useMemo(() => (
     docsPages
       .filter(({ availableIn }) => locale in availableIn)
       .map(({ slug, title }) => ({
         link: `/${locale}/docs/${slug}`,
-        title: t(title)
+        title: t(title),
+        current: router.asPath === `/${locale}/docs/${slug}`
       }))
   ), [
     locale,
+    router,
     t
   ]);
   return (

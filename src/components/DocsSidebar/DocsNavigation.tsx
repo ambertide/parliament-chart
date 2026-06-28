@@ -3,7 +3,8 @@ import { FC, JSX } from "react";
 type DocsNavigationProps = {
   links: {
     title: string,
-    link: string
+    link: string,
+    current?: boolean
   }[],
   className?: JSX.IntrinsicElements['nav']['className'],
   hidden?: boolean
@@ -24,9 +25,10 @@ export const DocsNavigation: FC<DocsNavigationProps> = ({
       // Also, yes I know display transitions arent widely adopted yet.
       className={`duration-300 transition-[display] ${hidden ? 'hidden' : ''}`}
     >
-      {links.map(({ link, title }) => <li
-        className="text-sm text-foreground font-serif-degraded"
+      {links.map(({ link, title, current }) => <li
+        className={`text-sm ${current ? 'text-emphasis': 'text-foreground'} font-serif-degraded`}
         key={link}
+        aria-current={current && 'page'}
       >
         <a href={link}>
           {title}
