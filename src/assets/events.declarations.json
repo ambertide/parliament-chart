@@ -1933,6 +1933,16 @@
             },
             "source": "https://www.bbc.com/turkce/articles/c8j2mxm2j3yo",
             "target": "Adalet ve Kalkınma Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Adnan Beker",
+            "date": "2026-07-04T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "http://bbc.com/turkce/articles/c70y8eepd9wo",
+            "target": "Bağımsız"
         }
     ]
 }
