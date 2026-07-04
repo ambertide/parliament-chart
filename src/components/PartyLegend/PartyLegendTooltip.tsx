@@ -22,8 +22,8 @@ export const PartyLegenedTooltip: FC<PartyLegendTooltipProps> = ({
 }) => {
   const locale = useLocale();
   const t = useTranslations('Parties');
-    className="hidden group-hover/party-legend-item:flex bg-background-secondary px-2 min-w-1/5 flex-col absolute opacity-100"
   return <dialog
+    className="hidden z-10 text-foreground group-hover/party-legend-item:flex bg-background border-background-secondary px-2 py-1 min-w-12 flex-col absolute"
     style={{
       positionAnchor: anchorName,
       left: "anchor(right)",
@@ -31,7 +31,7 @@ export const PartyLegenedTooltip: FC<PartyLegendTooltipProps> = ({
     }}
   >
     <span className="text-emphasis">{canonicalLongName}</span>
-    {locale !== 'tr' && canonicalLongName !== "Bağımsız" && <span>{t(canonicalLongName)}</span>}
+    {locale !== 'tr' && canonicalLongName !== "Bağımsız" && <span className="text-emphasis-secondary italic">{t(canonicalLongName)}</span>}
     {allianceName && <span>{t('MemberOf', { allianceName: t(allianceName) })}</span>}
     <span>{t('SeatCount', { seats: representativeCount})}</span>
   </dialog>;
