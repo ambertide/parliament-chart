@@ -36,23 +36,21 @@ export default function Term({ term, lang, milestone, milestonesOfTerm, chartDat
   const [groupBy, setGroupBy] = useState<'alliance' | 'deputies'>('deputies');
   const { push } = useRouter();
   return (
-    <div className="flex flex-col gap-8">
-      <ParliamentView
-        groupBy={groupBy}
-        partiesOrGroups={chartData[groupBy].sortedParties}
-        representatives={chartData[groupBy].representatives}
-        selectedTerm={selectedTerm}
-        selectedMilestone={milestone}
-        milestonesOfTerm={milestonesOfTerm}
-        onMilestoneSelect={newMilestone => push(`/${lang}/terms/${term}/${newMilestone}`)}
-        onTermSelect={term => push(`/${lang}/terms/${term}`)}
-        onDisplayOptionChange={e => setGroupBy(e as 'alliance' | 'deputies')}
-        selectedDisplayOption={groupBy}
-        displayOptions={[
-          { value: 'alliance', displayValue: t('electoralAlliance')},
-          { value: 'deputies', displayValue: t('numberOfRepresentatives')}
-        ]}
-      />
-    </div>
+    <ParliamentView
+      groupBy={groupBy}
+      partiesOrGroups={chartData[groupBy].sortedParties}
+      representatives={chartData[groupBy].representatives}
+      selectedTerm={selectedTerm}
+      selectedMilestone={milestone}
+      milestonesOfTerm={milestonesOfTerm}
+      onMilestoneSelect={newMilestone => push(`/${lang}/terms/${term}/${newMilestone}`)}
+      onTermSelect={term => push(`/${lang}/terms/${term}`)}
+      onDisplayOptionChange={e => setGroupBy(e as 'alliance' | 'deputies')}
+      selectedDisplayOption={groupBy}
+      displayOptions={[
+        { value: 'alliance', displayValue: t('electoralAlliance')},
+        { value: 'deputies', displayValue: t('numberOfRepresentatives')}
+      ]}
+    />
   );
 }

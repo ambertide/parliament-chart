@@ -9,13 +9,11 @@ export const ParliamentView: FC<FigureProps> = ({
   representatives,
   partiesOrGroups,
   ...menuProps
-}) => {
-  return <div className="flex flex-col gap-8">
-    <ParliamentFigure
-      partiesOrGroups={partiesOrGroups}
-      representatives={representatives}
-      // eslint-disable-next-line @typescript-eslint/no-explicit-any
-      groupBy={groupBy as any}
-    />
-  </div>;
-};
+}) => (
+  <ParliamentFigure
+    partiesOrGroups={partiesOrGroups}
+    representatives={representatives}
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    groupBy={groupBy as any}
+  />
+);

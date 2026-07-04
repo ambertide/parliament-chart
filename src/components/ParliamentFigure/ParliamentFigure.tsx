@@ -21,7 +21,7 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
   const {svgRootRef, onDiagramToggleClick, diagramMode} = useDiagramMode();
   const { onPartyOrGroupSelect, rootProps, selectedAlliance, selectedParty } = usePartyOrGroupSelect(); 
   return <section
-    className="flex flex-col items-center"
+    className="flex flex-col items-center w-full h-full grow"
     {...rootProps}
   >
     <ModeSwitch
@@ -29,33 +29,31 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
       selectedMode={diagramMode}
     />
     <figure
-      className="sm:w-160 w-80 flex flex-col gap-5"
+      className="grow flex items-center justify-center p-1 sm:p-2 md:p-4 lg:p-8 max-w-full max-h-full"
     >
-      <div
-        className="h-46 sm:h-96 box-border flex flex-col items-center justify-center"
+      <svg
+        className="grow"
+        id="root"
+        viewBox="0 0 552 323"
+        height="100%"
+        ref={svgRootRef}
       >
-        <svg
-          id="root"
-          viewBox="0 0 552 323"
-          ref={svgRootRef}
-        >
-          <BlankMapSVG isVisible={diagramMode === "map"} />
-          {representatives.map((
-            representative
-          ) =>
-            <RepresentativeSeat
-              // This is required the force the rerender when the groupBy attribute changes
-              // as well, do not set this to index or sth :)
-              key={representative.id}
-              representative={representative}
-              diagramMode={diagramMode}
-              selectedAlliance={selectedAlliance}
-              selectedParty={selectedParty}
-              onRepresentativeClick={({ party: { partyName }}) => onPartyOrGroupSelect('party', partyName)}
-            />
-          )}
-        </svg>
-      </div>
+        <BlankMapSVG isVisible={diagramMode === "map"} />
+        {representatives.map((
+          representative
+        ) =>
+          <RepresentativeSeat
+            // This is required the force the rerender when the groupBy attribute changes
+            // as well, do not set this to index or sth :)
+            key={representative.id}
+            representative={representative}
+            diagramMode={diagramMode}
+            selectedAlliance={selectedAlliance}
+            selectedParty={selectedParty}
+            onRepresentativeClick={({ party: { partyName }}) => onPartyOrGroupSelect('party', partyName)}
+          />
+        )}
+      </svg>
       <PartyLegend
         onPartyOrGroupSelect={onPartyOrGroupSelect}
         // Below casts aren't real, they're to fool the ts compiler as there is a bug
