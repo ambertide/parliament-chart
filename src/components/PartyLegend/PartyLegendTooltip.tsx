@@ -22,8 +22,8 @@ export const PartyLegenedTooltip: FC<PartyLegendTooltipProps> = ({
 }) => {
   const locale = useLocale();
   const t = useTranslations('Parties');
-  return <div
     className="hidden group-hover/party-legend-item:flex bg-background-secondary px-2 min-w-1/5 flex-col absolute opacity-100"
+  return <dialog
     style={{
       positionAnchor: anchorName,
       left: "anchor(right)",
@@ -34,5 +34,5 @@ export const PartyLegenedTooltip: FC<PartyLegendTooltipProps> = ({
     {locale !== 'tr' && canonicalLongName !== "Bağımsız" && <span>{t(canonicalLongName)}</span>}
     {allianceName && <span>{t('MemberOf', { allianceName: t(allianceName) })}</span>}
     <span>{t('SeatCount', { seats: representativeCount})}</span>
-  </div>;
+  </dialog>;
 };
