@@ -29,13 +29,12 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
       selectedMode={diagramMode}
     />
     <figure
-      className="grow flex items-center justify-center p-1 sm:p-2 md:p-4 lg:p-8 max-w-full max-h-full"
+      className="grow grid min-w-0 min-h-0 items-center justify-center p-1 sm:p-2 md:p-4 lg:p-8 max-w-full max-h-full"
     >
       <svg
-        className="grow"
+        className="w-auto h-full max-w-full max-h-full"
         id="root"
         viewBox="0 0 552 323"
-        height="100%"
         ref={svgRootRef}
       >
         <BlankMapSVG isVisible={diagramMode === "map"} />
