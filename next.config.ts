@@ -18,9 +18,7 @@ const nextConfig: NextConfig = {
       permanent: false
     }
   ]),
-  devIndicators: {
-    position: 'bottom-right'
-  },
+  devIndicators: false,
   pageExtensions: ['ts', 'tsx', 'md']
   /* config options here */,
   turbopack: {

@@ -56,19 +56,17 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
           )}
         </svg>
       </div>
-      <figcaption>
-        <PartyLegend
-          onPartyOrGroupSelect={onPartyOrGroupSelect}
-          // Below casts aren't real, they're to fool the ts compiler as there is a bug
-          // that causes the groupBy/partiesOrGroups link.
-          groupBy={groupBy as 'deputies'}
-          partiesOrGroups={partiesOrGroups as Party[]}
-          selectedAlliance={selectedAlliance}
-          selectedParty={selectedParty}
-          expressChangeMode={expressChangeMode}
-          onGroupByChange={onGroupByChange}
-        />
-      </figcaption>
+      <PartyLegend
+        onPartyOrGroupSelect={onPartyOrGroupSelect}
+        // Below casts aren't real, they're to fool the ts compiler as there is a bug
+        // that causes the groupBy/partiesOrGroups link.
+        groupBy={groupBy as 'deputies'}
+        partiesOrGroups={partiesOrGroups as Party[]}
+        selectedAlliance={selectedAlliance}
+        selectedParty={selectedParty}
+        expressChangeMode={expressChangeMode}
+        onGroupByChange={onGroupByChange}
+      />
     </figure>
   </section>;
 };
