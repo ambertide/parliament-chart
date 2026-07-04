@@ -1956,7 +1956,27 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://t24.com.tr/politika/chp-milletvekili-nimet-ozdemir-partisinden-istifa-etti,1329467?_t=1781950196648",
-            "target": "PARLIAMENT"
+            "target": "Bağımsız"
+        },
+        {
+            "date": "2026-06-24T00:00:00.000Z",
+            "action": "PARTY_CHANGED",
+            "actor": "Nimet Özdemir",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.bbc.com/turkce/articles/c8j2mxm2j3yo",
+            "target": "Adalet ve Kalkınma Partisi"
+        },
+        {
+            "date": "2026-07-04T00:00:00.000Z",
+            "action": "PARTY_CHANGED",
+            "actor": "Adnan Beker",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "http://bbc.com/turkce/articles/c70y8eepd9wo",
+            "target": "Bağımsız"
         },
         {
             "action": "OFFICE_ASSUMED",
