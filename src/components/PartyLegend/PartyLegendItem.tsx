@@ -1,5 +1,5 @@
 import { partyShortName } from "@/utils";
-import { useCallback, type FC } from "react";
+import { RefObject, useCallback, useRef, useState, type FC } from "react";
 import { PartyLegenedTooltip } from "./PartyLegendTooltip";
 import { Party } from "@/types";
 import { useTranslations } from "next-intl";
@@ -21,6 +21,8 @@ export const PartyLegendItem: FC<PartyLegendItemProps> = ({
   onSelect: _onSelect,
   notSelected = false
 }) => {
+  const anchorRef = useRef<HTMLElement>(null);
+  const [isHovering, setOnHover] = useState(false);
   const onSelect = useCallback((e: unknown) => {
     (e as Event).stopPropagation();
     _onSelect(partyName);
@@ -33,6 +35,9 @@ export const PartyLegendItem: FC<PartyLegendItemProps> = ({
     <li
       className={`group/party-legend-item list-none flex items-center gap-1 w-36 cursor-pointer `}
       onClick={onSelect}
+      onMouseEnter={() => setOnHover(true)}
+      onMouseLeave={() => setOnHover(false)}
+      ref={anchorRef as RefObject<HTMLLIElement>}
     >
       <div
         className={`inline-block w-4 h-4 ${notSelected ? "opacity-25" : ""}`}
@@ -40,17 +45,18 @@ export const PartyLegendItem: FC<PartyLegendItemProps> = ({
       />
       <span
         className={`inline-block leading-none ${notSelected ? "opacity-25" : ""}`}
-        style={{
-          anchorName: `--${partyShortName(partyName)}-legend-item`
-        }}
       >
         {specialPartyName(partyName) ? t(specialPartyName(partyName) as string) : partyShortName(partyName)}
       </span>
       <PartyLegenedTooltip
+        // This is necessary to re-trigger the calculation after animation
+        key={`${isHovering}`}
         canonicalLongName={partyName}
         representativeCount={representativeCount}
         allianceName={allianceName}
-        anchorName={`--${partyShortName(partyName)}-legend-item`}
+        // Anchor positioning does not work here!
+        // Probably because a new stacking context is created by absolutely positioned legend.
+        anchor={anchorRef}
       />
     </li>
   );

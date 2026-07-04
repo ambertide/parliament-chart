@@ -1,11 +1,11 @@
 import { useLocale, useTranslations } from "next-intl";
-import { FC } from "react";
+import { FC, RefObject } from "react";
 
 type PartyLegendTooltipProps = {
   canonicalLongName: string,
   representativeCount: number,
   allianceName: string,
-  anchorName: string
+  anchor: RefObject<HTMLElement | null>
 };
 
 /**
@@ -18,16 +18,15 @@ export const PartyLegenedTooltip: FC<PartyLegendTooltipProps> = ({
   canonicalLongName,
   representativeCount,
   allianceName,
-  anchorName
+  anchor
 }) => {
   const locale = useLocale();
   const t = useTranslations('Parties');
   return <dialog
-    className="hidden z-10 text-foreground group-hover/party-legend-item:flex bg-background border-background-secondary px-2 py-1 min-w-12 flex-col absolute"
+    className="hidden z-10 text-foreground -translate-y-full -translate-x-full group-hover/party-legend-item:flex bg-background border-2 border-background-secondary px-2 py-1 min-w-3xs flex-col fixed"
     style={{
-      positionAnchor: anchorName,
-      left: "anchor(right)",
-      top: "anchor(bottom)",
+      left: anchor.current?.getBoundingClientRect().left,
+      top: anchor.current?.getBoundingClientRect().top,
     }}
   >
     <span className="text-emphasis">{canonicalLongName}</span>

@@ -48,7 +48,7 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
             onGroupByChange={onGroupByChange}
           />}
         </div>
-        <ol
+        {isOpen && <ol
           className={`flex flex-wrap overflow-x-scroll overflow-y-hidden flex-col gap-1 justify-between h-full`}
         >
           {
@@ -79,7 +79,7 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
                     selectedParty={selectedParty}
                   />)
           }
-        </ol>
+        </ol>}
       </div>
     </figcaption>
   </>;
