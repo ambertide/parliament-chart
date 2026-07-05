@@ -58,5 +58,8 @@
         "orderBySelect": "<orderBySelect></orderBySelect> Sayısına Göre",
         "electoralAlliance": "İttifaktakı Milletvekili",
         "numberOfRepresentatives": "Partilerdeki Milletvekili"
+    },
+    "Legend": {
+        "Legend": "Lejand"
     }
 }

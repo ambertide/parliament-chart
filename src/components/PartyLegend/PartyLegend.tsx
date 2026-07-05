@@ -4,6 +4,7 @@ import { Party } from "@/types";
 import { PartyGroupLegendItem } from "./PartyGroupLegendItem";
 
 import { Menu } from "../Menu";
+import { LegendPopupButton } from "./LegendPopupButton";
 
 type PartyLegenedProps = ({
   groupBy: 'deputies',
@@ -25,15 +26,12 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
   onPartyOrGroupSelect,
   ...menuProps
 }) => {
-  const [isOpen, setOpen] = useState(false);
+  const [isOpen, setOpen] = useState(true);
   return <>
-    <button
-      className="peer absolute right-4 bottom-4 aria-pressed:-translate-y-46 transition px-6 py-1 bg-background-secondary"
-      aria-pressed={isOpen}
-      onClick={() => setOpen(prevIsOpen => !prevIsOpen)}
-    >
-      Legend
-    </button>
+    <LegendPopupButton
+      isOpen={isOpen}
+      setOpen={setOpen}
+    />
     <figcaption
       className={`absolute right-4 bottom-4 overflow-hidden ${!isOpen ? 'pointer-events-none' : ''}`}
     >

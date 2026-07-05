@@ -79,5 +79,8 @@
         "orderBySelect": "<selectLabel>Ordered by</selectLabel> <orderBySelect></orderBySelect>",
         "electoralAlliance": "MPs in Electoral Alliance",
         "numberOfRepresentatives": "MPs in Parties"
+    },
+    "Legend": {
+        "Legend": "Legend"
     }
 }
