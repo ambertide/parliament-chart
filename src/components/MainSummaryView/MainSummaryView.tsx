@@ -8,7 +8,7 @@ export const MainSummaryView: FC<FigureProps> = ({
   representatives,
   partiesOrGroups,
   groupBy,
-  onGroupByChange
+  ...menuProps
 }) => {
   return <div className="flex w-full flex-col gap-8">
     <ParlichartBanner />
@@ -16,6 +16,7 @@ export const MainSummaryView: FC<FigureProps> = ({
       partiesOrGroups={partiesOrGroups}
       representatives={representatives}
       groupBy={groupBy}
+      {...menuProps}
     />
   </div>;
 };
