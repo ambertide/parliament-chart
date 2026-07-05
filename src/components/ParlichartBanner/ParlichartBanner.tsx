@@ -1,4 +1,4 @@
-import ChartBanner from '@/assets/images/ChartBanner.svg';
+
 import { useLocale, useTranslations } from 'next-intl';
 import { FC, useMemo } from 'react';
 
@@ -8,13 +8,10 @@ export const ParlichartBanner: FC<Record<never, never>> = () => {
   const link = useMemo(() => `/${locale}/terms/28/current`, [locale]);
   return (
     <div className="text-emphasis w-full">
-      <div className="h-22 w-full flex flex-row gap-8 bg-emphasis-tertiary font-serif-degraded px-4 py-3">
-        <ChartBanner
-          className="min-w-29.5"
-        />
-        <div>
+      <div className="h-fit w-full bg-emphasis-tertiary items-center font-serif-degraded px-4 py-1">
+        <div className="md:flex md:items-center md:flex-row md:justify-between">
           <h1 className="text-xl sm:text-4xl font-bold">{t('28th Parliament')}</h1>
-          <span className="hidden sm:inline-block text-2xl font-bold">{t('Elections no later than May 14, 2028')}</span>
+          <span className="hidden sm:inline text-2xl font-bold">{t('Elections no later than May 14, 2028')}</span>
           <span className="sm:hidden text-base font-semibold sm:font-bold truncate">{t('Elections on 14/05/2028')}</span>
         </div>
       </div>
