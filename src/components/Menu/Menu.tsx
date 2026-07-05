@@ -28,48 +28,45 @@ export const Menu: FC<MenuProps> = ({
   const locale = useLocale();
   const t = useTranslations('Menu');
   const selectedMilestoneDate = useMemo(() => new Date(Object.values(milestonesOfTerm).find(({ slug }) => selectedMilestone === slug)?.date || ''), [milestonesOfTerm, selectedMilestone]);
-  const selectedMilestoneInfo = useMemo(() => Object.values(milestonesOfTerm).find(({ slug }) => selectedMilestone === slug)?.description || '', [milestonesOfTerm, selectedMilestone]);
   return (
-    <menu className="w-full max-w-160 items-stretch flex flex-col text-lg p-4 bg-background-secondary border-4 border-background-secondary rounded-sm">
-      <MenuItem
-        icon="&#xE84F;"
-      >
-        {t.rich("termSelect", {
-          termSelect: () => <BasicSelect
-            options={[20, 21, 22, 23, 24, 25, 26, 27, 28].map((value) => (
-              {
-                value,
-                displayValue: `${parseOrdinal(value, locale)}`
-              }
-            ))}
-            selectedValue={selectedTerm}
-            id="parliament-term-picker"
-            onChange={e => onTermSelect(e as number)}
-          />,
-          selectLabel: (labelText) => <label htmlFor="parliament-term-picker">
-            {labelText}
-          </label>
-        })}
-      </MenuItem>
-      <MenuItem
-        icon="&#xEBCC;"
-      >
-        {t.rich("milestoneSelect", {
-          milestoneSelect: () => <BasicSelect
-            options={(Object.entries(milestonesOfTerm) as ([string, { date: string, slug: string}][])).map(([_milestoneOfTerm, { slug }]) => ({
-              value: slug,
-              displayValue: t(`milestone_${slug}`)
-            }))}
-            selectedValue={selectedMilestone} 
-            id="parliament-milestone-picker"
-            onChange={e => onMilestoneSelect(e as string)}
-          />,
-          selectLabel: text => <label htmlFor="parliament-milestone-picker">
-            {text}
-          </label>,
-          selectedMilestoneDate
-        })}
-      </MenuItem>
+    <menu className="w-full max-w-160 items-stretch flex flex-col text-lg p-0 bg-background-secondary border-4 border-background-secondary rounded-sm">
+      <span>
+        <MenuItem
+          icon="&#xE84F;"
+        >
+          {t.rich("termSelect", {
+            termSelect: () => <BasicSelect
+              options={[20, 21, 22, 23, 24, 25, 26, 27, 28].map((value) => (
+                {
+                  value,
+                  displayValue: `${parseOrdinal(value, locale)}`
+                }
+              ))}
+              selectedValue={selectedTerm}
+              id="parliament-term-picker"
+              onChange={e => onTermSelect(e as number)}
+            />,
+            selectLabel: (labelText) => <label htmlFor="parliament-term-picker">
+              {labelText}
+            </label>
+          })}
+          {t.rich("milestoneSelect", {
+            milestoneSelect: () => <BasicSelect
+              options={(Object.entries(milestonesOfTerm) as ([string, { date: string, slug: string}][])).map(([_milestoneOfTerm, { slug }]) => ({
+                value: slug,
+                displayValue: t(`milestone_${slug}`)
+              }))}
+              selectedValue={selectedMilestone} 
+              id="parliament-milestone-picker"
+              onChange={e => onMilestoneSelect(e as string)}
+            />,
+            selectLabel: text => <label htmlFor="parliament-milestone-picker">
+              {text}
+            </label>,
+            selectedMilestoneDate
+          })}
+        </MenuItem>
+      </span>
       <MenuItem
         icon="&#xE164;"
       >
@@ -83,19 +80,8 @@ export const Menu: FC<MenuProps> = ({
           selectLabel: (text) => <label htmlFor="sort-by-picker" className="unset">
             {text}
           </label>
-          
         })}
-        
-        {' '}
-        
       </MenuItem>
-      {selectedMilestoneInfo && (
-        <MenuItem
-          icon="&#xE88E;"
-        >
-          {t(selectedMilestoneInfo)}
-        </MenuItem>)
-      }
     </menu>
   );
 };

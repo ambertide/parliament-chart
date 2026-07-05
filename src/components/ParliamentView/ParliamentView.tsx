@@ -15,5 +15,6 @@ export const ParliamentView: FC<FigureProps> = ({
     representatives={representatives}
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     groupBy={groupBy as any}
+    {...menuProps}
   />
 );

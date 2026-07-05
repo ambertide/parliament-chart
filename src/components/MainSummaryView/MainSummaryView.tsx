@@ -16,8 +16,6 @@ export const MainSummaryView: FC<FigureProps> = ({
       partiesOrGroups={partiesOrGroups}
       representatives={representatives}
       groupBy={groupBy}
-      onGroupByChange={onGroupByChange}
-      expressChangeMode
     />
   </div>;
 };

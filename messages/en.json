@@ -5,9 +5,9 @@
         "parliamentaryGroups": "Parliamentary Groups"
     },
     "Menu": {
-        "termSelect": "<termSelect></termSelect> <selectLabel>term of the Grand National Assembly of Turkey</selectLabel>",
-        "orderBySelect": "<selectLabel>Ordered and grouped by each party's</selectLabel> <orderBySelect></orderBySelect>",
-        "milestoneSelect": "<selectLabel>Shown in </selectLabel><milestoneSelect></milestoneSelect>, on {selectedMilestoneDate,date,long}",
+        "termSelect": "<termSelect></termSelect> <selectLabel>term</selectLabel>",
+        "orderBySelect": "<selectLabel>Order by</selectLabel> <orderBySelect></orderBySelect>",
+        "milestoneSelect": "<selectLabel> in </selectLabel><milestoneSelect></milestoneSelect> ({selectedMilestoneDate,date,long})",
         "milestone_inaguration": "Parliament's inaguration",
         "milestone_current": "Its Current Form",
         "milestone_formation": "Election Day",

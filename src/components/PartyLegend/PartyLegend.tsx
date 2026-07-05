@@ -1,8 +1,9 @@
-import { FC, useState } from "react";
+import { ComponentProps, FC, useState } from "react";
 import { PartyLegendItem } from "./PartyLegendItem";
 import { Party } from "@/types";
 import { PartyGroupLegendItem } from "./PartyGroupLegendItem";
-import { ExpressGroupChange } from "./ExpressGroupChange";
+
+import { Menu } from "../Menu";
 
 type PartyLegenedProps = ({
   groupBy: 'deputies',
@@ -14,9 +15,7 @@ type PartyLegenedProps = ({
   onPartyOrGroupSelect: (type: 'alliance' | 'party', partyOrGroupName: string) => void,
   selectedParty: string,
   selectedAlliance: string
-  expressChangeMode?: boolean,
-  onGroupByChange?: (newGroupBy: 'deputies' | 'alliance') => void
-};
+} & ComponentProps<typeof Menu>;
 
 export const PartyLegend: FC<PartyLegenedProps> = ({
   groupBy,
@@ -24,8 +23,7 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
   selectedAlliance,
   selectedParty,
   onPartyOrGroupSelect,
-  expressChangeMode = false,
-  onGroupByChange = f => f
+  ...menuProps
 }) => {
   const [isOpen, setOpen] = useState(false);
   return <>
@@ -42,44 +40,43 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
       <div
         className={`${!isOpen ? 'translate-y-full' : ''} transition bg-background-secondary overflow-scroll min-w-77 w-fit h-46 p-2`}
       >
-        <div>
-          {expressChangeMode && <ExpressGroupChange
-            selectedDisplayOption={groupBy}
-            onGroupByChange={onGroupByChange}
-          />}
-        </div>
-        {isOpen && <ol
-          className={`flex flex-wrap overflow-x-scroll overflow-y-hidden flex-col gap-1 justify-between h-full`}
-        >
-          {
-            groupBy === 'deputies'
-              ? partiesOrGroups.map(
-                party => <PartyLegendItem
-                  key={party.partyName}
-                  onSelect={(partyName: string) => onPartyOrGroupSelect('party', partyName)}
-                  notSelected={!!selectedParty && selectedParty !== party.partyName}
-                  {...party}
-                />)
-              : partiesOrGroups.map(
-                ([groupName, parties]) => groupName === ''
-                  ? parties.map(p =>
-                    <PartyLegendItem
-                      key={p.partyName}
-                      onSelect={(partyName: string) => onPartyOrGroupSelect('party', partyName)}
-                      notSelected={!!selectedAlliance || (!!selectedParty && selectedParty !== p.partyName)}
-                      {...p}
-                    />) :
-                  <PartyGroupLegendItem
-                    key={groupName}
-                    groupName={groupName}
-                    groupColor={parties[0].partyColor}
-                    partiesInGroup={parties}
-                    onPartyOrGroupSelect={onPartyOrGroupSelect}
-                    notSelected={(!!selectedAlliance && selectedAlliance !== groupName) || (!!selectedParty && !parties.find(({ partyName }) => partyName === selectedParty))}
-                    selectedParty={selectedParty}
+        {isOpen && <>
+          <Menu
+            {...menuProps}
+          />
+          <ol
+            className={`flex flex-wrap overflow-x-scroll overflow-y-hidden flex-col gap-1 justify-between h-full`}
+          >
+            {
+              groupBy === 'deputies'
+                ? partiesOrGroups.map(
+                  party => <PartyLegendItem
+                    key={party.partyName}
+                    onSelect={(partyName: string) => onPartyOrGroupSelect('party', partyName)}
+                    notSelected={!!selectedParty && selectedParty !== party.partyName}
+                    {...party}
                   />)
-          }
-        </ol>}
+                : partiesOrGroups.map(
+                  ([groupName, parties]) => groupName === ''
+                    ? parties.map(p =>
+                      <PartyLegendItem
+                        key={p.partyName}
+                        onSelect={(partyName: string) => onPartyOrGroupSelect('party', partyName)}
+                        notSelected={!!selectedAlliance || (!!selectedParty && selectedParty !== p.partyName)}
+                        {...p}
+                      />) :
+                    <PartyGroupLegendItem
+                      key={groupName}
+                      groupName={groupName}
+                      groupColor={parties[0].partyColor}
+                      partiesInGroup={parties}
+                      onPartyOrGroupSelect={onPartyOrGroupSelect}
+                      notSelected={(!!selectedAlliance && selectedAlliance !== groupName) || (!!selectedParty && !parties.find(({ partyName }) => partyName === selectedParty))}
+                      selectedParty={selectedParty}
+                    />)
+            }
+          </ol>
+        </>}
       </div>
     </figcaption>
   </>;

@@ -15,8 +15,7 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
   representatives,
   groupBy,
   partiesOrGroups,
-  onGroupByChange,
-  expressChangeMode
+  ...menuProps
 }) => {
   const {svgRootRef, onDiagramToggleClick, diagramMode} = useDiagramMode();
   const { onPartyOrGroupSelect, rootProps, selectedAlliance, selectedParty } = usePartyOrGroupSelect(); 
@@ -61,8 +60,7 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
         partiesOrGroups={partiesOrGroups as Party[]}
         selectedAlliance={selectedAlliance}
         selectedParty={selectedParty}
-        expressChangeMode={expressChangeMode}
-        onGroupByChange={onGroupByChange}
+        {...menuProps}
       />
     </figure>
   </section>;
