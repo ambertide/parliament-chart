@@ -5,9 +5,9 @@
         "parliamentaryGroups": "Meclis Grubuna"
     },
     "Menu": {
-        "termSelect": "<selectLabel>Türkiye Büyük Millet Meclisi'nin</selectLabel> <termSelect></termSelect> Dönem Milletvekilleri",
-        "orderBySelect": "Parlemento <orderBySelect></orderBySelect> <selectLabel>göre gruplanmış ve sıralanmış şekilde</selectLabel>",
-        "milestoneSelect": "<milestoneSelect></milestoneSelect> <selectLabel>koltuk dağılımıyla</selectLabel> ({selectedMilestoneDate,date,long})",
+        "termSelect": "<termSelect></termSelect> <selectLabel>Dönem MVleri</selectLabel>",
+        "orderBySelect": "Meclis <orderBySelect></orderBySelect> <selectLabel>göre gruplanmış</selectLabel>",
+        "milestoneSelect": " <milestoneSelect></milestoneSelect> <selectLabel>haliyle</selectLabel> ({selectedMilestoneDate,date,long})",
         "milestone_inaguration": "Yemin Günündeki",
         "milestone_current": "Bugünkü",
         "milestone_formation": "Seçim Günündeki",
