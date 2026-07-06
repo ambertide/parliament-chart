@@ -8,7 +8,7 @@ import { readFile } from "fs/promises";
 const extractMapSlotsUnsorted = async () => {
   // We use the same svg data as a single source of truth
   // to get the coordinates.
-  const svgData = await readFile('./src/assets/images/map.svg');
+  const svgData = await readFile('./src/include/map.svg');
   // Totally cool to read directly to memory, of course...
   const svgContent = svgData.toString();
   const svgContentLines = svgContent.split('\n');

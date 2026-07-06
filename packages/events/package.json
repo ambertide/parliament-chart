@@ -1,0 +1,13 @@
+{
+  "name": "events",
+  "description": "Event declarations",
+  "type": "module",
+  "main": "./dist/index.js",
+  "devDependencies": {
+    "@types/jsdom": "27.0.0",
+    "jsdom": "27.4.0"
+  },
+  "scripts": {
+    "build": "tsx src/generator/main.ts && tsc src/generated.ts --outFile ../dist/index.js"
+  }
+}

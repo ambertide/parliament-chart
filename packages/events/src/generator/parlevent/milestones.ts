@@ -36,7 +36,7 @@ export const termData = Object.fromEntries(
 
 export const getMilestones = async () => {
   const { terms: milestonesPerTerm } = JSON.parse(
-    await readFile("src/assets/milestone.declarations.json", "utf-8"),
+    await readFile("src/include/milestone.declarations.json", "utf-8"),
   );
 
   return Object.fromEntries(

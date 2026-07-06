@@ -21,8 +21,8 @@ type SourcedData = {
 /**
  * Take the sourced data and convert it into chart data.
  */
-export const generateFromSourcedData = async (): Promise<void> => {
-  const sourcedData: SourcedData = JSON.parse((await readFile('src/assets/milestones.json')).toString());
+export const generateFromSourcedData = async ({ milestones }: { milestones: SourcedData}): Promise<void> => {
+  const sourcedData = milestones;
   const generatedData = Object.fromEntries(await Promise.all(Object.entries(sourcedData).map(async ([term, termData]) => (
     [
       term,
@@ -71,6 +71,5 @@ export const generateFromSourcedData = async (): Promise<void> => {
       )
     ]
   ))));
-  const jsonString = JSON.stringify(generatedData, undefined, 4);
-  await writeFile('./src/assets/data.generated.json', jsonString);
+  return generatedData;
 };

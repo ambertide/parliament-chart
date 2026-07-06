@@ -39,7 +39,7 @@ export class ParleventEngine {
 
   injectParlevents = async () => {
     const { events } = JSON.parse(
-      await readFile("src/assets/events.declarations.json", "utf-8"),
+      await readFile("src/include/events.declarations.json", "utf-8"),
     ) as { events: Parlevent[] };
     this.parlevents = [
       ...this.parlevents,

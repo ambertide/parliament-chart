@@ -6,3 +6,4 @@ export type {
   PartySummaryRecord,
 } from './types';
 export { termData, getMilestones } from './milestones';
+export type { Parlevent } from './types';

@@ -211,18 +211,13 @@ export const fetchAndSource = async () => {
   );
 
   const { parties: partySummaryData } = JSON.parse(
-    await readFile("src/assets/partyUtils.json", "utf-8"),
+    await readFile("src/include/partyUtils.json", "utf-8"),
   );
 
-  await writeFile(
-    "src/assets/events.json",
-    JSON.stringify(engine.dump(), undefined, 4),
-  );
+  const events = engine.dump();
 
   const milestones = await getMilestones();
-  await writeFile(
-    "src/assets/milestones.json",
-    JSON.stringify(
+  const exportedMilestones =
       Object.entries(milestones).reduce(
         (prev, [term, mileStonesInTerm]) => ({
           ...prev,
@@ -243,9 +238,9 @@ export const fetchAndSource = async () => {
           ),
         }),
         {},
-      ),
-      undefined,
-      4,
-    ),
-  );
+      )
+  return {
+    events,
+    exportedMilestones
+  }
 };
