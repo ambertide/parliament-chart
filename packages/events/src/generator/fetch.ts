@@ -6,7 +6,8 @@ import {
   PartySummaryRecord,
   termData,
   getMilestones,
-  ParleventEngine
+  ParleventEngine,
+  Parlevent
 } from "./parlevent";
 
 export type GovernmentRecord = {
@@ -193,13 +194,29 @@ const parseMPTable = ({
   };
 };
 
+export type ExportedMilestones = {
+  [term: string]: {
+    [milestoneName: string]: {
+      snapshot: ReturnType<typeof ParleventEngine.prototype.source>,
+      date: string,
+      slug: string,
+      description?: string
+    }
+  }
+};
+
 /**
  * Fetch parliamentary records Wikipedia, generate events for
  * Parlevent Engine, combine them with extra event definitions
  * and source the events to concrete milestones, outputing a
  * file.
  */
-export const fetchAndSource = async () => {
+export const fetchAndSource = async (): Promise<{
+  events: {
+    events: Parlevent[]
+  }
+  exportedMilestones: ExportedMilestones
+}> => {
   const engine = new ParleventEngine();
   await engine.injectParlevents();
   await Promise.all(

@@ -88,7 +88,7 @@ export class ParleventEngine {
    */
   source = (at: Date, p: PartySummaryRecord[]) => {
     this.parlevents.sort(
-      ({ date: dateA }, { date: dateB }) => dateA.getTime() - dateB.getTime(),
+      ({ date: dateA }, { date: dateB }) => (dateA as Date).getTime() - (dateB as Date).getTime(),
     );
     this.state = "SORTED";
     const events = this.parlevents.filter(({ date }) => date <= at);

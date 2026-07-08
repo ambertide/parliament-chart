@@ -3,11 +3,14 @@
   "description": "Event declarations",
   "type": "module",
   "main": "./dist/index.js",
+  "dependencies": {
+    "rollup": "4.62.2"
+  },
   "devDependencies": {
     "@types/jsdom": "27.0.0",
     "jsdom": "27.4.0"
   },
   "scripts": {
-    "build": "tsx src/generator/main.ts && tsc src/generated.ts --outFile ../dist/index.js"
+    "build": "tsx src/generator/main.ts && rollup -c"
   }
 }

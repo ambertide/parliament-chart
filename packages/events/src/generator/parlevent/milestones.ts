@@ -34,7 +34,15 @@ export const termData = Object.fromEntries(
   ]),
 );
 
-export const getMilestones = async () => {
+type MilestoneDeclaration = {
+  date: Date,
+  name: string,
+  slug: string,
+  description?: string
+};
+
+
+export const getMilestones = async (): Promise<{ [term: string]: MilestoneDeclaration[] }> => {
   const { terms: milestonesPerTerm } = JSON.parse(
     await readFile("src/include/milestone.declarations.json", "utf-8"),
   );

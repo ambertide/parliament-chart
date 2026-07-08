@@ -29,7 +29,7 @@ export type ProvinceRecord = {
 };
 
 type ParleventCommon = {
-  date: Date;
+  date: Date|string;
   source?: string;
 };
 
@@ -73,9 +73,9 @@ type ParleventPartyChanged = {
 type ParleventOfficeVacated = {
   action: "OFFICE_VACATED";
   actor: string;
-  target: "Parliament";
+  target: "PARLIAMENT" | "Parliament";
   metadata: {
-    reason: "PASSED" | "TERM_END" | "RESIGNED" | "MEMBERSHIP_LOSS";
+    reason: "PASSED" | "TERM_END" | "RESIGNATION" | "MEMBERSHIP_LOSS";
   };
 } & ParleventCommon;
 

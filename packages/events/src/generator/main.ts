@@ -2,6 +2,7 @@ import { generateFromSourcedData } from "./diagram-generator";
 import { fetchAndSource } from "./fetch";
 import { mkdir, writeFile } from 'fs/promises';
 import { existsSync } from "fs";
+import { ExportedMilestones } from "./fetch";
 
 export const fetchAndGenerate = async () => {
   const { events, exportedMilestones } = await fetchAndSource();
@@ -17,63 +18,21 @@ export const fetchAndGenerate = async () => {
 
 const generateFile = async () => {
   const { events, milestones, chartData } = await fetchAndGenerate();
+  if (!existsSync('tmp')) {
+    mkdir('tmp');
+  }
   const fileContents = `
-    import type { Parlevent } from 'generator/parlevent';
+const events = ${JSON.stringify(events, undefined, 2)};
+const milestones = ${JSON.stringify(milestones, undefined, 2)};
+const chartData = ${JSON.stringify(milestones, undefined, 2)};
 
-    type Milestones = {
-      [term: string]: {
-        [milestone: string]: {
-          snapshot: {
-            representatives: {
-              name: string,
-              party: string,
-              endOfTermStatus: string,
-              partyColor: string,
-              term: number,
-              province: string
-            }[],
-            parties: {
-              partyName: string,
-              partyColor: string,
-              groupName: string,
-              allianceName: string,
-              representativeName: string
-            }[],
-            vacancies: {
-              term: string,
-              province: string,
-              lastOfficeHolder: {
-                name: string,
-                party: string,
-                endOfTermStatus: string,
-                partyColor: string,
-                term: number,
-                province: string
-              },
-              officeVacatedEvent: {
-                date: string,
-                action: string,
-                actor: string,
-                metadata: {
-                  reason: string
-                },
-                source: string,
-                target: string
-              }
-            }[]
-          },
-          date: string,
-          slug: string,
-          description: string
-        }
-      }
-    }
-
-    export const events: Parlevent[] = ${JSON.stringify(events)};
-    export const milestones: Milestones = ${JSON.stringify(milestones)};
-    export const chartData: any = ${JSON.stringify(chartData)};
+export default {
+  events,
+  milestones,
+  chartData
+};
   `
-  await writeFile('src/generated.ts', fileContents);
+  await writeFile('tmp/generated.js', fileContents);
 }
 
 await generateFile();
