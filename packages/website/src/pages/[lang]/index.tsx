@@ -1,13 +1,12 @@
 import { MainSummaryView } from "@/components";
 import { GetStaticPaths, GetStaticProps } from "next";
 import { useState } from "react";
-import data from "@/assets/data.generated.json";
-import { Snapshot } from "@/types/ChartData";
+import { chartData as data} from "@parlichart/events";
+import { Snapshot } from "@parlichart/types";
 import { useTranslations } from "next-intl";
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const paths = [ { params: { lang: 'en'} }, { params: { lang: 'tr'}}];
-  console.log(paths.map(({ params: { lang }}) => `Emitting ${lang}}`).join('\n'));
   return {
     paths,
     fallback: false
@@ -16,7 +15,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps<{lang: string | string[] | undefined}> = async ({ params: { lang } = {lang: 'en'}}) => {
   const messages = (await import(`../../../messages/${lang}.json`)).default;
-  const chartData = (data["28" as keyof typeof data] as any)["Present Day"]["snapshot"] as Snapshot;
+  const chartData = (data["28" as keyof typeof data])["Present Day"]["snapshot"] as Snapshot;
   return { props: { lang, messages, chartData }};
 };
 
@@ -28,6 +27,7 @@ const MainPage = ({ chartData }: { chartData: Snapshot }) => {
       partiesOrGroups={chartData[groupBy].sortedParties}
       groupBy={groupBy}
       representatives={chartData[groupBy].representatives}
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       onDisplayOptionChange={onGroupByChange as any}
       selectedDisplayOption={groupBy}
       displayOptions={[

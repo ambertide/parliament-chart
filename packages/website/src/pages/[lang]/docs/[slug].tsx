@@ -11,7 +11,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
         slug,
       },
     })));
-  console.log(paths.map(({ params: { lang, slug }}) => `Emitting ${lang}/docs/${slug}`).join('\n'));
   return {
     paths,
     fallback: false
@@ -27,7 +26,6 @@ const NoOp = () => <></>;
 
 export default function Term({ lang, slug }: { slug: string, lang: string }) {
   const Content = docsPages.find(({ slug: pageSlug }) => pageSlug === slug)?.availableIn[lang as 'tr' | 'en'] ?? NoOp;
-  console.log(Content);
   return (
     <DocsLayout>
       <Content />

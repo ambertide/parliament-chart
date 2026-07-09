@@ -1,4 +1,4 @@
-import { Representative } from "@/types";
+import { Representative } from "@parlichart/types";
 import { ComponentProps, useEffect, useMemo, useRef, useState } from "react";
 
 /**

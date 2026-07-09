@@ -1,6 +1,6 @@
 import { ComponentProps, FC, useState } from "react";
 import { PartyLegendItem } from "./PartyLegendItem";
-import { Party } from "@/types";
+import { Party } from "@parlichart/types";
 import { PartyGroupLegendItem } from "./PartyGroupLegendItem";
 
 import { Menu } from "../Menu";

@@ -1,4 +1,4 @@
-import { Representative } from "@/types";
+import { Representative } from "@parlichart/types";
 import { FC, useMemo } from "react";
 import { useSVGAnimationTimeline } from "./useSVGAnimationTimeline";
 

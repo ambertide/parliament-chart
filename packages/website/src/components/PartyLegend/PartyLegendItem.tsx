@@ -1,7 +1,7 @@
 import { partyShortName } from "@/utils";
 import { RefObject, useCallback, useRef, useState, type FC } from "react";
 import { PartyLegenedTooltip } from "./PartyLegendTooltip";
-import { Party } from "@/types";
+import { Party } from "@parlichart/types";
 import { useTranslations } from "next-intl";
 
 type PartyLegendItemProps = Party & { onSelect: (partyName: string) => void, notSelected?: boolean}; 

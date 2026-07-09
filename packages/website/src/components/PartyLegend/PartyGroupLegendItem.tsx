@@ -1,5 +1,5 @@
 import {   useCallback, type FC } from "react";
-import type { Party } from "@/types";
+import type { Party } from "@parlichart/types";
 import { PartyLegendItem } from "./PartyLegendItem";
 import { useTranslations } from "next-intl";
 

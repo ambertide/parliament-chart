@@ -1,6 +1,6 @@
-import data from "@/assets/data.generated.json";
 import { ParliamentView } from "@/components";
-import { ChartData, Snapshot } from "@/types/ChartData";
+import { chartData as data } from "@parlichart/events";
+import type { Snapshot } from "@parlichart/types";
 import { GetStaticPaths, GetStaticProps } from "next";
 import { useTranslations } from "next-intl";
 import { useRouter } from "next/router";
@@ -8,7 +8,7 @@ import { useMemo, useState } from "react";
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const languages = ['en', 'tr'];
-  const paths = Object.entries(data as unknown as ChartData).flatMap(
+  const paths = Object.entries(data).flatMap(
     ([term, milestonesOfTerm]) => Object.values(milestonesOfTerm).flatMap(({ slug: milestone }) => languages.map(lang => ({
       params: {
         lang,
@@ -25,7 +25,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps<{term: string | string[] | undefined, lang: string | string[] | undefined, milestone: string | string[] | undefined}> = async ({ params: { term, lang, milestone } = {term: '28', lang: 'en'}}) => {
   const milestonesOfTerm = data[term as keyof typeof data];
-  const chartData = (Object.values((data as unknown as ChartData)[term as keyof typeof data]).find(({slug}) => slug === milestone)?.['snapshot']) ?? { parties: []};
+  const chartData = (Object.values((data)[term as keyof typeof data]).find(({slug}) => slug === milestone)?.['snapshot']) ?? { parties: []};
   const messages = (await import(`../../../../../messages/${lang}.json`)).default;
   return { props: { term, lang, messages, milestone, milestonesOfTerm, chartData }};
 };

@@ -3,7 +3,7 @@ import { ModeSwitch } from "../ModeSwitch";
 import { PartyLegend } from "../PartyLegend";
 import { BlankMapSVG } from "@/assets/images/BlankMapSVG";
 import { useDiagramMode } from "./useDiagramMode";
-import { Party, Representative } from "@/types";
+import { Party, Representative } from "@parlichart/types";
 import { RepresentativeSeat } from "./RepresentativeSeat";
 import { usePartyOrGroupSelect } from "./usePartyOrGroupSelect";
 
