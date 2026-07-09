@@ -3,3 +3,4 @@ export type { Point } from './Point';
 export type { Representative } from './Representative';
 export type { Group } from './Group';
 export type { IndividualRepresentative } from './IndividualRepresentative';
+export type { ChartData, Snapshot } from './ChartData';

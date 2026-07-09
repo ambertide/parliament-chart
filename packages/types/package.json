@@ -1,0 +1,15 @@
+{
+  "name": "@parlichart/types",
+  "description": "Common types",
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "default": "./dist/index.d.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.22.4",
+    "typescript": "^5"
+  },
+  "scripts": {
+    "build": "rm -rf dist/** && tsc"
+  }
+}
