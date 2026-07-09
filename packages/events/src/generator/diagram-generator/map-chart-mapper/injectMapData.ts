@@ -1,4 +1,4 @@
-import { IndividualRepresentative, Representative } from "@/types";
+import { IndividualRepresentative, Representative } from "@parlichart/types";
 import { extractMapSlots } from "./extractMapSlots";
 import { matchMapToSeats } from "./matchMapToSeats";
 import { Vacancy } from "@/generator/parlevent/types";

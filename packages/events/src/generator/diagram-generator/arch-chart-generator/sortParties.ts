@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { Vacancy } from "@/generator/parlevent/types";
-import { Party } from "@/types";
+import { Party } from "@parlichart/types";
 
 export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'deputies' | 'alliance' , flatten: true): Party[];
 export function sortAndGroupParties(parties: Party[], sortAndGroupBy: 'deputies', flatten: false): Party[];

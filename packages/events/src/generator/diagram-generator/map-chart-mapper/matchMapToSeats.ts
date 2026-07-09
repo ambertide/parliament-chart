@@ -1,5 +1,5 @@
 import { Vacancy } from "@/generator/parlevent/types";
-import { IndividualRepresentative, Representative } from "@/types";
+import { IndividualRepresentative, Representative } from "@parlichart/types";
 
 
 

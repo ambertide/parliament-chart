@@ -1,16 +1,20 @@
 {
-  "name": "events",
+  "name": "@parlichart/events",
   "description": "Event declarations",
   "type": "module",
-  "main": "./dist/index.js",
+  "exports": {
+    "default": "./dist/bundle.js"
+  },
+  "types": "./dist/bundle.d.ts",
   "dependencies": {
     "rollup": "4.62.2"
   },
   "devDependencies": {
     "@types/jsdom": "27.0.0",
-    "jsdom": "27.4.0"
+    "jsdom": "27.4.0",
+    "@parlichart/types": "workspace:*"
   },
   "scripts": {
-    "build": "tsx src/generator/main.ts && rollup -c"
+    "build": "rm -rf dist/** && tsc && tsx src/generator/main.ts && rollup -c"
   }
 }

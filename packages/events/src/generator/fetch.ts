@@ -164,7 +164,6 @@ const parseMPTable = ({
       if (!representativeRecord.endOfTermStatus) {
         representativeRecord.endOfTermStatus = representativeRecord.party;
       }
-      console.log(term, termData[term]);
       engine.emit({
         action: "OFFICE_ASSUMED",
         target: "Parliament",

@@ -26,7 +26,6 @@ const extractMapSlotsUnsorted = async () => {
           // Create a new array for the seats to exist in.
           accum.set(districtName, []);
         }
-        console.log(`Found ${districtName}`);
       } else if (/circle id="seat(?:\_\d+)?" cx="(.*)" cy="(.*)" r/.test(svgLine)) {
         // Meanwhile this is a seat.
         const [_match, xStr, yStr] = /circle id="seat(?:\_\d+)?" cx="(.*)" cy="(.*)" r/.exec(svgLine) ?? [];
@@ -38,7 +37,6 @@ const extractMapSlotsUnsorted = async () => {
           const lastInsertedCity = [...accum.values()].at(-1);
           lastInsertedCity?.push({x, y});
         }
-        console.log(`Found seat ${x}, ${y}`);
       }
       return accum;
     },

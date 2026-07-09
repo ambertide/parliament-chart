@@ -19,7 +19,7 @@ export const fetchAndGenerate = async () => {
 const generateFile = async () => {
   const { events, milestones, chartData } = await fetchAndGenerate();
   if (!existsSync('tmp')) {
-    mkdir('tmp');
+    await mkdir('tmp');
   }
   const fileContents = `
 const events = ${JSON.stringify(events, undefined, 2)};
@@ -33,6 +33,25 @@ export default {
 };
   `
   await writeFile('tmp/generated.js', fileContents);
+  console.log("Emitted events data");
 }
 
+const emitTypeDeclarations = async () => {
+  if (!existsSync('dist')) {
+    await mkdir('dist');
+  }
+  const fileContents = `
+import { ExportedMilestones, Parlevent, ChartData } from "./types";
+
+export const events: Parlevent;
+export const milestones: ExportedMilestones;
+export const chartData: ChartData;
+  `
+  await writeFile('dist/bundle.d.ts', fileContents);
+  console.log("Emitted main type declarations");
+}
+
+
 await generateFile();
+await emitTypeDeclarations();
+

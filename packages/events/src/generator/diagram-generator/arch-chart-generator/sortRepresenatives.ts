@@ -1,4 +1,4 @@
-import { Party, Representative } from "@/types";
+import { Party, Representative } from "@parlichart/types";
 import { sortParties } from "./sortParties";
 import { Vacancy } from "@/generator/parlevent/types";
 

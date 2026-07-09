@@ -1,4 +1,4 @@
-import { Point } from "@/types";
+import { Point } from "@parlichart/types";
 
 type CalculateRotatedCoordinates = (p: {
   /** Angle of rotation by which the original rep. circle will be rotated */

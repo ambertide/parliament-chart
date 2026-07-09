@@ -1,4 +1,4 @@
-import { IndividualRepresentative, Party, Representative} from "@/types";
+import { IndividualRepresentative, Party, Representative} from "@parlichart/types";
 import { calculateRotatedCoordinates } from "./calculateRotatedCoordinates";
 import {
   sortRepresentatives,
