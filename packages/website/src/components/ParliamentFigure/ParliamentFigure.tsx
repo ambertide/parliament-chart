@@ -30,6 +30,9 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
     />
     <figure
       className="grow grid min-w-0 min-h-0 items-center justify-center p-1 sm:p-2 md:p-4 lg:p-8 max-w-full max-h-full"
+      style={{
+        viewTransitionName: 'parlichart'
+      }}
     >
       <svg
         className="w-auto h-full max-w-full max-h-full"
