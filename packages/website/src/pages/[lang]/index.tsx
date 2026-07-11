@@ -1,7 +1,7 @@
 import { MainSummaryView } from "@/components";
 import { GetStaticPaths, GetStaticProps } from "next";
 import { useState } from "react";
-import { chartData as data} from "@parlichart/events";
+import { chartData as data } from "@parlichart/events";
 import { Snapshot } from "@parlichart/types";
 import { useTranslations } from "next-intl";
 
