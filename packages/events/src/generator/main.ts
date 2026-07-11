@@ -22,15 +22,9 @@ const generateFile = async () => {
     await mkdir('tmp');
   }
   const fileContents = `
-const events = ${JSON.stringify(events, undefined, 2)};
-const milestones = ${JSON.stringify(milestones, undefined, 2)};
-const chartData = ${JSON.stringify(milestones, undefined, 2)};
-
-export default {
-  events,
-  milestones,
-  chartData
-};
+export const events = ${JSON.stringify(events, undefined, 2)};
+export const milestones = ${JSON.stringify(milestones, undefined, 2)};
+export const chartData = ${JSON.stringify(milestones, undefined, 2)};
   `
   await writeFile('tmp/generated.js', fileContents);
   console.log("Emitted events data");
