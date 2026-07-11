@@ -7,7 +7,7 @@
     }
   },
   "scripts": {
-    "build": "pnpm --filter website build && mv packages/website/out out"
+    "build": "pnpm --filter website... build && mv packages/website/out out"
   },
   "devDependencies": {
     "tsx": "^4.22.4",
