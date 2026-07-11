@@ -24,7 +24,7 @@ const generateFile = async () => {
   const fileContents = `
 export const events = ${JSON.stringify(events, undefined, 2)};
 export const milestones = ${JSON.stringify(milestones, undefined, 2)};
-export const chartData = ${JSON.stringify(milestones, undefined, 2)};
+export const chartData = ${JSON.stringify(chartData, undefined, 2)};
   `
   await writeFile('tmp/generated.js', fileContents);
   console.log("Emitted events data");
