@@ -7,7 +7,7 @@ import { Party, Representative } from "@parlichart/types";
 import { RepresentativeSeat } from "./RepresentativeSeat";
 import { usePartyOrGroupSelect } from "./usePartyOrGroupSelect";
 
-type ParliamentFigureProps = { representatives: Representative[] }& 
+type ParliamentFigureProps = { representatives: Representative[], hideMenu?: boolean }& 
   Omit<ComponentProps<typeof PartyLegend>, 'onPartyOrGroupSelect' | 'selectedParty' | 'selectedAlliance'>
 ;
 
@@ -15,6 +15,7 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
   representatives,
   groupBy,
   partiesOrGroups,
+  hideMenu,
   ...menuProps
 }) => {
   const {svgRootRef, onDiagramToggleClick, diagramMode} = useDiagramMode();
@@ -52,7 +53,7 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
           />
         )}
       </svg>
-      <PartyLegend
+      {!hideMenu && <PartyLegend
         onPartyOrGroupSelect={onPartyOrGroupSelect}
         // Below casts aren't real, they're to fool the ts compiler as there is a bug
         // that causes the groupBy/partiesOrGroups link.
@@ -61,7 +62,7 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
         selectedAlliance={selectedAlliance}
         selectedParty={selectedParty}
         {...menuProps}
-      />
+      />}
     </figure>
   </section>;
 };
