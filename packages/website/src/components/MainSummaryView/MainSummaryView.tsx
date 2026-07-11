@@ -19,9 +19,9 @@ export const MainSummaryView: FC<FigureProps> = ({
   return <div className="flex grow items-stretch h-full flex-col justify-start gap-2">
     <ParlichartBanner />
     <div
-      className="flex flex-col gap-2 md:grid md:grid-rows-3 md:grid-cols-[1fr_286px] md:grid-flow-col"
+      className="grow flex flex-col gap-2 md:grid md:grid-cols-[1fr_286px] md:grid-flow-col"
     >
-      <ParliamentSection className="grow md:row-start-1 md:row-end-4">
+      <ParliamentSection className="grow md:row-start-1 md:row-end-4 max-h-full">
         <ParliamentFigure
           partiesOrGroups={partiesOrGroups}
           representatives={representatives}
