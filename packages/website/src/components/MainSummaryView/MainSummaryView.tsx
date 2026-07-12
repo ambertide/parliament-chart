@@ -16,7 +16,7 @@ export const MainSummaryView: FC<FigureProps> = ({
   groupBy,
   ...menuProps
 }) => {
-  return <div className="flex grow items-stretch h-full flex-col justify-start gap-2">
+  return <main className="flex grow items-stretch h-full flex-col justify-start gap-2">
     <ParlichartBanner />
     <div
       className="grow flex flex-col gap-2 md:grid md:grid-cols-[1fr_286px] md:grid-flow-col"
@@ -34,5 +34,5 @@ export const MainSummaryView: FC<FigureProps> = ({
       <AboutSection />
       <AttributionSection />
     </div>
-  </div>;
+  </main>;
 };

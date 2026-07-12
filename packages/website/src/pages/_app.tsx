@@ -16,11 +16,7 @@ export default function MyApp({ Component, pageProps }) {
           className="h-full flex flex-col"
         >
           <Header />
-          <main
-            className="grow flex items-center justify-center"
-          >
-            <Component {...pageProps} />
-          </main>
+          <Component {...pageProps} />
         </div>
       </Layout>
     </NextIntlClientProvider>

@@ -7,7 +7,7 @@ export const ParlichartBanner: FC<Record<never, never>> = () => {
   const locale = useLocale();
   const link = useMemo(() => `/${locale}/terms/28/current`, [locale]);
   return (
-    <div className="text-emphasis w-full">
+    <aside className="text-emphasis w-full">
       <div className="h-fit w-full bg-emphasis-tertiary items-center font-serif-degraded px-4 py-1">
         <div className="md:flex md:items-center md:flex-row md:justify-between">
           <h1 className="text-xl sm:text-4xl font-bold">{t('28th Parliament')}</h1>
@@ -35,6 +35,6 @@ export const ParlichartBanner: FC<Record<never, never>> = () => {
           {t('Browse historical data')}
         </a>
       </div>
-    </div>
+    </aside>
   );
 };

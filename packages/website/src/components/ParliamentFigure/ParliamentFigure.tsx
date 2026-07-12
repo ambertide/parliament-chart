@@ -20,7 +20,7 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
 }) => {
   const {svgRootRef, onDiagramToggleClick, diagramMode} = useDiagramMode();
   const { onPartyOrGroupSelect, rootProps, selectedAlliance, selectedParty } = usePartyOrGroupSelect(); 
-  return <section
+  return <main
     className="flex flex-col items-center w-full h-full grow"
     {...rootProps}
   >
@@ -67,5 +67,5 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
         {...menuProps}
       />}
     </figure>
-  </section>;
+  </main>;
 };
