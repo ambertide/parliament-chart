@@ -1,11 +1,19 @@
 import { useTranslations } from "next-intl";
 import { SectionWrapper } from "./SectionWrapper";
-import { FC, PropsWithChildren, useEffect } from "react";
+import { FC, PropsWithChildren, useCallback, useEffect, useMemo } from "react";
 import { useRouter } from "next/router";
 
 export const ParliamentSection: FC<PropsWithChildren<{className: string}>> = ({ children, className }) => {
   const t = useTranslations('Sections');
-  const { push} = useRouter();
+  const { push: routerPush } = useRouter();
+  const windowPush = useCallback((loc: string) => {
+    window.location.assign(loc);
+  }, []);
+  // Sth sth view animations only work the way I did in MPAs and tho
+  // we take stat. export so in prod we have a MPA but in the godforsoken
+  // application that is the NextJS the dev environemnt is an SPA so
+  // I have to force navigation to properly test or some other blsht.
+  const push = useMemo(() => process.env.NODE_ENV === 'development' ? windowPush : routerPush, [windowPush, routerPush]); 
   useEffect(() => {
     console.log('am I even runnning?????');
     window.addEventListener("pageswap", (event) => {
