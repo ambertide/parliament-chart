@@ -15,7 +15,7 @@ export const ParliamentSection: FC<PropsWithChildren<{className: string}>> = ({ 
   // I have to force navigation to properly test or some other blsht.
   const push = useMemo(() => process.env.NODE_ENV === 'development' ? windowPush : routerPush, [windowPush, routerPush]); 
   useEffect(() => {
-    const onPageSwap = async (event) => {
+    const onPageSwap = async (event: PageSwapEvent) => {
       console.log('yes');
       if (event.viewTransition) {
         event.viewTransition.finished.catch((err) => {
