@@ -13,7 +13,7 @@ export const AboutSection = ({ className }: { className: string }) => {
         className="text-base font-serif"
       >
         <p>
-          {t('Parlichart is a free and open source civics project developed in Izmir to view the real time and historical state of the Turkish Parliament.')}
+          {t('ABOUT')}
         </p>
         <a className="text-emphasis-secondary italic" href={`/${locale}/docs/events`}>
           {t('Read the docs to learn how')}

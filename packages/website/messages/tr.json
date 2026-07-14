@@ -61,5 +61,20 @@
     },
     "Legend": {
         "Legend": "Lejand"
+    },
+    "Sections": {
+        "Browse the Parliament's Status": "Meclis Durumunu Gör",
+        "Follow on Socials": "Sosyal Medya",
+        "Follow on X": "X'te Takipçimiz Ol",
+        "Follow on Mastadon": "Mastadon'da Takip Et",
+        "Browse on GitHub": "GitHub'da Kaynak Kodu İncele",
+        "Subscribe to RSS": "RSS'e Abone Ol",
+        "Contact us On Email": "Bi' Mail Fırlat",
+        "Attribution": "Atıflar",
+        "About": "Hakkında",
+        "ABOUT": "Parlichart, TBMM'nin tarihi ve canlı dağılımını görebileceğiniz, İzmir'de tasarlanmış ve inşa edilmiş açık kaynak bir vatandaşlık bilimi projesidir.",
+        "Read the docs to learn how": "Arkaplandaki Teknolojiyi Öğren",
+        "ATTRIBUTION": "Parlichart'ı oluşturan verinin bir çoğu, Türkçe Vikipedi'den gelmektedir, bu veri, Türkçe Vikipedi editörlerinin gönüllü ve istikrarlı çalışmaları olmasaydı olamazdı.",
+        "See attribution for more details": "Daha Fazla Bilgi için Atıf Metinlerini İncele"
     }
 }

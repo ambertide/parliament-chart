@@ -13,7 +13,7 @@ export const AttributionSection = ({ className }: { className: string }) => {
         className="text-base font-serif"
       >
         <p>
-          {t('Large parts of the data for Parlichart is sourced through the diligent work performed by editors of the Turkish Wikipedia and would be impossible without them.')}
+          {t('ATTRIBUTION')}
         </p>
         <a className="text-emphasis-secondary italic" href={`/${locale}/docs/attribution`}>
           {t('See attribution for more details')}
