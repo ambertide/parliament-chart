@@ -27,9 +27,10 @@ const SocialIcons = {
   "email": <span className="text-xl flex place-items-center text-foreground font-[Material_Symbols_Outlined] h-5">&#xf187;</span>
 };
 
-export const SocialsSection = () => {
+export const SocialsSection = ({ className }: { className: string }) => {
   const t = useTranslations('Sections');
   return <SectionWrapper
+    className={className}
     title={t('Follow on Socials')}
   >
     <div className="grow flex flex-col gap-1 items-stretch">

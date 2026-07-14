@@ -1,12 +1,13 @@
 import { useLocale, useTranslations } from "next-intl";
 import { SectionWrapper } from "./SectionWrapper";
 
-export const AttributionSection = () => {
+export const AttributionSection = ({ className }: { className: string }) => {
   const t = useTranslations('Sections');
   const locale = useLocale();
   return (
     <SectionWrapper
       title={t('Attribution')}
+      className={className}
     >
       <div
         className="text-base font-serif"

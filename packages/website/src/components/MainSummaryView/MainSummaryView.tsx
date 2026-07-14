@@ -16,23 +16,27 @@ export const MainSummaryView: FC<FigureProps> = ({
   groupBy,
   ...menuProps
 }) => {
-  return <main className="flex grow items-stretch h-full flex-col justify-start gap-2">
+  return <main className="flex grow items-stretch md:h-full flex-col justify-start gap-2 min-h-0">
     <ParlichartBanner />
     <div
-      className="grow flex flex-col gap-2 md:grid md:grid-cols-[1fr_286px] md:grid-flow-col"
+      className="flex flex-col gap-2 md:flex-row min-h-0 md:grow"
     >
-      <ParliamentSection className="grow md:row-start-1 md:row-end-4 max-h-full">
-        <ParliamentFigure
-          partiesOrGroups={partiesOrGroups}
-          representatives={representatives}
-          groupBy={groupBy}
-          {...menuProps}
-          hideMenu
-        />
-      </ParliamentSection>
-      <SocialsSection />
-      <AboutSection />
-      <AttributionSection />
+      <div className="grow">
+        <ParliamentSection className="h-full w-full max-md:min-h-100">
+          <ParliamentFigure
+            partiesOrGroups={partiesOrGroups}
+            representatives={representatives}
+            groupBy={groupBy}
+            {...menuProps}
+            hideMenu
+          />
+        </ParliamentSection>
+      </div>
+      <div className="flex flex-col gap-2 md:max-w-71.5 justify-stretch md:overflow-y-auto">
+        <SocialsSection className="grow" />
+        <AboutSection className="grow" />
+        <AttributionSection className="grow" />
+      </div>
     </div>
   </main>;
 };
