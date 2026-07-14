@@ -3,6 +3,7 @@ import { useLocale } from "next-intl";
 import { IBM_Plex_Mono } from "next/font/google";
 import localFont from 'next/font/local';
 import Head from "next/head";
+import Script from "next/script";
 
 const redaction10 = localFont({
   src: [
@@ -80,7 +81,21 @@ export default function RootLayout({
   const locale = useLocale();
   return (
     <html lang={locale} className={`h-full ${redaction10.variable} ${redaction35.variable} ${ibmPlexMono.variable}`}>
+      
+      <Script
+        id="speculation-rules-so-chrome-doesnt-freak-out"
+        type="speculationrules"
+      >
+        {`
+          {
+            "prerender": [{
+              "urls": ["/en/terms/28/current", "/tr/terms/28/current"]
+            }]
+          }
+          `}
+      </Script>
       <Head>
+
         <link rel="stylesheet" href={`https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=${materialSymbolsNames}&display=block`} />
       </Head>
       <body

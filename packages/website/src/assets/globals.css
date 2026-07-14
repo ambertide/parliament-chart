@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+@view-transition {
+  navigation: auto;
+}
+
 /**
 :root {
   --background: #e5e7e6;
@@ -55,4 +59,12 @@ div#__next {
 .turkey-map[data-map-hidden="false"] {
   opacity: 1;
   transition-duration: 500ms;
+}
+
+/*
+  default blend mode is multiple. Set to normal to avoid effects we don't want.
+*/
+::view-transition-old(parlichart),
+::view-transition-new(parlichart) {
+  mix-blend-mode: normal;
 }

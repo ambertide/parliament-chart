@@ -15,8 +15,7 @@ export const ParliamentSection: FC<PropsWithChildren<{className: string}>> = ({ 
   // I have to force navigation to properly test or some other blsht.
   const push = useMemo(() => process.env.NODE_ENV === 'development' ? windowPush : routerPush, [windowPush, routerPush]); 
   useEffect(() => {
-    console.log('am I even runnning?????');
-    window.addEventListener("pageswap", (event) => {
+    const onPageSwap = async (event) => {
       console.log('yes');
       if (event.viewTransition) {
         event.viewTransition.finished.catch((err) => {
@@ -24,7 +23,9 @@ export const ParliamentSection: FC<PropsWithChildren<{className: string}>> = ({ 
           console.warn("Outgoing transition aborted:", err.name);
         });
       }
-    });
+    };
+    window.addEventListener("pageswap", onPageSwap);
+    return window.removeEventListener("pageswap", onPageSwap);
   }, []);
   return <SectionWrapper
     className={className}
