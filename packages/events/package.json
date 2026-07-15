@@ -15,6 +15,7 @@
     "@parlichart/types": "workspace:*"
   },
   "scripts": {
-    "build": "rm -rf dist/** && tsc && tsx src/generator/main.ts && rollup -c"
+    "build": "rm -rf dist/** && tsc && tsx src/generator/main.ts && rollup -c",
+    "lint": "eslint"
   }
 }

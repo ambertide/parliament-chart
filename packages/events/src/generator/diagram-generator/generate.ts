@@ -1,4 +1,4 @@
-import { readFile, writeFile } from "fs/promises";
+
 import { calculateSeatCoords } from "./arch-chart-generator";
 import { PartyRecord, RepresentativeRecord } from "../parlevent";
 import { injectMapData } from "./map-chart-mapper";

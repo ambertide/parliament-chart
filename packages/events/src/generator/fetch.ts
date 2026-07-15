@@ -1,5 +1,5 @@
 import { JSDOM } from "jsdom";
-import { readFile, writeFile } from "node:fs/promises";
+import { readFile } from "node:fs/promises";
 
 import {
   RepresentativeRecord,
@@ -234,29 +234,29 @@ export const fetchAndSource = async (): Promise<{
 
   const milestones = await getMilestones();
   const exportedMilestones =
-      Object.entries(milestones).reduce(
-        (prev, [term, mileStonesInTerm]) => ({
-          ...prev,
-          [term]: mileStonesInTerm.reduce(
-            (p, milestone) => ({
-              ...p,
-              [milestone.name]: {
-                snapshot: engine.source(
-                  milestone.date,
-                  partySummaryData as PartySummaryRecord[],
-                ),
-                date: milestone.date.toISOString(),
-                slug: milestone.slug,
-                description: milestone.description
-              },
-            }),
-            {},
-          ),
-        }),
-        {},
-      )
+    Object.entries(milestones).reduce(
+      (prev, [term, mileStonesInTerm]) => ({
+        ...prev,
+        [term]: mileStonesInTerm.reduce(
+          (p, milestone) => ({
+            ...p,
+            [milestone.name]: {
+              snapshot: engine.source(
+                milestone.date,
+                partySummaryData as PartySummaryRecord[],
+              ),
+              date: milestone.date.toISOString(),
+              slug: milestone.slug,
+              description: milestone.description
+            },
+          }),
+          {},
+        ),
+      }),
+      {},
+    );
   return {
     events,
     exportedMilestones
-  }
+  };
 };
