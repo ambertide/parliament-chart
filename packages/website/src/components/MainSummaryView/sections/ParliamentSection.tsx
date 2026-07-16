@@ -1,11 +1,13 @@
 import { useTranslations } from "next-intl";
 import { SectionWrapper } from "./SectionWrapper";
 import { FC, PropsWithChildren, useCallback, useEffect, useMemo } from "react";
-import { useRouter } from "next/router";
+
 
 export const ParliamentSection: FC<PropsWithChildren<{className: string}>> = ({ children, className }) => {
   const t = useTranslations('Sections');
-  const { push: routerPush } = useRouter();
+  const routerPush = useCallback((loc: string) => {
+    window.location.href = loc;
+  }, []);
   const windowPush = useCallback((loc: string) => {
     window.location.assign(loc);
   }, []);
