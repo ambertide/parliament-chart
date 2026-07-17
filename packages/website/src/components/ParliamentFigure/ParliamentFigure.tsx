@@ -1,8 +1,7 @@
-import { ComponentProps, FC } from "react";
+import { ComponentProps, FC, useState } from "react";
 import { ModeSwitch } from "../ModeSwitch";
 import { PartyLegend } from "../PartyLegend";
 import { BlankMapSVG } from "@/assets/images/BlankMapSVG";
-import { useDiagramMode } from "./useDiagramMode";
 import { Party, Representative } from "@parlichart/types";
 import { RepresentativeSeat } from "./RepresentativeSeat";
 import { usePartyOrGroupSelect } from "./usePartyOrGroupSelect";
@@ -18,14 +17,14 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
   hideMenu,
   ...menuProps
 }) => {
-  const {svgRootRef, onDiagramToggleClick, diagramMode} = useDiagramMode();
+  const [diagramMode, setDiagramMode] = useState<'chart'|'map'>('chart');
   const { onPartyOrGroupSelect, rootProps, selectedAlliance, selectedParty } = usePartyOrGroupSelect(); 
   return <main
     className="flex flex-col items-center w-full h-full grow"
     {...rootProps}
   >
     <ModeSwitch
-      setMode={onDiagramToggleClick}
+      setMode={setDiagramMode}
       selectedMode={diagramMode}
     />
     <figure
@@ -38,7 +37,6 @@ export const ParliamentFigure: FC<ParliamentFigureProps> = ({
         className="w-auto h-full max-w-full max-h-full"
         id="root"
         viewBox="0 0 552 323"
-        ref={svgRootRef}
       >
         <BlankMapSVG isVisible={diagramMode === "map"} />
         {representatives.map((
