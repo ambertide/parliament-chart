@@ -2,8 +2,6 @@ import { Representative } from "@parlichart/types";
 import { FC, useMemo } from "react";
 import { useSVGAnimationTimeline } from "./useSVGAnimationTimeline";
 
-const ANIMATION_DURATION = 500;
-
 type RepresentativeSeatProps = {
   representative: Representative,
   diagramMode: 'map' | 'chart',
@@ -20,8 +18,7 @@ export const RepresentativeSeat: FC<RepresentativeSeatProps> = ({
   onRepresentativeClick
 }) => {
   const {
-    svgProps,
-    animateProps
+    svgProps
   } = useSVGAnimationTimeline({
     representative,
     diagramMode 
@@ -46,29 +43,13 @@ export const RepresentativeSeat: FC<RepresentativeSeatProps> = ({
   ]);
   return (
     <circle
-      className="cursor-pointer"
+      className="cursor-pointer origin-top-left"
+      data-id={representative.id}
       fill={representative.party.partyColor}
       onClick={() => onRepresentativeClick(representative)}
       opacity={shouldBlurRepSeat ? 0.25 : 1.0}
       {...svgProps}
-    >
-      {
-      // Then add animations for each attributes from -> to pair.
-      // First convert to prop objects and then into the
-      // animate tags
-        Object.entries(animateProps)
-          .map(([attributeName, { from, to }]) => ({ attributeName, from, to}))
-          .map( animProps => <animate
-            key={`repr-${animProps.attributeName}-animation`}
-            className="chart-transition-animation"
-            dur={`${ANIMATION_DURATION}ms`}
-            repeatCount="once"
-            fill="freeze"
-            begin="indefinite"
-            {...animProps}
-          />)
-      }
-    </circle>
+    />
   );    
 };
 
