@@ -95,7 +95,12 @@ export default function RootLayout({
           `}
       </Script>
       <Head>
-
+        <link rel="icon" type="image/png" href="/favicon/favicon-96x96.png?v=20260718" sizes="96x96" />
+        <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg?v=20260718" />
+        <link rel="shortcut icon" href="/favicon/favicon.ico?v=20260718" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png?v=20260718" />
+        <meta name="apple-mobile-web-app-title" content="Meclis'te Ne Oluyor?" />
+        <link rel="manifest" href="/favicon/site.webmanifest?v=20260718" />
         <link rel="stylesheet" href={`https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=${materialSymbolsNames}&display=block`} />
       </Head>
       <body
