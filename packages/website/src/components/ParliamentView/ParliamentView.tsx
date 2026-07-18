@@ -2,6 +2,7 @@ import { ComponentProps, FC } from "react";
 import { ParliamentFigure } from "../ParliamentFigure";
 import { Menu } from "../Menu";
 
+
 type FigureProps = ComponentProps<typeof ParliamentFigure> & ComponentProps<typeof Menu>;
 
 export const ParliamentView: FC<FigureProps> = ({

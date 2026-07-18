@@ -25,6 +25,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "remark-gfm": "^4.0.1",
+    "rehype-raw": "7.0.0",
     "svgo": "^4.0.1",
     "tailwindcss": "^4",
     "@parlichart/types": "workspace:*"

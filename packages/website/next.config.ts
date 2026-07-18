@@ -19,8 +19,8 @@ const nextConfig: NextConfig = {
     }
   ]),
   devIndicators: false,
-  pageExtensions: ['ts', 'tsx', 'md']
-  /* config options here */,
+  pageExtensions: ['ts', 'tsx', 'md'],
+  /* config options here */
   turbopack: {
     rules: {
       '*.svg': {
@@ -56,7 +56,7 @@ const withMDX = createMDX({
   extension: /\.(md|mdx)$/,
   options: {
     remarkPlugins: ['remark-gfm'],
-    rehypePlugins: [],
+    rehypePlugins: [['rehype-raw']],
   },
 });
 

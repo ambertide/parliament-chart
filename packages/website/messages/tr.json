@@ -76,5 +76,9 @@
         "Read the docs to learn how": "Arkaplandaki Teknolojiyi Öğren",
         "ATTRIBUTION": "Parlichart'ı oluşturan verinin bir çoğu, Türkçe Vikipedi'den gelmektedir, bu veri, Türkçe Vikipedi editörlerinin gönüllü ve istikrarlı çalışmaları olmasaydı olamazdı.",
         "See attribution for more details": "Daha Fazla Bilgi için Atıf Metinlerini İncele"
+    },
+    "GENERAL_ATTRIBUTION": {
+        "TEXT": "Bu sayfa Vikipedi’den CC-by SA lisanslı içerik içerir, ",
+        "DETAILS": "Detaylar"
     }
 }

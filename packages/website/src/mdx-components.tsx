@@ -1,7 +1,5 @@
 import type { MDXComponents } from 'mdx/types';
 
-
-
 const components = {
   // Allows customizing built-in components, e.g. to add styling.
   p: ({ children }) => (
@@ -25,7 +23,7 @@ const components = {
   ),
   table: ({ children }) => (
     <table className="mb-2.5">{children}</table>
-  )
+  ),
 } satisfies MDXComponents;
  
 export function useMDXComponents(): MDXComponents {

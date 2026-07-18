@@ -7,3 +7,4 @@ export { PartyLegend } from "./PartyLegend";
 export { ParliamentView } from './ParliamentView';
 export { ParlichartBanner } from './ParlichartBanner';
 export { MainSummaryView } from './MainSummaryView';
+export { Attribution } from './Attribution';

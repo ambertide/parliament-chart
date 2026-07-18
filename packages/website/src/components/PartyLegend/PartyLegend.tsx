@@ -5,6 +5,7 @@ import { PartyGroupLegendItem } from "./PartyGroupLegendItem";
 
 import { Menu } from "../Menu";
 import { LegendPopupButton } from "./LegendPopupButton";
+import { Attribution } from "../Attribution";
 
 type PartyLegenedProps = ({
   groupBy: 'deputies',
@@ -74,6 +75,7 @@ export const PartyLegend: FC<PartyLegenedProps> = ({
                     />)
             }
           </ol>
+          <Attribution className="mt-2"/>
         </>}
       </div>
     </figcaption>

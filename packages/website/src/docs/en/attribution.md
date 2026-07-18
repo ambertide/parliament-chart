@@ -1,17 +1,65 @@
-# Attribution on the Turkish Map
+# General Attribution
+
+As is Tradition on the open web, most of this website could not possibly exist
+without the hard work, dedication and the genarosity of other developers and
+creators.
+
+This file includes attribution and licensing for these projects.
+
+## Attribution on General Data
+
+Significant amount of data points for this project is parsed from releveant
+Wikipedia pages, which are licensed under CC By-SA 4.0 Creative Commons license,
+the following pages were parsed for data generation.
+
+<details>
+<summary>See Parsed Pages</summary>
+
+- https://tr.wikipedia.org/wiki/TBMM_1._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_2._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_3._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_4._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_5._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_6._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_7._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_8._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_9._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_10._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_11._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_12._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_13._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_14._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_15._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_16._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_17._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_18._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_19._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_20._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_21._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_22._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_23._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_24._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_25._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_26._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_27._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi
+
+</details>
+
+## Attribution on the Turkish Map
 
 This file is created by modifying an existing map image from Wikimedia Commons
 
-## Attribution
+### Attribution
 
 [MapsandMP](https://commons.wikimedia.org/wiki/User:MapsandMP), [Turkish Electoral District 2023](https://commons.wikimedia.org/wiki/File:Turkish_Electoral_District_2023.svg"), removed electoral district numbers and added seats by Ege Özkan, [CC BY-SA 4.0]("https://creativecommons.org/licenses/by-sa/4.0/legalcode")
 
-# Attribution on Redaction Font
+## Attribution on Redaction Font
 
 This font file was used in the general webpage, mostly its -10 and -35 degraded
 variants.
 
-## Attribution
+### Attribution
 
 ```txt
 ## License

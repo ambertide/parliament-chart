@@ -1,17 +1,64 @@
-# Türkiye Haritasıyla İlgili Atıf
+# Atıflar Hakkında
+
+Özgür İnternetteki bir çok web sitesi gibi, Parlichart'ta varlığını internette
+içerik üreten ve yazılım geliştiren bir çok farklı bireyin özverisine ve
+cömertliğine borçlu, bu sayfa, açık kaynak ve benzeri lisanslardan kullandığımız
+veri ve içeriklerin atıf metinlerini içeriyor.
+
+## Genel Verilerle İlgili Atıf
+
+Parlichart'ın oluşmasında kullanılan bir çok veri, Türkçe Vikipedi'nin
+taranmasıyla oluşturuldu, bu sayfaların hepsi CC BY-SA 4.0 lisansıyla Vikipedi
+gönüllüleri tarafından lisanslanmıştır.
+
+<details>
+<summary>Sayfların Tam Listesi</summary>
+
+- https://tr.wikipedia.org/wiki/TBMM_1._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_2._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_3._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_4._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_5._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_6._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_7._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_8._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_9._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_10._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_11._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_12._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_13._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_14._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_15._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_16._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_17._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_18._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_19._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_20._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_21._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_22._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_23._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_24._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_25._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_26._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_27._d%C3%B6nem_milletvekilleri_listesi
+- https://tr.wikipedia.org/wiki/TBMM_28._d%C3%B6nem_milletvekilleri_listesi
+
+</details>
+
+## Türkiye Haritasıyla İlgili Atıf
 
 Bu harita Wikimedia Commons'ta varolan bir haritanın modifiye edilmesiyle oluşturulmuştur
 
-## Atıf Metni
+### Atıf Metni
 
 [MapsandMP](https://commons.wikimedia.org/wiki/User:MapsandMP), [Turkish Electoral District 2023](https://commons.wikimedia.org/wiki/File:Turkish_Electoral_District_2023.svg"), seçim bölgelerindeki sayılar kaldırıldı ve MV ikonları eklendi, [CC BY-SA 4.0]("https://creativecommons.org/licenses/by-sa/4.0/legalcode")
 
-# Yazı Tipiyle İlgili Atıf
+## Yazı Tipiyle İlgili Atıf
 
 Redaction yazı tipinin -10 ve -35 degraded varyantları bu sitenin bir çok yerinde
 kullanıldı.
 
-## Atıf Metni (İngilizce Aslı)
+### Atıf Metni (İngilizce Aslı)
 
 ```txt
 ## License
