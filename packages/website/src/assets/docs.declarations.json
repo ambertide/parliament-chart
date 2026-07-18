@@ -1,6 +1,13 @@
 {
     "docs": [
         {
+            "slug": "about",
+            "available": [
+                "en",
+                "tr"
+            ]
+        },
+        {
             "slug": "attribution",
             "available": [
                 "en",

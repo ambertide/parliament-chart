@@ -6,6 +6,10 @@ import AttributionEn from './en/attribution.md';
 import AttributionTr from './tr/attribution.md';
 // @ts-ignore: MDX Broken
 import EventsEn from './en/events.md';
+// @ts-ignore: MDX Broken
+import AboutEn from './en/about.md';
+// @ts-ignore: MDX Broken
+import AboutTr from './tr/about.md';
 import { MDXContent } from 'mdx/types';
 
 type DocPage = {
@@ -16,6 +20,14 @@ type DocPage = {
 
 // A list of all docs and its components
 export const docsPages: DocPage[] = [
+  {
+    title: "About",
+    slug: "about",
+    availableIn: {
+      en: AboutEn,
+      tr: AboutTr
+    }
+  },
   {
     title: "AI Use Policy",
     slug: "ai_use",

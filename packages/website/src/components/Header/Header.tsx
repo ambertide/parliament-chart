@@ -11,7 +11,7 @@ export const Header = () => {
       className="flex flex-row gap-2.5 text-foreground-secondary text-sm font-semibold font-serif-degraded"
     >
       <a href={`/${locale}`}>{t('HOME')}</a>
-      <a href={`/${locale}/docs/events`}>{t('DOCS')}</a>
+      <a href={`/${locale}/docs/about`}>{t('DOCS')}</a>
     </nav>
     <LanguageSelect />
   </header>);

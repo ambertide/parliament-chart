@@ -37,13 +37,14 @@
     },
     "Header": {
         "HOME": "ANASAYFA",
-        "DOCS": "DÖKÜMANLAR"
+        "DOCS": "HAKKINDA"
     },
     "DocsSidebar": {
         "Parlevent System": "Parlevent Event Sistemi",
         "Attributions": "Atıf Metinleri",
         "AI Use Policy": "Yapay Zeka Politikası",
-        "Toggle Docs Sidebar": "Navigasyonu Aç/Kapa"
+        "Toggle Docs Sidebar": "Navigasyonu Aç/Kapa",
+        "About": "Hakkında"
     },
     "Banner": {
         "28th Parliament": "28. Dönem",
