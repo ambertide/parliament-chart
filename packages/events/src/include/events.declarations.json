@@ -1916,6 +1916,36 @@
         },
         {
             "action": "PARTY_CHANGED",
+            "actor": "Ersin Beyaz",
+            "date": "2026-05-18T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://web.archive.org/web/20260518173335/http://www.dha.com.tr/politika/ersin-beyaz-partisinden-istifa-etti-2875644",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ersin Beyaz",
+            "date": "2026-06-10T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.sozcu.com.tr/son-dakika-iyi-parti-den-istifa-etmisti-ersin-beyaz-akp-ye-katildi-p326747",
+            "target": "Adalet ve Kalkınma Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ümit Dikbayır",
+            "date": "2026-06-23T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://halktv.com.tr/siyaset/son-dakika-umit-dikbayir-chpden-istifa-etti-1038106h",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
             "actor": "Nimet Özdemir",
             "date": "2026-06-17T00:00:00.000Z",
             "metadata": {
