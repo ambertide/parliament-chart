@@ -9,6 +9,7 @@ import {
   ParleventEngine,
   Parlevent
 } from "./parlevent";
+import { exit } from "node:process";
 
 export type GovernmentRecord = {
   headOfGovernment: string;
@@ -27,26 +28,34 @@ export type GovernmentRecord = {
 };
 
 const getParliamentTable = async (term: number, engine: ParleventEngine) => {
-  const data = await fetch(
-    `https://tr.wikipedia.org/wiki/TBMM_${term}._d%C3%B6nem_milletvekilleri_listesi`,
-  );
-  const body = await data.text();
-  const domParser = new JSDOM(body);
-  const { document } = domParser.window;
-  // Get the parliament members node list.
-  // originally this was a single selector 'table > thead + tbody > tr'
-  // but jsdom says NOOOO we cant have nice things lol
-  const tables = document.querySelectorAll("table");
-  const tableOfMPs = tables
-    .values()
-    .toArray()
-    .find((table) => table.querySelectorAll("tr").length > 395);
-  const mpRows = tableOfMPs?.querySelectorAll("tr").values().toArray() ?? [];
-  return {
-    term,
-    mpTable: mpRows as HTMLTableRowElement[],
-    engine,
-  };
+  try {
+    const data = await fetch(
+      `https://tr.wikipedia.org/wiki/TBMM_${term}._d%C3%B6nem_milletvekilleri_listesi`,
+    );
+    if (data.status !== 200) {
+      throw new Error('Unable to fetch table.');
+    }
+    const body = await data.text();
+    const domParser = new JSDOM(body);
+    const { document } = domParser.window;
+    // Get the parliament members node list.
+    // originally this was a single selector 'table > thead + tbody > tr'
+    // but jsdom says NOOOO we cant have nice things lol
+    const tables = document.querySelectorAll("table");
+    const tableOfMPs = tables
+      .values()
+      .toArray()
+      .find((table) => table.querySelectorAll("tr").length > 395);
+    const mpRows = tableOfMPs?.querySelectorAll("tr").values().toArray() ?? [];
+    return {
+      term,
+      mpTable: mpRows as HTMLTableRowElement[],
+      engine,
+    };
+  } catch (e) {
+    console.error('Catastrophic error occured, unable to fetch table.');
+    exit(1);
+  }
 };
 
 const parsePartyColor = (node: HTMLTableCellElement): string => {
