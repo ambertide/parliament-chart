@@ -29,11 +29,23 @@ export type GovernmentRecord = {
 
 const getParliamentTable = async (term: number, engine: ParleventEngine) => {
   try {
+    await new Promise(resolve => setTimeout(resolve, 1000));
     const data = await fetch(
       `https://tr.wikipedia.org/wiki/TBMM_${term}._d%C3%B6nem_milletvekilleri_listesi`,
+      {
+        method: 'GET',
+        headers: new Headers({
+          'User-Agent': 'ParlichartBot/1.0 (https://parlichart.com;contact@mail.parlichart.com) NodeJS/22.0'
+        })
+      }
     );
     if (data.status !== 200) {
-      throw new Error('Unable to fetch table.');
+      if (data.status === 429) {
+        console.error('Rate limiting triggered.');
+        const retryAfter = Number(data.headers.get('Retry-After'));
+        console.log(retryAfter);
+      }
+      throw new Error('Err.');
     }
     const body = await data.text();
     const domParser = new JSDOM(body);
