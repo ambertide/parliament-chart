@@ -1973,6 +1973,26 @@
             },
             "source": "http://bbc.com/turkce/articles/c70y8eepd9wo",
             "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Özgür Özel",
+            "date": "2026-07-21T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.bbc.com/turkce/articles/cm2glz2n6v5o",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Murat Bakan",
+            "date": "2026-07-21T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.bbc.com/turkce/articles/cm2glz2n6v5o",
+            "target": "Bağımsız"
         }
     ]
 }
