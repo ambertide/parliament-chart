@@ -125,3 +125,9 @@ export type Vacancy = {
   lastOfficeHolder: RepresentativeRecord,
   officeVacatedEvent: ParleventOfficeVacated
 };
+
+export type PartyDelta = {
+  decrease: string,
+  increase: string,
+  date: string
+};

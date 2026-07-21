@@ -2,6 +2,7 @@ import { readFile } from "fs/promises";
 import { termData } from "./milestones";
 import {
   Parlevent,
+  PartyDelta,
   PartyRecord,
   PartySummaryRecord,
   RepresentativeRecord,
@@ -147,6 +148,7 @@ export class ParleventEngine {
               .values()
               .find(({ name, party }) => (!event.metadata.from || event.metadata.from === party) && name === representativeName);
             if (targetRepresentative) {
+              const oldParty = targetRepresentative.party;
               targetRepresentative.party = newParty;
               const partyFound = p.find(
                 ({ canonicalLongName }) => canonicalLongName == newParty,
@@ -159,6 +161,11 @@ export class ParleventEngine {
               targetRepresentative.partyColor =
                 p.find(({ canonicalLongName }) => canonicalLongName == newParty)
                   ?.color ?? "#000000";
+              accum.partyDelta.push({
+                decrease: oldParty,
+                increase: newParty,
+                date: typeof event.date === 'string' ? event.date : event.date.toISOString()
+              });
             } else {
               console.error(
                 `ERR: Representative ${representativeName} not in this term.`,
@@ -183,7 +190,8 @@ export class ParleventEngine {
         currentTerm: "20",
         representatives: new Set<RepresentativeRecord>(),
         alliances: new Map<string, Set<string>>(),
-        vacancies: [] as Vacancy[]
+        vacancies: [] as Vacancy[],
+        partyDelta: [] as PartyDelta[]
       },
     );
     return {
@@ -193,7 +201,8 @@ export class ParleventEngine {
         p,
         source.alliances,
       ),
-      vacancies: [ ...source.vacancies ]
+      vacancies: [ ...source.vacancies ],
+      partyDelta: source.partyDelta
     };
   };
 

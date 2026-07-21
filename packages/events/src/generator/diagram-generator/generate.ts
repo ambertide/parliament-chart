@@ -2,7 +2,7 @@
 import { calculateSeatCoords } from "./arch-chart-generator";
 import { PartyRecord, RepresentativeRecord } from "../parlevent";
 import { injectMapData } from "./map-chart-mapper";
-import { Vacancy } from "../parlevent/types";
+import { Vacancy, PartyDelta } from "../parlevent/types";
 
 type SourcedData = {
   [term: string]: {
@@ -10,7 +10,8 @@ type SourcedData = {
       snapshot: {
         representatives: RepresentativeRecord[],
         parties: PartyRecord[],
-        vacancies: Vacancy[]
+        vacancies: Vacancy[],
+        partyDelta: PartyDelta[]
       },
       date: string,
       slug: string
@@ -33,7 +34,7 @@ export const generateFromSourcedData = async ({ milestones }: { milestones: Sour
               snapshot: {
                 representatives: individualRepresentatives,
                 parties,
-                vacancies
+                vacancies,
               },
               ...rest
             } = milestoneData;

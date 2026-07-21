@@ -1,0 +1,9 @@
+{
+  "name": "@parlichart/emitter",
+  "dependencies": {
+    "@parlichart/events": "workspace:*"
+  },
+  "scripts": {
+    "emit": "tsx src/index.ts"
+  }
+}
