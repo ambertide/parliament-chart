@@ -1,8 +1,10 @@
 {
   "name": "@parlichart/emitter",
   "dependencies": {
-    "@parlichart/events": "workspace:*"
+    "@parlichart/events": "workspace:*",
+    "@xdevplatform/xdk": "^0.6.0"
   },
+  "type": "module",
   "scripts": {
     "emit": "tsx src/index.ts"
   }
