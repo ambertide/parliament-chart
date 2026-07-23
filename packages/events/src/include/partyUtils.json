@@ -3,117 +3,163 @@
         {
             "canonicalLongName": "Adalet ve Kalkınma Partisi",
             "canonicalShortName": "AKP",
-            "color": "#FDA000"
+            "color": "#FDA000",
+            "boxEmoji": "🟧",
+            "fourLetterShortName": "AKP "
         },
         {
             "canonicalLongName": "Cumhuriyet Halk Partisi",
             "canonicalShortName": "CHP",
-            "color": "#ED1C24"
+            "color": "#ED1C24",
+            "boxEmoji": "🟥",
+            "fourLetterShortName": "CHP "
         },
         {
             "canonicalLongName": "Milliyetçi Hareket Partisi",
             "canonicalShortName": "MHP",
-            "color": "#870000"
+            "color": "#870000",
+            "boxEmoji": "🟥",
+            "fourLetterShortName": "MHP "
         },
         {
             "canonicalLongName": "Halkların Demokratik Partisi",
             "canonicalShortName": "HDP",
-            "color": "#91007B"
+            "color": "#91007B",
+            "boxEmoji": "🟪",
+            "fourLetterShortName": "HDP "
         },
         {
             "canonicalLongName": "Demokrasi ve Atılım Partisi",
             "canonicalShortName": "DEVA",
-            "color": "#006AA6"
+            "color": "#006AA6",
+            "boxEmoji": "🟦",
+            "fourLetterShortName": "DEVA"
         },
         {
             "canonicalLongName": "Emek Partisi",
             "canonicalShortName": "EMEP",
-            "color": "#FFEB3E"
+            "color": "#FFEB3E",
+            "boxEmoji": "🟥",
+            "fourLetterShortName": "EMEP"
         },
         {
             "canonicalLongName": "Gelecek Partisi",
             "canonicalShortName": "GELECEK",
-            "color": "#00564a"
+            "color": "#00564a",
+            "boxEmoji": "🟩",
+            "fourLetterShortName": "GLCK"
         },
         {
             "canonicalLongName": "Türkiye Değişim Partisi",
             "canonicalShortName": "TDP",
-            "color": "#D51B26"
+            "color": "#D51B26",
+            "boxEmoji": "🟥",
+            "fourLetterShortName": "TDP "
         },
         {
             "canonicalLongName": "Demokratik Bölgeler Partisi",
             "canonicalShortName": "DBP",
-            "color": "#30A13E"
+            "color": "#30A13E",
+            "boxEmoji": "🟪",
+            "fourLetterShortName": "DBP "
         },
         {
             "canonicalLongName": "Saadet Partisi",
             "canonicalShortName": "SAADET",
-            "color": "#CF3338"
+            "color": "#CF3338",
+            "boxEmoji": "🟥",
+            "fourLetterShortName": "SDTP"
         },
         {
             "canonicalLongName": "Hür Dava Partisi",
             "canonicalShortName": "HÜDA PAR",
-            "color": "#00964C"
+            "color": "#00964C",
+            "boxEmoji": "🟩",
+            "fourLetterShortName": "HÜDP"
         },
         {
             "canonicalLongName": "Türkiye İşçi Partisi",
             "canonicalShortName": "TİP",
-            "color": "#B61F23"
+            "color": "#B61F23",
+            "boxEmoji": "🟥",
+            "fourLetterShortName": "TİP "
         },
         {
             "canonicalLongName": "İYİ Parti",
             "canonicalShortName": "İYİ",
-            "color": "#40B4E5"
+            "color": "#40B4E5",
+            "boxEmoji": "🟦",
+            "fourLetterShortName": "İYİP"
         },
         {
             "canonicalLongName": "Demokrat Parti",
             "canonicalShortName": "DP",
-            "color": "#EE151F"
+            "color": "#EE151F",
+            "boxEmoji": "🟥",
+            "fourLetterShortName": "DP  "
         },
         {
             "canonicalLongName": "Halkların Eşitlik ve Demokrasi Partisi",
             "canonicalShortName": "DEM",
-            "color": "#8C4799"
+            "color": "#8C4799",
+            "boxEmoji": "🟪",
+            "fourLetterShortName": "DEM "
         },
         {
             "canonicalLongName": "Yeniden Refah Partisi",
             "canonicalShortName": "YRP",
-            "color": "#ED1D24"
+            "color": "#ED1D24",
+            "boxEmoji": "🟥",
+            "fourLetterShortName": "YRP "
         },
         {
             "canonicalLongName": "Refah Partisi",
             "canonicalShortName": "RP",
-            "color": "#D60000"
+            "color": "#D60000",
+            "boxEmoji": "🟥",
+            "fourLetterShortName": "RP  "
         },
         {
             "canonicalLongName": "Demokratik Sol Parti",
             "canonicalShortName": "DSP",
-            "color": "#16C0ED"
+            "color": "#16C0ED",
+            "boxEmoji": "🟦",
+            "fourLetterShortName": "DSP "
         },
         {
             "canonicalLongName": "Fazilet Partisi",
             "canonicalShortName": "FP",
-            "color": "#F40808"
+            "color": "#F40808",
+            "boxEmoji": "🟥",
+            "fourLetterShortName": "FP  "
         },
         {
             "canonicalLongName": "Doğru Yol Partisi",
             "canonicalShortName": "DYP",
-            "color": "#DA251C"
+            "color": "#DA251C",
+            "boxEmoji": "🟦",
+            "fourLetterShortName": "DYP "
         },
         {
             "canonicalLongName": "Anavatan Partisi",
             "canonicalShortName": "ANAP",
-            "color": "#FBBA00"
+            "color": "#FBBA00",
+            "boxEmoji": "🟨",
+            "fourLetterShortName": "ANAP"
         },
         {
             "canonicalLongName": "Bağımsız",
             "canonicalShortName": "Bağımsız",
-            "color": "#DDDDDD"
+            "color": "#DDDDDD",
+            "boxEmoji": "⬜",
+            "fourLetterShortName": "BAĞ "
         },
         {
             "canonicalLongName": "Yeni Yol",
             "canonicalShortName": "YENİ YOL",
-            "color": "#3465aa"
+            "color": "#3465aa",
+            "boxEmoji": "🟦",
+            "fourLetterShortName": "YYOL"
         }
     ]
 }
