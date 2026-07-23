@@ -7,6 +7,13 @@ steps:
       pnpm install
       pnpm run build
       pnpm --filter emitter run emit
+    secretEnv:
+      [
+        "TWITTER_API_KEY",
+        "TWITTER_API_SECRET",
+        "TWITTER_ACCESS_TOKEN_SECRET",
+        "TWITTER_ACCESS_TOKEN",
+      ]
   - name: us-docker.pkg.dev/firebase-cli/us/firebase
     args: ["deploy", "--project=$PROJECT_ID", "--only=hosting:main"]
 options:
