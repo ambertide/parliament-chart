@@ -6,7 +6,19 @@ steps:
       npm install --global pnpm@11.9.0
       pnpm install
       pnpm run build
+      pnpm --filter emitter run emit
   - name: us-docker.pkg.dev/firebase-cli/us/firebase
     args: ["deploy", "--project=$PROJECT_ID", "--only=hosting:main"]
 options:
   logging: CLOUD_LOGGING_ONLY
+
+availableSecrets:
+  secretManager:
+    - versionName: projects/$PROJECT_ID/secrets/TWITTER_API_KEY/versions/1
+      env: "TWITTER_API_KEY"
+    - versionName: projects/$PROJECT_ID/secrets/TWITTER_API_SECRET/versions/1
+      env: "TWITTER_API_SECRET"
+    - versionName: projects/$PROJECT_ID/secrets/TWITTER_ACCESS_TOKEN/versions/1
+      env: "TWITTER_ACCESS_TOKEN"
+    - versionName: projects/$PROJECT_ID/secrets/TWITTER_ACCESS_TOKEN_SECRET/versions/1
+      env: "TWITTER_ACCESS_TOKEN_SECRET"

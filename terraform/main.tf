@@ -70,6 +70,46 @@ resource "google_secret_manager_secret" "github_token_secret" {
   }
 }
 
+resource "google_secret_manager_secret" "twitter_api_key" {
+  project   = google_project.default.project_id
+  secret_id = "TWITTER_API_KEY"
+  replication {
+    auto {
+
+    }
+  }
+}
+
+
+resource "google_secret_manager_secret" "twitter_api_secret" {
+  project   = google_project.default.project_id
+  secret_id = "TWITTER_API_SECRET"
+  replication {
+    auto {
+
+    }
+  }
+}
+resource "google_secret_manager_secret" "twitter_access_token" {
+  project   = google_project.default.project_id
+  secret_id = "TWITTER_ACCESS_TOKEN"
+  replication {
+    auto {
+
+    }
+  }
+}
+resource "google_secret_manager_secret" "twitter_access_token_secret" {
+  project   = google_project.default.project_id
+  secret_id = "TWITTER_ACCESS_TOKEN_SECRET"
+  replication {
+    auto {
+
+    }
+  }
+}
+
+
 resource "google_service_account" "ghtrigger_service_account" {
   project      = google_project.default.project_id
   account_id   = "cloudbuild-github-agent"
@@ -88,11 +128,31 @@ resource "google_project_iam_member" "ghtrigger_service_account_firebase_role" {
   role    = "roles/firebase.admin"
   member  = "serviceAccount:${google_service_account.ghtrigger_service_account.email}"
 }
-
 resource "google_secret_manager_secret_version" "github_token_secret_version" {
   secret      = google_secret_manager_secret.github_token_secret.id
   secret_data = var.github_pat
 }
+
+resource "google_secret_manager_secret_version" "twitter_api_key_version" {
+  secret      = google_secret_manager_secret.twitter_api_key.id
+  secret_data = var.twitter_api_key
+}
+
+resource "google_secret_manager_secret_version" "twitter_api_secret_version" {
+  secret      = google_secret_manager_secret.twitter_api_secret.id
+  secret_data = var.twitter_api_secret
+}
+
+resource "google_secret_manager_secret_version" "twitter_acces_token_version" {
+  secret      = google_secret_manager_secret.twitter_access_token.id
+  secret_data = var.twitter_access_token
+}
+
+resource "google_secret_manager_secret_version" "twitter_access_token_secret_version" {
+  secret      = google_secret_manager_secret.twitter_access_token_secret.id
+  secret_data = var.twitter_access_token_secret
+}
+
 data "google_iam_policy" "serviceagent_secretAccessor" {
   binding {
     role    = "roles/secretmanager.secretAccessor"
@@ -103,6 +163,30 @@ data "google_iam_policy" "serviceagent_secretAccessor" {
 resource "google_secret_manager_secret_iam_policy" "policy" {
   project     = google_secret_manager_secret.github_token_secret.project
   secret_id   = google_secret_manager_secret.github_token_secret.secret_id
+  policy_data = data.google_iam_policy.serviceagent_secretAccessor.policy_data
+}
+
+resource "google_secret_manager_secret_iam_policy" "policy_2" {
+  project     = google_secret_manager_secret.twitter_api_key.project
+  secret_id   = google_secret_manager_secret.twitter_api_key.secret_id
+  policy_data = data.google_iam_policy.serviceagent_secretAccessor.policy_data
+}
+
+resource "google_secret_manager_secret_iam_policy" "policy_3" {
+  project     = google_secret_manager_secret.twitter_api_secret.project
+  secret_id   = google_secret_manager_secret.twitter_api_secret.secret_id
+  policy_data = data.google_iam_policy.serviceagent_secretAccessor.policy_data
+}
+
+resource "google_secret_manager_secret_iam_policy" "policy_4" {
+  project     = google_secret_manager_secret.twitter_access_token.project
+  secret_id   = google_secret_manager_secret.twitter_access_token.secret_id
+  policy_data = data.google_iam_policy.serviceagent_secretAccessor.policy_data
+}
+
+resource "google_secret_manager_secret_iam_policy" "policy_5" {
+  project     = google_secret_manager_secret.twitter_access_token_secret.project
+  secret_id   = google_secret_manager_secret.twitter_access_token_secret.secret_id
   policy_data = data.google_iam_policy.serviceagent_secretAccessor.policy_data
 }
 
@@ -118,7 +202,13 @@ resource "google_cloudbuildv2_connection" "parlichart_connection" {
       oauth_token_secret_version = google_secret_manager_secret_version.github_token_secret_version.id
     }
   }
-  depends_on = [google_secret_manager_secret_iam_policy.policy]
+  depends_on = [
+    google_secret_manager_secret_iam_policy.policy,
+    google_secret_manager_secret_iam_policy.policy_2,
+    google_secret_manager_secret_iam_policy.policy_3,
+    google_secret_manager_secret_iam_policy.policy_4,
+    google_secret_manager_secret_iam_policy.policy_5,
+  ]
 }
 
 resource "google_cloudbuildv2_repository" "parlichart_repo" {
@@ -141,7 +231,13 @@ resource "google_cloudbuild_trigger" "parlichart_on_push" {
 
   service_account = google_service_account.ghtrigger_service_account.id
   filename        = "cloudbuild.yml"
-  depends_on      = [google_secret_manager_secret_iam_policy.policy]
+  depends_on = [
+    google_secret_manager_secret_iam_policy.policy,
+    google_secret_manager_secret_iam_policy.policy_2,
+    google_secret_manager_secret_iam_policy.policy_3,
+    google_secret_manager_secret_iam_policy.policy_4,
+    google_secret_manager_secret_iam_policy.policy_5,
+  ]
 }
 
 resource "random_id" "default" {

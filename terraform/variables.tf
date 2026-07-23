@@ -31,3 +31,28 @@ variable "account_id" {
 variable "domain" {
   default = "<YOUR_DOMAIN>"
 }
+
+variable "twitter_api_key" {
+  type        = string
+  description = "Twitter OAuth1 Client ID"
+  sensitive   = true
+}
+
+variable "twitter_api_secret" {
+  type        = string
+  description = "Twitter OAuth1 Client Secret"
+  sensitive   = true
+}
+
+variable "twitter_access_token" {
+  type        = string
+  description = "Twitter OAuth1 Access Token"
+  sensitive   = true
+}
+
+variable "twitter_access_token_secret" {
+  type        = string
+  description = "Twitter OAuth1 Access Token Secret"
+  sensitive   = true
+}
+
