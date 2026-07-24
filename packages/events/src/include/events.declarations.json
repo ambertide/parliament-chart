@@ -1993,6 +1993,1806 @@
             },
             "source": "https://www.bbc.com/turkce/articles/cm2glz2n6v5o",
             "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ahmet Tuncay Özkan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ahmet Vehbi Bakırlıoğlu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ali Gökçek",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ali Mahir Başarır",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aliye Coşar",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aliye Timisi Ersever",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Asu Kaya",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aşkın Genç",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ayça Taşkent",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ayhan Barut",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aykut Kaya",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aylin Yaman",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Barış Karadeniz",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Bekir Başevirgen",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Bilal Bilici",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Burhanettin Bulut",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Bülent Tezcan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cavit Arı",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cemal Enginyurt",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cumhur Uzun",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Deniz Yavuzyılmaz",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Deniz Yücel",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Doğan Demir",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ednan Arslan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Elvan Işık Gezmiş",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ensar Aytekin",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Evrim Karakoz",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Evrim Rızvanoğlu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Eylem Ertuğ Ertuğrul",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Fahri Özkan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Fethi Açıkel",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Gamze Taşçıer",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Gizem Özcan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Gökan Zeybek",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Gökçe Gökçen",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Gökhan Günaydın",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Harun Özgür Yıldızlı",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Hasan Öztürk",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Hikmet Yalım Halıcı",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İbrahim Arslan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İsmail Atakan Ünver",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İsmet Güneşhan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İzzet Akbulut",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Kayıhan Pala",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mahmut Tanal",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Salih Uzun",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mehmet Tahtasız",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Melih Meriç",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Metin İlhan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Murat Çan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Murat Emir",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Erdem",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Sarıgül",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Sezgin Tanrıkulu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mühip Kanko",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Nail Çiler",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Namık Tan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Nurhayat Altaca Kayışoğlu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Okan Konuralp",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Orhan Sümer",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Özgür Ceylan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Özgür Erdem İncesu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Özgür Karabat",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Reşat Karagöz",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Seda Kaya Ösen",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Servet Mullaoğlu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Seyit Torun",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Sibel Suiçmez",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Suat Özçağdaş",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Süleyman Bülbül",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Süreyya Öneş Derici",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Şeref Arpacı",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Tahsin Ocaklı",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Talat Dinçer",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Talih Özcan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Tekin Bingöl",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Turan Taşkın Özer",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Türkan Elçi",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Uğur Bayraktutan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ulaş Karasu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Umut Akdoğan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Utku Çakırözer",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ümit Özlale",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Veli Ağbaba",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Yaşar Tüzün",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Yunus Emre",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Yüksel Taşkın",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Zeynel Emre",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ayşe Sibel Yanıkömeroğlu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ahmet Tuncay Özkan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ahmet Vehbi Bakırlıoğlu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ali Gökçek",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ali Mahir Başarır",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aliye Coşar",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aliye Timisi Ersever",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Asu Kaya",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aşkın Genç",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ayça Taşkent",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ayhan Barut",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aykut Kaya",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aylin Yaman",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Barış Karadeniz",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Bekir Başevirgen",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Bilal Bilici",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Burhanettin Bulut",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Bülent Tezcan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cavit Arı",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cemal Enginyurt",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cumhur Uzun",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Deniz Yavuzyılmaz",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Deniz Yücel",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Doğan Demir",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ednan Arslan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Elvan Işık Gezmiş",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ensar Aytekin",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Evrim Karakoz",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Evrim Rızvanoğlu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Eylem Ertuğ Ertuğrul",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Fahri Özkan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Fethi Açıkel",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Gamze Taşçıer",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Gizem Özcan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Gökan Zeybek",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Gökçe Gökçen",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Gökhan Günaydın",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Harun Özgür Yıldızlı",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Hasan Öztürk",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Hikmet Yalım Halıcı",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İbrahim Arslan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İsmail Atakan Ünver",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İsmet Güneşhan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İzzet Akbulut",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Kayıhan Pala",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mahmut Tanal",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Salih Uzun",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mehmet Tahtasız",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Melih Meriç",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Metin İlhan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Murat Bakan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Murat Çan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Murat Emir",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Erdem",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Sarıgül",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Sezgin Tanrıkulu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mühip Kanko",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Nail Çiler",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Namık Tan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Nurhayat Altaca Kayışoğlu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Okan Konuralp",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Orhan Sümer",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Özgür Ceylan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Özgür Erdem İncesu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Özgür Karabat",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Özgür Özel",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Reşat Karagöz",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Seda Kaya Ösen",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Servet Mullaoğlu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Seyit Torun",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Sibel Suiçmez",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Suat Özçağdaş",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Süleyman Bülbül",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Süreyya Öneş Derici",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Şeref Arpacı",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Tahsin Ocaklı",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Talat Dinçer",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Talih Özcan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Tekin Bingöl",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Turan Taşkın Özer",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Türkan Elçi",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Uğur Bayraktutan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ulaş Karasu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Umut Akdoğan",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Utku Çakırözer",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ümit Özlale",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Veli Ağbaba",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Yaşar Tüzün",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Yunus Emre",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Yüksel Taşkın",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Zeynel Emre",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ayşe Sibel Yanıkömeroğlu",
+            "date": "2026-07-24T00:00:00.000Z",
+            "metadata": {
+                "reason": "PARTY_FOUNDING"
+            },
+            "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
+            "target": "Yeni Parti"
         }
     ]
 }
