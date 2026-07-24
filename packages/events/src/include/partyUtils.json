@@ -160,6 +160,13 @@
             "color": "#3465aa",
             "boxEmoji": "🟦",
             "fourLetterShortName": "YYOL"
+        },
+        {
+            "canonicalLongName": "Yeni Parti",
+            "canonicalShortName": "YENİ",
+            "color": "#ea252c",
+            "boxEmoji": "🟥",
+            "fourLetterShortName": "YENİ"
         }
     ]
 }
