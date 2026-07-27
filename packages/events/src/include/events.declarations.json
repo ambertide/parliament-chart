@@ -1,6 +1,66 @@
 {
     "events": [
         {
+            "action": "PARTY_CHANGED",
+            "actor": "Barış Atay",
+            "date": "2018-10-11T00:00:00.000Z",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "source": "https://www.haberturk.com/meclis-teki-parti-sayisi-9-a-cikti-2175181",
+            "target": "Türkiye İşçi Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Erkan Baş",
+            "date": "2018-10-11T00:00:00.000Z",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "source": "https://www.haberturk.com/meclis-teki-parti-sayisi-9-a-cikti-2175181",
+            "target": "Türkiye İşçi Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cihangir İslam",
+            "date": "2018-10-11T00:00:00.000Z",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "source": "https://www.haberturk.com/meclis-teki-parti-sayisi-9-a-cikti-2175181",
+            "target": "Saadet Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Abdulkadir Karaduman",
+            "date": "2018-10-11T00:00:00.000Z",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "source": "https://www.haberturk.com/meclis-teki-parti-sayisi-9-a-cikti-2175181",
+            "target": "Saadet Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Gültekin Uysal",
+            "date": "2018-10-11T00:00:00.000Z",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "source": "https://www.haberturk.com/meclis-teki-parti-sayisi-9-a-cikti-2175181",
+            "target": "Demokrat Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Destici",
+            "date": "2018-10-11T00:00:00.000Z",
+            "metadata": {
+                "reason": "ALLIANCE"
+            },
+            "source": "https://www.haberturk.com/meclis-teki-parti-sayisi-9-a-cikti-2175181",
+            "target": "Büyük Birlik Partisi"
+        },
+        {
             "action": "ALLIANCE_ESTABLISHED",
             "actor": "Cumhur İttifakı",
             "target": "Parliament",

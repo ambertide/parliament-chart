@@ -167,6 +167,13 @@
             "color": "#ea252c",
             "boxEmoji": "🟥",
             "fourLetterShortName": "YENİ"
+        },
+        {
+            "canonicalLongName": "Büyük Birlik Partisi",
+            "canonicalShortName": "BBP",
+            "boxEmoji": "🟥",
+            "color": "#ED1C24",
+            "fourLetterShortName": "BBP "
         }
     ]
 }

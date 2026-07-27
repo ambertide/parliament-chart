@@ -58,15 +58,6 @@ export const twitterEmitter: Emitter = async ({
   delta,
   details
 }) => {
-  const client = twitterClient();
-  const response = await client.posts.create({
-    text: `mecliste bugünkü koltuk değişimlerinin özeti:
-
-${createTwitterPostBodyFromDelta(delta)}
-` + (details ? `\n${details}` : '')
-  });
-
-  const me = response.data;
-  console.log(me);
-  return true;
+  console.log(createTwitterPostBodyFromDelta(delta));
+  return;
 };
