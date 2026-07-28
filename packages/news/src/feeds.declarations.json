@@ -1,0 +1,8 @@
+{
+  "feeds": [
+    "https://feeds.bbci.co.uk/turkce/rss.xml",
+    "http://www.cumhuriyet.com.tr/rss/son_dakika.xml",
+    "http://rss.dw.com/rdf/rss-tur-all",
+    "https://haber.sol.org.tr/rss.xml"
+  ]
+}

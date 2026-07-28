@@ -1,0 +1,10 @@
+{
+  "name": "@parlichart/news",
+  "type": "module",
+  "dependencies": {
+    "rss-parser": "3.13.0"
+  },
+  "scripts": {
+    "scan": "tsx src/main.ts"
+  }
+}
