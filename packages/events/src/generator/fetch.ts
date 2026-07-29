@@ -147,14 +147,6 @@ const parseMPTable = ({
             const rescanUntil = valueHoldingNode.getAttribute("rowspan") ?? "1";
             dontLookFor[categoryName] =
               /* For... */ Number.parseInt(rescanUntil) /** rows */;
-            if (
-              categoryName === "province" &&
-              valueHoldingNode.textContent === "Mardin" &&
-              term == 27
-            ) {
-              // There is a slight formating error on wikipedia page for this
-              dontLookFor[categoryName]--;
-            }
             return {
               ...mpAccumulator,
               [categoryName]:
