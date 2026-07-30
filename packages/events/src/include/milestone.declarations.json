@@ -49,6 +49,12 @@
                     "description": "27TH_PARLIAMENT_INAGURATION"
                 },
                 {
+                    "date": "2019-03-31T12:00:00.000Z",
+                    "name": "Local Elections of 2019",
+                    "slug": "local-elections",
+                    "description": "27TH_PARLIAMENT_INAGURATION"
+                },
+                {
                     "date": "2023-05-13T12:00:00.000Z",
                     "name": "Final Day",
                     "slug": "final",
