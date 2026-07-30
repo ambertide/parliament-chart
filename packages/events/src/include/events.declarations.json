@@ -133,6 +133,76 @@
             "target": "PARLIAMENT"
         },
         {
+            "action": "OFFICE_VACATED",
+            "actor": "Süleyman Soylu",
+            "date": "2018-07-10T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://t24.com.tr/gundem/4-bakan-milletvekilliginden-istifa-etti-akpnin-meclisteki-koltuk-sayisi-290a-dustu,669832?_t=1785430776187",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Mevlüt Çavuşoğlu",
+            "date": "2018-07-10T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://t24.com.tr/gundem/4-bakan-milletvekilliginden-istifa-etti-akpnin-meclisteki-koltuk-sayisi-290a-dustu,669832?_t=1785430776187",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Berat Albayrak",
+            "date": "2018-07-10T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://t24.com.tr/gundem/4-bakan-milletvekilliginden-istifa-etti-akpnin-meclisteki-koltuk-sayisi-290a-dustu,669832?_t=1785430776187",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Abdulhamit Gül",
+            "date": "2018-07-10T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://t24.com.tr/gundem/4-bakan-milletvekilliginden-istifa-etti-akpnin-meclisteki-koltuk-sayisi-290a-dustu,669832?_t=1785430776187",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Lütfi Elvan",
+            "date": "2020-11-10T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://web.archive.org/web/20201110095033/https://www.haber7.com/siyaset/haber/3032366-meclisten-cumhurbaskanligi-kabinesine-5inci-milletvekili",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Mehmet Muş",
+            "date": "2021-04-21T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.ntv.com.tr/turkiye/mehmet-mus-ticaret-bakanligi-gorevine-atandi-mehmet-mus-kimdir,UD2jSBTuO02kPtpkfMlz1w",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Bekir Bozdağ",
+            "date": "2022-01-29T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://web.archive.org/web/20220129011223/https://www.bbc.com/turkce/haberler-turkiye-60172270",
+            "target": "PARLIAMENT"
+        },
+        {
             "action": "ALLIANCE_ESTABLISHED",
             "actor": "Cumhur İttifakı",
             "target": "Parliament",
