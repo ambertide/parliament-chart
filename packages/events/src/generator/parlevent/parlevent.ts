@@ -174,6 +174,7 @@ export class ParleventEngine {
             break;
           case "TERM_ENDED":
             accum.representatives.clear();
+            accum.vacancies = [];
             break;
           case "PARTY_JOINED_ALLIANCE":
             accum.alliances.get(event.target)?.add(event.actor);
