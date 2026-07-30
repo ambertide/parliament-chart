@@ -110,6 +110,12 @@ export class ParleventEngine {
               term: Number.parseInt(accum.currentTerm),
               province: event.metadata.electoralDistrict,
             });
+            const maybeFilledVacancyIndex = accum.vacancies.findIndex(({ lastOfficeHolder: { province }}) => province === event.metadata.electoralDistrict);
+            if (maybeFilledVacancyIndex >= 0) {
+              // When a party member is reinstated, or when a seat is
+              // filled with a by-election we need to fill the empty seat.
+              accum.vacancies = accum.vacancies.splice(maybeFilledVacancyIndex, 1);
+            }
             break;
           case "TERM_STARTED":
             accum.currentTerm = event.actor;
