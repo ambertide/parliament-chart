@@ -41,6 +41,18 @@
                     "name": "27th Parliament Inaguration",
                     "slug": "inaguration",
                     "description": "27TH_PARLIAMENT_INAGURATION"
+                },
+                {
+                    "date": "2020-06-04T12:00:00.000Z",
+                    "name": "Aftermath of Removal of Three MPs",
+                    "slug": "removal",
+                    "description": "27TH_PARLIAMENT_INAGURATION"
+                },
+                {
+                    "date": "2023-05-13T12:00:00.000Z",
+                    "name": "Final Day",
+                    "slug": "final",
+                    "description": "27TH_PARLIAMENT_INAGURATION"
                 }
             ]
         }
