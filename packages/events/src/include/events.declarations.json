@@ -65,20 +65,20 @@
             "actor": "Cumhur İttifakı",
             "target": "Parliament",
             "metadata": "Assumed prior to election",
-            "date": "2023-01-01T00:00:00.000Z"
+            "date": "2018-01-01T00:00:00.000Z"
         },
         {
             "action": "PARTY_JOINED_ALLIANCE",
             "actor": "Adalet ve Kalkınma Partisi",
             "target": "Cumhur İttifakı",
-            "date": "2023-01-01T00:00:00.000Z",
+            "date": "2018-01-01T00:00:00.000Z",
             "metadata": "Assumed as founder."
         },
         {
             "action": "PARTY_JOINED_ALLIANCE",
             "actor": "Milliyetçi Hareket Partisi",
             "target": "Cumhur İttifakı",
-            "date": "2023-01-01T00:00:00.000Z",
+            "date": "2018-01-01T00:00:00.000Z",
             "metadata": "Assumed as founder."
         },
         {
