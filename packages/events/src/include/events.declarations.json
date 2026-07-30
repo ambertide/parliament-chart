@@ -203,6 +203,56 @@
             "target": "PARLIAMENT"
         },
         {
+            "action": "OFFICE_VACATED",
+            "actor": "Tanju Özcan",
+            "date": "2019-03-31T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://tr.wikipedia.org/wiki/TBMM_27._d%C3%B6nem_milletvekilleri_listesi#Milletvekilli%C4%9Fi_d%C3%BC%C5%9F%C3%BCr%C3%BClenler",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Fatma Kaplan Hürriyet",
+            "date": "2019-03-31T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://tr.wikipedia.org/wiki/TBMM_27._d%C3%B6nem_milletvekilleri_listesi#Milletvekilli%C4%9Fi_d%C3%BC%C5%9F%C3%BCr%C3%BClenler",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Adnan Selçuk Mızraklı",
+            "date": "2019-03-31T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://tr.wikipedia.org/wiki/TBMM_27._d%C3%B6nem_milletvekilleri_listesi#Milletvekilli%C4%9Fi_d%C3%BC%C5%9F%C3%BCr%C3%BClenler",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Ayhan Bilgen",
+            "date": "2019-03-31T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://tr.wikipedia.org/wiki/TBMM_27._d%C3%B6nem_milletvekilleri_listesi#Milletvekilli%C4%9Fi_d%C3%BC%C5%9F%C3%BCr%C3%BClenler",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Bedia Özgökçe Ertan",
+            "date": "2019-03-31T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://tr.wikipedia.org/wiki/TBMM_27._d%C3%B6nem_milletvekilleri_listesi#Milletvekilli%C4%9Fi_d%C3%BC%C5%9F%C3%BCr%C3%BClenler",
+            "target": "PARLIAMENT"
+        },
+        {
             "action": "ALLIANCE_ESTABLISHED",
             "actor": "Cumhur İttifakı",
             "target": "Parliament",
