@@ -61,6 +61,78 @@
             "target": "Büyük Birlik Partisi"
         },
         {
+            "action": "OFFICE_VACATED",
+            "actor": "Enis Berberoğlu",
+            "date": "2020-06-04T00:00:00.000Z",
+            "metadata": {
+                "reason": "MEMBERSHIP_LOSS"
+            },
+            "source": "https://halktv.com.tr/service/amp/gundem/chpli-berberoglunun-milletvekilliginin-dusurulmesine-yonelik-fezleke-tb-426430h",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Musa Farisoğulları",
+            "date": "2020-06-04T00:00:00.000Z",
+            "metadata": {
+                "reason": "MEMBERSHIP_LOSS"
+            },
+            "source": "https://halktv.com.tr/service/amp/gundem/chpli-berberoglunun-milletvekilliginin-dusurulmesine-yonelik-fezleke-tb-426430h",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Leyla Güven",
+            "date": "2020-06-04T00:00:00.000Z",
+            "metadata": {
+                "reason": "MEMBERSHIP_LOSS"
+            },
+            "source": "https://halktv.com.tr/service/amp/gundem/chpli-berberoglunun-milletvekilliginin-dusurulmesine-yonelik-fezleke-tb-426430h",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Ömer Faruk Gergerioğlu",
+            "date": "2021-03-17T00:00:00.000Z",
+            "metadata": {
+                "reason": "MEMBERSHIP_LOSS"
+            },
+            "source": "https://www.haberturk.com/son-dakika-haberi-hdp-li-gergerlioglu-nun-milletvekilligi-dusuruldu-3008721",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Semra Güzel",
+            "date": "2022-12-22T00:00:00.000Z",
+            "metadata": {
+                "reason": "MEMBERSHIP_LOSS"
+            },
+            "source": "https://www.aa.com.tr/tr/gundem/hdp-diyarbakir-milletvekili-semra-guzelin-milletvekilligi-dusuruldu/2770447",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_ASSUMED",
+            "actor": "Enis Berberoğlu",
+            "date": "2021-02-11T00:00:00.000Z",
+            "metadata": {
+                "electoralDistrict": "İstanbul (II)",
+                "party": "Cumhuriyet Halk Partisi"
+            },
+            "source": "https://www.bbc.com/turkce/haberler-turkiye-56026990",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_ASSUMED",
+            "actor": "Ömer Faruk Gergerioğlu",
+            "date": "2021-02-11T00:00:00.000Z",
+            "metadata": {
+                "electoralDistrict": "Kocaeli",
+                "party": "Halkların Demokratik Partisi"
+            },
+            "source": "https://www.haberturk.com/son-dakika-haberi-omer-faruk-gergerlioglu-yeniden-milletvekili-3135960",
+            "target": "PARLIAMENT"
+        },
+        {
             "action": "ALLIANCE_ESTABLISHED",
             "actor": "Cumhur İttifakı",
             "target": "Parliament",
