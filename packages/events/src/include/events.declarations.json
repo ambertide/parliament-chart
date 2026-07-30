@@ -253,6 +253,16 @@
             "target": "PARLIAMENT"
         },
         {
+            "action": "OFFICE_VACATED",
+            "actor": "Ahmet Eşref Fakıbaba",
+            "date": "2022-10-20T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://x.com/aefakibaba/status/1582991559695269889",
+            "target": "PARLIAMENT"
+        },
+        {
             "action": "ALLIANCE_ESTABLISHED",
             "actor": "Cumhur İttifakı",
             "target": "Parliament",
