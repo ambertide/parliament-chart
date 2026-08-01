@@ -773,6 +773,76 @@
             "target": "Demokrat Parti"
         },
         {
+            "action": "OFFICE_VACATED",
+            "actor": "Erdin Bircan",
+            "date": "2018-11-18T00:00:00.000Z",
+            "metadata": {
+                "reason": "PASSED"
+            },
+            "source": "http://www.hurriyet.com.tr/gundem/son-dakika-chpli-milletvekili-erdin-bircan-hayatini-kaybetti-40966801",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Kazım Arslan",
+            "date": "2019-06-07T00:00:00.000Z",
+            "metadata": {
+                "reason": "PASSED"
+            },
+            "source": "https://web.archive.org/web/20200718114409/https://www.sozcu.com.tr/2019/gundem/son-dakika-chp-denizli-milletvekili-kazim-arslan-hayatini-kaybetti-5063320/",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Markar Esayan",
+            "date": "2020-10-16T00:00:00.000Z",
+            "metadata": {
+                "reason": "PASSED"
+            },
+            "source": "https://www.haberturk.com/son-dakika-ak-partili-milletvekili-markar-esayan-hayatini-kaybetti-2838151",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "İsmet Uçma",
+            "date": "2021-10-11T00:00:00.000Z",
+            "metadata": {
+                "reason": "PASSED"
+            },
+            "source": "https://web.archive.org/web/20211011140434/https://www.cnnturk.com/turkiye/son-dakika-ak-parti-milletvekili-ismet-ucma-hayatini-kaybetti",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "İmran Kılıç",
+            "date": "2021-10-19T00:00:00.000Z",
+            "metadata": {
+                "reason": "PASSED"
+            },
+            "source": "https://web.archive.org/web/20211118183909/https://www.sozcu.com.tr/2021/gundem/akp-milletvekili-imran-kilic-hayatini-kaybetti-6777028/",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Yakup Taş",
+            "date": "2023-02-07T00:00:00.000Z",
+            "metadata": {
+                "reason": "PASSED"
+            },
+            "source": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-akp-milletvekili-yakup-tas-yasamini-yitirdi-2049186",
+            "target": "PARLIAMENT"
+        },
+        {
+            "action": "OFFICE_VACATED",
+            "actor": "Deniz Baykal",
+            "date": "2023-02-11T00:00:00.000Z",
+            "metadata": {
+                "reason": "PASSED"
+            },
+            "source": "https://www.sozcu.com.tr/2023/gundem/son-dakika-deniz-baykal-hayatini-kaybetti-7588040/",
+            "target": "PARLIAMENT"
+        },
+        {
             "action": "ALLIANCE_ESTABLISHED",
             "actor": "Cumhur İttifakı",
             "target": "Parliament",
