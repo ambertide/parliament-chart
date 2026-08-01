@@ -673,6 +673,106 @@
             "target": "Halkların Demokratik Partisi"
         },
         {
+            "action": "PARTY_CHANGED",
+            "actor": "Öztürk Yılmaz",
+            "date": "2018-11-20T00:00:00.000Z",
+            "metadata": {
+                "reason": "EXPULSION"
+            },
+            "source": "https://web.archive.org/web/20190730133910/https://tr.sputniknews.com/politika/201811201036241666-chp-ozturk-yilmaz-ihrac/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Öztürk Yılmaz",
+            "date": "2020-07-20T00:00:00.000Z",
+            "metadata": {
+                "reason": "PREMIERSHIP"
+            },
+            "source": "https://web.archive.org/web/20200720171603/https://www.sozcu.com.tr/2020/gundem/ozturk-yilmazin-partisinin-ismi-belli-oldu-5941192/",
+            "target": "Yenilik Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Erhan Usta",
+            "date": "2019-01-16T00:00:00.000Z",
+            "metadata": {
+                "reason": "EXPULSION"
+            },
+            "source": "https://web.archive.org/web/20200718120821/https://www.sozcu.com.tr/2019/gundem/son-dakika-mhp-samsun-milletvekili-erhan-usta-ihrac-edildi-3152349/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Erhan Usta",
+            "date": "2020-09-09T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20210123011925/https://www.sozcu.com.tr/2020/gundem/mhpden-ihrac-edilen-erhan-usta-duzenlenen-torenle-iyi-partiye-gecti-6030182/amp/",
+            "target": "İYİ Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ümit Özdağ",
+            "date": "2020-11-16T00:00:00.000Z",
+            "metadata": {
+                "reason": "EXPULSION"
+            },
+            "source": "https://t24.com.tr/haber/iyi-parti-kararini-verdi-umit-ozdag-partiden-ihrac-edildi,915114",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ümit Özdağ",
+            "date": "2021-01-13T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.cumhuriyet.com.tr/haber/mahkeme-umit-ozdagin-iyi-partiden-ihrac-kararini-iptal-etti-1805702",
+            "target": "İYİ Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ümit Özdağ",
+            "date": "2021-03-04T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://web.archive.org/web/20210304083701/https://www.hurriyet.com.tr/gundem/son-dakika-iyi-partili-umit-ozdag-aciklamalarda-bulunuyor-41754704",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ümit Özdağ",
+            "date": "2021-08-26T00:00:00.000Z",
+            "metadata": {
+                "reason": "PREMIERSHIP"
+            },
+            "source": "https://web.archive.org/web/20210826165334/https://www.sozcu.com.tr/2021/gundem/umit-ozdag-zafer-partisinin-kurulus-belgesini-teslim-aldi-6615195/",
+            "target": "Zafer Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cemal Enginyurt",
+            "date": "2020-07-30T00:00:00.000Z",
+            "metadata": {
+                "reason": "EXPULSION"
+            },
+            "source": "https://web.archive.org/web/20200730082613/https://www.sozcu.com.tr/2020/gundem/son-dakika-mhpli-cemal-enginyurt-partisinden-ihrac-edildi-5961169/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cemal Enginyurt",
+            "date": "2020-12-18T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.birgun.net/haber/mhp-den-ihrac-edilen-enginyurt-dp-de-bahceli-ye-hakkimi-helal-ettim-327146",
+            "target": "Demokrat Parti"
+        },
+        {
             "action": "ALLIANCE_ESTABLISHED",
             "actor": "Cumhur İttifakı",
             "target": "Parliament",

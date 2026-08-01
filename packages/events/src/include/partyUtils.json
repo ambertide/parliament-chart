@@ -188,6 +188,13 @@
             "boxEmoji": "⬛",
             "color": "#353B3E",
             "fourLetterShortName": "ZAFR"
+        },
+        {
+            "canonicalLongName": "Yenilik Partisi",
+            "canonicalShortName": "YP",
+            "boxEmoji": "🟦",
+            "color": "#1974CE",
+            "fourLetterShortName": "YENK"
         }
     ]
 }
