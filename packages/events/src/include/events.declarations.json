@@ -52,6 +52,46 @@
         },
         {
             "action": "PARTY_CHANGED",
+            "actor": "Fatih Mehmet Şeker",
+            "date": "2018-09-02T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://web.archive.org/web/20200718115058/https://www.sozcu.com.tr/2018/gundem/iyi-parti-istanbul-milletvekili-fatih-mehmet-seker-istifa-etti-2604531/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Teoman Sancar",
+            "date": "2021-02-28T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.ntv.com.tr/turkiye/chp-denizli-milletvekili-teoman-sancar-partisinden-istifa-etti,NJsP-nziNk6mjYguj9LCfg",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Yavuz Ağıralioğlu",
+            "date": "2023-03-28T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.sozcu.com.tr/2023/gundem/iyi-partili-agiralioglu-istifa-edecegim-7635967/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Özcan Purçu",
+            "date": "2023-04-19T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.cumhuriyet.com.tr/siyaset/ozcan-purcu-chpden-istifa-etti-bir-romana-mi-yer-bulamadiniz-2073268",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
             "actor": "Mustafa Destici",
             "date": "2018-10-11T00:00:00.000Z",
             "metadata": {
