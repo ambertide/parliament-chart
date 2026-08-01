@@ -643,6 +643,36 @@
             "target": "Demokratik Bölgeler Partisi"
         },
         {
+            "action": "PARTY_CHANGED",
+            "actor": "Tuma Çelik",
+            "date": "2020-07-20T00:00:00.000Z",
+            "metadata": {
+                "reason": "EXPULSION"
+            },
+            "source": "https://web.archive.org/web/20200721050420/https://www.gazeteduvar.com.tr/politika/2020/07/20/tuma-celik-hdpden-ihrac-edildi/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mensur Işık",
+            "date": "2020-07-28T00:00:00.000Z",
+            "metadata": {
+                "reason": "EXPULSION"
+            },
+            "source": "https://www.aa.com.tr/tr/politika/hdpden-mus-milletvekili-mensur-isika-ceza/1925139",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mensur Işık",
+            "date": "2022-12-01T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "Name reappears as HDP member in https://www.aa.com.tr/tr/politika/tbmmye-yeni-dokunulmazlik-dosyalari-sevk-edildi/2752232",
+            "target": "Halkların Demokratik Partisi"
+        },
+        {
             "action": "ALLIANCE_ESTABLISHED",
             "actor": "Cumhur İttifakı",
             "target": "Parliament",
