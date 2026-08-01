@@ -363,6 +363,286 @@
             "target": "PARLIAMENT"
         },
         {
+            "action": "PARTY_CHANGED",
+            "actor": "Hayati Arkaz",
+            "date": "2018-08-13T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20200718114245/https://www.sozcu.com.tr/2018/gundem/hayati-arkaz-iyi-partiden-istifa-etti-2572599/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Hayati Arkaz",
+            "date": "2018-08-14T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.ntv.com.tr/turkiye/iyi-partiden-istifa-eden-hayati-arkaz-mhpye-katildi,WISAYTpLPkGpn4u5qEE8hA",
+            "target": "Milliyetçi Hareket Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Tamer Akkal",
+            "date": "2019-01-28T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.haberturk.com/iyi-parti-manisa-milletvekili-tamer-akkal-partisinden-istifa-etti-2304640",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Tamer Akkal",
+            "date": "2019-02-05T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.aa.com.tr/tr/gunun-basliklari/iyi-partiden-istifa-eden-tamer-akkal-ak-partiye-gecti/1383818",
+            "target": "Adalet ve Kalkınma Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Yeneroğlu",
+            "date": "2019-10-30T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://tr.euronews.com/2019/10/30/akparti-milletvekili-yeneroglu-istifa-etti-partide-bircok-arkadas-benden-farkli-dusunmuyor",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Yeneroğlu",
+            "date": "2020-03-09T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://bianet.org/haber/babacan-in-partisi-deva-nin-basvurusu-yapildi-221126",
+            "target": "Demokrasi ve Atılım Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Tuba Vural Çokal",
+            "date": "2020-02-13T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.sozcu.com.tr/2020/gundem/meral-aksenerden-istifa-aciklamasi-5625869/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Tuba Vural Çokal",
+            "date": "2020-03-11T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.internethaber.com/iyi-partiden-istifa-eden-tuba-vural-cokal-ak-partiye-geciyor-2087758h.htm/",
+            "target": "Adalet ve Kalkınma Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İsmail Ok",
+            "date": "2020-02-17T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20200719091131/https://www.hurriyet.com.tr/gundem/son-dakika-haberler-iyi-parti-balikesir-milletvekili-ismail-ok-partideki-gorevlerinden-istifa-etti-41448956",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İsmail Ok",
+            "date": "2022-04-20T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20220420100251/https://www.haber7.com/siyaset/haber/3215130-balikesir-milletvekili-ismail-ok-ak-partiye-katildi",
+            "target": "Adalet ve Kalkınma Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cihangir İslam",
+            "date": "2020-03-04T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.sozcu.com.tr/2020/gundem/milletvekili-cihangir-islam-saadet-partisinden-istifa-etti-5661080/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Cihangir İslam",
+            "date": "2021-03-09T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20210309182204/https://www.sozcu.com.tr/2021/gundem/cihangir-islam-chpye-katildi-6304472/",
+            "target": "Cumhuriyet Halk Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ahmet Şık",
+            "date": "2020-05-04T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.sozcu.com.tr/2021/gundem/ahmet-sik-turkiye-isci-partisine-katildi-6382941/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ahmet Şık",
+            "date": "2021-04-19T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.sozcu.com.tr/2021/gundem/ahmet-sik-turkiye-isci-partisine-katildi-6382941/",
+            "target": "Türkiye İşçi Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İsmail Koncuk",
+            "date": "2020-11-16T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://t24.com.tr/haber/iyi-parti-adana-milletvekili-ismail-koncuk-partisinden-istifa-etti,915110",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İsmail Koncuk",
+            "date": "2021-08-26T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20210826104823/https://www.haberturk.com/zafer-partisi-kuruculari-kimler-iste-zfer-partisi-kurucular-kurulu-uyeleri-tam-liste-3172362",
+            "target": "Zafer Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İsmail Koncuk",
+            "date": "2022-04-07T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20220407121806/https://www.cumhuriyet.com.tr/siyaset/adana-milletvekili-ismail-koncuk-zafer-partisinden-istifa-etti-bu-yonetim-anlayisi-ile-maalesef-1923521",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "İsmail Koncuk",
+            "date": "2022-05-25T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.cumhuriyet.com.tr/turkiye/ismail-koncuk-yeniden-iyi-parti-saflarina-katiliyor-1939553",
+            "target": "İYİ Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Hüseyin Avni Aksoy",
+            "date": "2021-01-28T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.sozcu.com.tr/2021/gundem/son-dakika-uc-milletvekili-chpden-istifa-etti-6234599/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Hüseyin Avni Aksoy",
+            "date": "2021-05-17T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.bbc.com/turkce/haberler-turkiye-57143930",
+            "target": "Memleket Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Özcan Özel",
+            "date": "2021-01-28T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.sozcu.com.tr/2021/gundem/son-dakika-uc-milletvekili-chpden-istifa-etti-6234599/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Özcan Özel",
+            "date": "2021-05-17T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.bbc.com/turkce/haberler-turkiye-57143930",
+            "target": "Memleket Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mehmet Ali Çelebi",
+            "date": "2021-01-28T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.sozcu.com.tr/2021/gundem/son-dakika-uc-milletvekili-chpden-istifa-etti-6234599/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mehmet Ali Çelebi",
+            "date": "2021-05-17T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.bbc.com/turkce/haberler-turkiye-57143930",
+            "target": "Memleket Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mehmet Ali Çelebi",
+            "date": "2022-02-25T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20220225064907/https://www.birgun.net/haber/mehmet-ali-celebi-partisini-elestirerek-istifa-etti-378457",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mehmet Ali Çelebi",
+            "date": "2022-02-25T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20221011084302/https://www.haberturk.com/mehmet-ali-celebi-ak-parti-ye-gecti-3528227",
+            "target": "Adalet ve Kalkınma Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Saliha Sera Kadıgil Sütlü",
+            "date": "2021-06-25T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20210625091652/https://www.cumhuriyet.com.tr/haber/sera-kadigil-chpden-istifa-ettigini-acikladi-iste-yeni-partisi-1847281",
+            "target": "Türkiye İşçi Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Salihe Aydeniz",
+            "date": "2021-06-25T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20200718114242/https://www.gazeteduvar.com.tr/politika/2019/11/30/saliha-aydeniz-ve-keskin-bayindir-dbp-es-genel-baskani-secildi/",
+            "target": "Demokratik Bölgeler Partisi"
+        },
+        {
             "action": "ALLIANCE_ESTABLISHED",
             "actor": "Cumhur İttifakı",
             "target": "Parliament",

@@ -174,6 +174,20 @@
             "boxEmoji": "🟥",
             "color": "#ED1C24",
             "fourLetterShortName": "BBP "
+        },
+        {
+            "canonicalLongName": "Memleket Partisi",
+            "canonicalShortName": "Memleket",
+            "boxEmoji": "🟦",
+            "color": "#1D5FA4",
+            "fourLetterShortName": "MLKT"
+        },
+        {
+            "canonicalLongName": "Zafer Partisi",
+            "canonicalShortName": "ZAFER",
+            "boxEmoji": "⬛",
+            "color": "#353B3E",
+            "fourLetterShortName": "ZAFR"
         }
     ]
 }
