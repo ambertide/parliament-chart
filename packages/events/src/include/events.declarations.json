@@ -101,6 +101,66 @@
             "target": "Büyük Birlik Partisi"
         },
         {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Baki Ersoy",
+            "date": "2022-04-16T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://www.sozcu.com.tr/2022/gundem/son-dakika-baki-ersoy-mhpden-istifa-etti-7078763/",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Baki Ersoy",
+            "date": "2022-07-16T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.cumhuriyet.com.tr/siyaset/mhpden-istifa-eden-baki-ersoy-partisine-yeniden-uye-oldu-1958730",
+            "target": "Milliyetçi Hareket Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aykut Erdoğdu",
+            "date": "2022-06-29T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://web.archive.org/web/20220629113956/https://www.gazeteduvar.com.tr/aykut-erdogdu-ve-tuba-torun-chpden-istifa-etti-haber-1571430",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Aykut Erdoğdu",
+            "date": "2023-02-01T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.cumhuriyet.com.tr/siyaset/aykut-erdogdu-yeniden-chpde-2027388",
+            "target": "Cumhuriyet Halk Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ayhan Altıntaş",
+            "date": "2023-03-04T00:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://web.archive.org/web/20230304210146/https://www.birgun.net/haber/iyi-partili-vekil-istifa-etti-423592",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ayhan Altıntaş",
+            "date": "2023-03-04T03:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://twitter.com/ay_altintas/status/1632164409396150272",
+            "target": "İYİ Parti"
+        },
+        {
             "action": "OFFICE_VACATED",
             "actor": "Enis Berberoğlu",
             "date": "2020-06-04T00:00:00.000Z",
