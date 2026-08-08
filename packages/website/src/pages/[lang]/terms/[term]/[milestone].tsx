@@ -30,6 +30,25 @@ export const getStaticProps: GetStaticProps<{term: string | string[] | undefined
   return { props: { term, lang, messages, milestone, milestonesOfTerm, chartData }};
 };
 
+const resolveFromMilestoneMap = (newTerm: string, currentMilestone: string) => {
+  debugger;
+  if (newTerm === "28" && currentMilestone === 'final') {
+    return 'current';
+  }
+  // Otherwise certain milestones mirror each other.
+  const milestoneMap = {
+    current: 'final',
+    formation: 'formation',
+    inaguration: "inaguration",
+    "local-elections": "local-elections"
+  };
+  if (currentMilestone in milestoneMap) {
+    return milestoneMap[currentMilestone as keyof typeof milestoneMap];
+  }
+  // otherwise return final state.
+  return newTerm === '28' ? 'current' : 'final';
+};
+
 export default function Term({ term, lang, milestone, milestonesOfTerm, chartData }: { chartData: Snapshot, term: `${number}`, lang: string, milestone: string, milestonesOfTerm: Record<string, { date: string, slug: string }> }) {
   const t = useTranslations('Term');
   const selectedTerm = useMemo(() => Number.parseInt(term), [term]);
@@ -44,7 +63,7 @@ export default function Term({ term, lang, milestone, milestonesOfTerm, chartDat
       selectedMilestone={milestone}
       milestonesOfTerm={milestonesOfTerm}
       onMilestoneSelect={newMilestone => push(`/${lang}/terms/${term}/${newMilestone}`)}
-      onTermSelect={term => push(`/${lang}/terms/${term}`)}
+      onTermSelect={(term, currentMilestone) => push(`/${lang}/terms/${term}/${resolveFromMilestoneMap(`${term}`, currentMilestone)}`)}
       onDisplayOptionChange={e => setGroupBy(e as 'alliance' | 'deputies')}
       selectedDisplayOption={groupBy}
       displayOptions={[

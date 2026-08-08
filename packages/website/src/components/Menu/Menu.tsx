@@ -9,7 +9,7 @@ type MenuProps = {
   selectedMilestone: string,
   milestonesOfTerm: Record<string, { date: string, slug: string, description?: string }>,
   onMilestoneSelect: (newMilestone: string) => void,
-  onTermSelect: (newTerm: number) => void,
+  onTermSelect: (newTerm: number, currentMilestone: string) => void,
   selectedDisplayOption: string,
   displayOptions: Option[],
   onDisplayOptionChange: (newDisplayOption: string) => void
@@ -44,7 +44,7 @@ export const Menu: FC<MenuProps> = ({
               ))}
               selectedValue={selectedTerm}
               id="parliament-term-picker"
-              onChange={e => onTermSelect(e as number)}
+              onChange={e => onTermSelect(e as number, selectedMilestone)}
             />,
             selectLabel: (labelText) => <label htmlFor="parliament-term-picker">
               {labelText}
