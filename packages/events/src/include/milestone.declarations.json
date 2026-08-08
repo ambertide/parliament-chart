@@ -43,16 +43,34 @@
                     "description": "27TH_PARLIAMENT_INAGURATION"
                 },
                 {
+                    "date": "2019-03-31T12:00:00.000Z",
+                    "name": "Local Elections of 2019",
+                    "slug": "local-elections",
+                    "description": "27TH_PARLIAMENT_INAGURATION"
+                },
+                {
                     "date": "2020-06-04T12:00:00.000Z",
                     "name": "Aftermath of Removal of Three MPs",
                     "slug": "removal",
                     "description": "27TH_PARLIAMENT_INAGURATION"
                 },
                 {
-                    "date": "2019-03-31T12:00:00.000Z",
-                    "name": "Local Elections of 2019",
-                    "slug": "local-elections",
+                    "date": "2021-08-26T12:00:00.000Z",
+                    "name": "Victory and Homeleand Parties' Founding",
+                    "slug": "zpfounding",
                     "description": "27TH_PARLIAMENT_INAGURATION"
+                },
+                {
+                    "date": "2022-02-12T12:00:00.000Z",
+                    "name": "First Meeting of the Table of Six",
+                    "description": "",
+                    "slug": "six"
+                },
+                {
+                    "date": "2023-03-22T12:00:00.000Z",
+                    "name": "Nation Alliance Grows",
+                    "description": "",
+                    "slug": "nation"
                 },
                 {
                     "date": "2023-05-13T12:00:00.000Z",
