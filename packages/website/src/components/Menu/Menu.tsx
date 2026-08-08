@@ -36,7 +36,7 @@ export const Menu: FC<MenuProps> = ({
         >
           {t.rich("termSelect", {
             termSelect: () => <BasicSelect
-              options={[28].map((value) => (
+              options={[27, 28].map((value) => (
                 {
                   value,
                   displayValue: `${parseOrdinal(value, locale)}`
