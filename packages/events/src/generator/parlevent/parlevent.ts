@@ -114,7 +114,7 @@ export class ParleventEngine {
             if (maybeFilledVacancyIndex >= 0) {
               // When a party member is reinstated, or when a seat is
               // filled with a by-election we need to fill the empty seat.
-              accum.vacancies = accum.vacancies.splice(maybeFilledVacancyIndex, 1);
+              accum.vacancies.splice(maybeFilledVacancyIndex, 1);
             }
             break;
           case "TERM_STARTED":
