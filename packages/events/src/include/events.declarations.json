@@ -4635,6 +4635,56 @@
             },
             "source": "https://gazeteoksijen.com/turkiye/isimler-belli-oldu-iste-yeni-partiyi-kuran-91-kisi-283559",
             "target": "Yeni Parti"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mehmet Mustafa Gürban",
+            "date": "2026-08-13T00:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://t24.com.tr/gundem/akpye-katilacagi-iddia-edilmisti-mehmet-mustafa-gurban-iyi-partiden-istifa-etti,1341685?_t=1786742380592",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ömer Karakaş",
+            "date": "2026-08-14T10:00:00.000Z",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "source": "https://bianet.org/haber/omer-karakas-iyi-parti-den-istifa-etti-322537",
+            "target": "Bağımsız"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mehmet Mustafa Gürban",
+            "date": "2026-08-14T18:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.bbc.com/turkce/articles/cvg7ew6nnxdo",
+            "target": "Adalet ve Kalkınma Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ömer Karakaş",
+            "date": "2026-08-14T18:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.bbc.com/turkce/articles/cvg7ew6nnxdo",
+            "target": "Adalet ve Kalkınma Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Mustafa Bilici",
+            "date": "2026-08-14T18:00:00.000Z",
+            "metadata": {
+                "reason": "OTHER"
+            },
+            "source": "https://www.bbc.com/turkce/articles/cvg7ew6nnxdo",
+            "target": "Adalet ve Kalkınma Partisi"
         }
     ]
 }
