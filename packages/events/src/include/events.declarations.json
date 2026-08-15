@@ -4685,6 +4685,16 @@
             },
             "source": "https://www.bbc.com/turkce/articles/cvg7ew6nnxdo",
             "target": "Adalet ve Kalkınma Partisi"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "actor": "Ali Fazıl Kasap",
+            "date": "2026-08-14T18:00:00.000Z",
+            "metadata": {
+                "reason": "SUPPLY"
+            },
+            "source": "https://www.aa.com.tr/tr/gundem/tbmmde-sandalye-dagilimi-degisti/4027623",
+            "target": "Yeni Yol"
         }
     ]
 }
