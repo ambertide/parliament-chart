@@ -2,7 +2,8 @@
   "name": "@parlichart/news",
   "type": "module",
   "dependencies": {
-    "rss-parser": "3.13.0"
+    "rss-parser": "3.13.0",
+    "octokit": "5.0.5"
   },
   "scripts": {
     "scan": "tsx src/main.ts"
