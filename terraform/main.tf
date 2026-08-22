@@ -216,7 +216,7 @@ resource "google_cloudbuildv2_repository" "parlichart_repo" {
   location          = "us-east1"
   name              = "parliament-chart"
   parent_connection = google_cloudbuildv2_connection.parlichart_connection.name
-  remote_uri        = "https://github.com/ambertide/parliament-chart.git"
+  remote_uri        = "https://github.com/parlichart/parlichart.git"
 }
 
 resource "google_cloudbuild_trigger" "parlichart_on_push" {
