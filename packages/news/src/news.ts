@@ -11,7 +11,7 @@ export type News = {
 };
 
 
-const takeFrom = new Date(new Date().getTime() - 25*24*60*60*1000);
+const takeFrom = new Date(new Date().getTime() - 15*60*1000);
 
 const parseRSS = async (feedURL: string): Promise<News[]> => {
   const parser = new Parser();

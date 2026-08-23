@@ -1,0 +1,20 @@
+name: parlichart-early-warning-system
+run-name: EWSfP Checkpoint
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+jobs:
+  early_warning_system:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - run: wget -qO- https://get.pnpm.io/install.sh | ENV="$HOME/.shrc" SHELL="$(which sh)" sh -
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "22"
+          cache: "pnpm"
+      - run: pnpm --filter news install
+      - name: Run EWSfP
+        run: pnpm --filter news run scan
+        env:
+          EWSFP_GITHUB_PAT: ${{ secrets.EWSFP_GITHUB_PAT }}

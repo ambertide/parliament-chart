@@ -15,13 +15,18 @@ const createBody = (news: News[]) => {
 };
 
 export const emitIssue = async (news: News[]) => {
-  const octokit = new Octokit({ auth: ``});
+  if (!process.env.EWSFP_GITHUB_PAT) {
+    console.error('Unable to lock EWSfP Github PAT');
+    process.exit(1);
+  }
+  const octokit = new Octokit({ auth: process.env.EWSFP_GITHUB_PAT });
   const maybeTitle = `EWS: Possible Updates for ${(new Date()).toDateString()}`;
   let issue = (await octokit.rest.issues.listForRepo({
     ...REPO_CONSTS,
+    state: 'open',
     title: maybeTitle
   })).data[0];
-  if (!issue) {
+  if (!issue || issue.title !== maybeTitle) {
     console.log('Did not find any issues, assigning new.');
     issue = (await octokit.rest.issues.create({
       ...REPO_CONSTS,
@@ -29,6 +34,7 @@ export const emitIssue = async (news: News[]) => {
       labels: [{
         name: 'EWSfP'
       }],
+      assignees: ['ambertide'],
       body: `Possible changes in parliament detected for ${new Date().toDateString()}, following news articles tripped the EWSfP`
     })).data;
   }
