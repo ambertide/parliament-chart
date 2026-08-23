@@ -2,7 +2,7 @@ name: parlichart-early-warning-system
 run-name: EWSfP Checkpoint
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0,15,30,45 * * * *"
 jobs:
   early_warning_system:
     runs-on: ubuntu-latest
