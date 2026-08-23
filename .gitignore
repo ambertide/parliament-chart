@@ -40,5 +40,6 @@ storybook-static
 *.tfvars
 *.tfstate
 *.tfstate.backup
+*.variables.tf.swp
 packages/website/next-env.d.ts
 **/next-env.d.ts

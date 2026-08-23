@@ -1,28 +1,34 @@
 import { Octokit } from 'octokit';
 import { News } from './news';
 
-const REPO_CONSTS = { owner: 'ambertide', repo: 'parliament-chart'};
+
+const REPO_CONSTS = { owner: 'parlichart', repo: 'parlichart'};
 
 const createBody = (news: News[]) => {
   return `
+  Following RSS news articles were updates since last run:
+
   | Title | Link |
   | --- | --- |
-  ${news.reduce((accum, { title, link}) => `${accum}\n|${title} | ${link}}|`, '')}
+  ${news.reduce((accum, { title, link}) => `${accum}|${title} | ${link}|\n`, '')}
   `;
 };
 
 export const emitIssue = async (news: News[]) => {
   const octokit = new Octokit({ auth: ``});
   const maybeTitle = `EWS: Possible Updates for ${(new Date()).toDateString()}`;
-  let issue = (await octokit.rest.issues.list({
+  let issue = (await octokit.rest.issues.listForRepo({
     ...REPO_CONSTS,
-    repo: 'parliament-chart',
     title: maybeTitle
   })).data[0];
   if (!issue) {
+    console.log('Did not find any issues, assigning new.');
     issue = (await octokit.rest.issues.create({
       ...REPO_CONSTS,
       title: maybeTitle,
+      labels: [{
+        name: 'EWSfP'
+      }],
       body: `Possible changes in parliament detected for ${new Date().toDateString()}, following news articles tripped the EWSfP`
     })).data;
   }

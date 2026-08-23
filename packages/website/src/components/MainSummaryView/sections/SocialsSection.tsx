@@ -37,7 +37,7 @@ export const SocialsSection = ({ className }: { className: string }) => {
     <div className="grow flex flex-col gap-1 items-stretch">
       <SocialButton title={t('Follow on Instagram')} icon={SocialIcons.instagram} href="https://www.instagram.com/meclisteneoluyor/" />
       <SocialButton title={t('Follow on X')} icon={SocialIcons.x} href="https://x.com/parlichartcom" />
-      <SocialButton title={t('Browse on GitHub')} icon={SocialIcons.github} href="https://github.com/ambertide/parlichart" />
+      <SocialButton title={t('Browse on GitHub')} icon={SocialIcons.github} href="https://github.com/parlichart/parlichart" />
       <SocialButton title={t('Contact us On Email')} icon={SocialIcons.email} href="mailto:contact@mail.parlichart.com" />
     </div>
   </SectionWrapper>;
