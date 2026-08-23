@@ -21,11 +21,11 @@ options:
 
 availableSecrets:
   secretManager:
-    - versionName: projects/$PROJECT_ID/secrets/TWITTER_API_KEY/versions/1
+    - versionName: projects/$PROJECT_ID/secrets/TWITTER_API_KEY/versions/latest
       env: "TWITTER_API_KEY"
-    - versionName: projects/$PROJECT_ID/secrets/TWITTER_API_SECRET/versions/1
+    - versionName: projects/$PROJECT_ID/secrets/TWITTER_API_SECRET/versions/latest
       env: "TWITTER_API_SECRET"
-    - versionName: projects/$PROJECT_ID/secrets/TWITTER_ACCESS_TOKEN/versions/1
+    - versionName: projects/$PROJECT_ID/secrets/TWITTER_ACCESS_TOKEN/versions/latest
       env: "TWITTER_ACCESS_TOKEN"
-    - versionName: projects/$PROJECT_ID/secrets/TWITTER_ACCESS_TOKEN_SECRET/versions/1
+    - versionName: projects/$PROJECT_ID/secrets/TWITTER_ACCESS_TOKEN_SECRET/versions/latest
       env: "TWITTER_ACCESS_TOKEN_SECRET"
