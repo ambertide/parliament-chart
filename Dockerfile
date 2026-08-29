@@ -15,4 +15,4 @@ LABEL org.opencontainers.image.licenses=MIT
 COPY --from=build /prod/news /prod/news
 WORKDIR /prod/news
 EXPOSE 8000
-CMD [ "node", "build/main.js" ]
+CMD [ "node", "build/main.cjs" ]
