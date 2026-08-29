@@ -1,31 +1,8 @@
 # General Project Architecture
 
-## Early Warning System for Parlichart
+## Early Warning System for Parlichart
 
-```mermaid
-architecture-beta
-
-    service ewsfp_checkpoint(logos:google-cloud-run)[EWSfP Job]
-    service ewsfp_scheduler(logos:google-cloud-platform)[Scheduler]
-    service ewsfp_build(logos:github-actions)[EWSfP Deploy]
-    service ewsfp_image(logos:docker-icon)[EWSfP Image]
-
-    service github_issues(logos:github-icon)[GitHub Issues]
-
-    service rss_feed_1(internet)[Cumhuriyet]
-    service rss_feed_2(internet)[BBC Turkish]
-    service rss_feed_3(internet)[DW Turkish]
-
-    ewsfp_scheduler:R --> L:ewsfp_checkpoint
-    ewsfp_build:R --> L:ewsfp_image
-    ewsfp_image:T -- B:ewsfp_checkpoint
-
-    rss_feed_1:R -- L:rss_feed_2
-    rss_feed_3:L -- R:rss_feed_2
-    rss_feed_2:B --> T:ewsfp_checkpoint
-
-    ewsfp_checkpoint:R --> L:github_issues
-```
+![diagram](./arch2-1.svg)
 
 Parlichart's Early Warning system is a service designed to be
 run every 15 minutes, it then scans a number of RSS feeds
