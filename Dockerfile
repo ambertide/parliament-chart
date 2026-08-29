@@ -9,6 +9,9 @@ RUN pnpm run --filter news build
 RUN pnpm deploy --filter=news --prod /prod/news
 
 FROM base AS news
+LABEL org.opencontainers.image.source=https://github.com/parlichart/parlichart
+LABEL org.opencontainers.image.description="Parses news data and warns on MP changes"
+LABEL org.opencontainers.image.licenses=MIT
 COPY --from=build /prod/news /prod/news
 WORKDIR /prod/news
 EXPOSE 8000
