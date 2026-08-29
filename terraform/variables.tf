@@ -56,3 +56,9 @@ variable "twitter_access_token_secret" {
   sensitive   = true
 }
 
+variable "github_ewsfp_key_value" {
+  type        = string
+  description = "GitHub Key for EWSfP Deployments"
+  sensitive   = true
+}
+

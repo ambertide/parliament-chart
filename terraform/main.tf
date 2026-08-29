@@ -25,7 +25,9 @@ resource "google_project_service" "default" {
     # Enabling the ServiceUsage API allows the new project to be quota checked from now on.
     "serviceusage.googleapis.com",
     "secretmanager.googleapis.com",
-    "cloudbuild.googleapis.com"
+    "cloudbuild.googleapis.com",
+    "cloudscheduler.googleapis.com",
+    "run.googleapis.com"
   ])
   service = each.key
 
