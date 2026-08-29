@@ -9,6 +9,7 @@
     "moduleResolution": "bundler",
     "rootDir": "./src",
     "types": ["node"],
+    "outDir": "build",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "incremental": true,

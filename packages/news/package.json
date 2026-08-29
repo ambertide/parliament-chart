@@ -2,10 +2,17 @@
   "name": "@parlichart/news",
   "type": "module",
   "dependencies": {
-    "rss-parser": "3.13.0",
-    "octokit": "5.0.5"
+    "octokit": "5.0.5",
+    "rss-parser": "3.13.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-typescript": "^12.3.0",
+    "rollup": "4.62.2"
   },
   "scripts": {
-    "scan": "tsx src/main.ts"
+    "scan": "tsx src/main.ts",
+    "build": "rollup -c",
+    "scan-built": "node build/main.cjs"
   }
 }
