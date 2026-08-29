@@ -36,7 +36,7 @@ resource "google_cloud_run_v2_job" "default" {
       service_account = google_service_account.default.email
 
       containers {
-        image = "ghcr.io/parlichart/ewsfp:latest"
+        image = "ghcr.io/parlichart/ewsfp@sha256:1b5aeabf3c34e7b423ab9f0d1567b0ff8d703752a3a77c9078879e5eb5205f98"
         env {
           name = "EWSFP_GITHUB_PAT"
           value_source {
