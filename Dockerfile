@@ -1,7 +1,7 @@
 FROM node:22-alpine AS base
-RUN apk add 'pnpm=~11'
 
 FROM base AS build
+RUN apk add 'pnpm=~11'
 COPY . /usr/src/app
 WORKDIR /usr/src/app
 RUN --mount=type=cache,id=pnpm,target=/pnpm/store pnpm --filter news install
