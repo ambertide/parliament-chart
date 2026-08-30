@@ -168,7 +168,7 @@
                 "reason": "MEMBERSHIP_LOSS"
             },
             "source": "https://halktv.com.tr/service/amp/gundem/chpli-berberoglunun-milletvekilliginin-dusurulmesine-yonelik-fezleke-tb-426430h",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -178,7 +178,7 @@
                 "reason": "MEMBERSHIP_LOSS"
             },
             "source": "https://halktv.com.tr/service/amp/gundem/chpli-berberoglunun-milletvekilliginin-dusurulmesine-yonelik-fezleke-tb-426430h",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -188,7 +188,7 @@
                 "reason": "MEMBERSHIP_LOSS"
             },
             "source": "https://halktv.com.tr/service/amp/gundem/chpli-berberoglunun-milletvekilliginin-dusurulmesine-yonelik-fezleke-tb-426430h",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -198,7 +198,7 @@
                 "reason": "MEMBERSHIP_LOSS"
             },
             "source": "https://www.haberturk.com/son-dakika-haberi-hdp-li-gergerlioglu-nun-milletvekilligi-dusuruldu-3008721",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -208,7 +208,7 @@
                 "reason": "MEMBERSHIP_LOSS"
             },
             "source": "https://www.aa.com.tr/tr/gundem/hdp-diyarbakir-milletvekili-semra-guzelin-milletvekilligi-dusuruldu/2770447",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_ASSUMED",
@@ -219,7 +219,7 @@
                 "party": "Cumhuriyet Halk Partisi"
             },
             "source": "https://www.bbc.com/turkce/haberler-turkiye-56026990",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_ASSUMED",
@@ -230,7 +230,7 @@
                 "party": "Halkların Demokratik Partisi"
             },
             "source": "https://www.haberturk.com/son-dakika-haberi-omer-faruk-gergerlioglu-yeniden-milletvekili-3135960",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -240,7 +240,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://t24.com.tr/gundem/4-bakan-milletvekilliginden-istifa-etti-akpnin-meclisteki-koltuk-sayisi-290a-dustu,669832?_t=1785430776187",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -250,7 +250,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://t24.com.tr/gundem/4-bakan-milletvekilliginden-istifa-etti-akpnin-meclisteki-koltuk-sayisi-290a-dustu,669832?_t=1785430776187",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -260,7 +260,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://t24.com.tr/gundem/4-bakan-milletvekilliginden-istifa-etti-akpnin-meclisteki-koltuk-sayisi-290a-dustu,669832?_t=1785430776187",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -270,7 +270,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://t24.com.tr/gundem/4-bakan-milletvekilliginden-istifa-etti-akpnin-meclisteki-koltuk-sayisi-290a-dustu,669832?_t=1785430776187",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -280,7 +280,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://web.archive.org/web/20201110095033/https://www.haber7.com/siyaset/haber/3032366-meclisten-cumhurbaskanligi-kabinesine-5inci-milletvekili",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -290,7 +290,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://www.ntv.com.tr/turkiye/mehmet-mus-ticaret-bakanligi-gorevine-atandi-mehmet-mus-kimdir,UD2jSBTuO02kPtpkfMlz1w",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -300,7 +300,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://web.archive.org/web/20220129011223/https://www.bbc.com/turkce/haberler-turkiye-60172270",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -310,7 +310,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://tr.wikipedia.org/wiki/TBMM_27._d%C3%B6nem_milletvekilleri_listesi#Milletvekilli%C4%9Fi_d%C3%BC%C5%9F%C3%BCr%C3%BClenler",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -320,7 +320,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://tr.wikipedia.org/wiki/TBMM_27._d%C3%B6nem_milletvekilleri_listesi#Milletvekilli%C4%9Fi_d%C3%BC%C5%9F%C3%BCr%C3%BClenler",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -330,7 +330,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://tr.wikipedia.org/wiki/TBMM_27._d%C3%B6nem_milletvekilleri_listesi#Milletvekilli%C4%9Fi_d%C3%BC%C5%9F%C3%BCr%C3%BClenler",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -340,7 +340,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://tr.wikipedia.org/wiki/TBMM_27._d%C3%B6nem_milletvekilleri_listesi#Milletvekilli%C4%9Fi_d%C3%BC%C5%9F%C3%BCr%C3%BClenler",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -350,7 +350,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://tr.wikipedia.org/wiki/TBMM_27._d%C3%B6nem_milletvekilleri_listesi#Milletvekilli%C4%9Fi_d%C3%BC%C5%9F%C3%BCr%C3%BClenler",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -360,7 +360,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://x.com/aefakibaba/status/1582991559695269889",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "PARTY_CHANGED",
@@ -780,7 +780,7 @@
                 "reason": "PASSED"
             },
             "source": "http://www.hurriyet.com.tr/gundem/son-dakika-chpli-milletvekili-erdin-bircan-hayatini-kaybetti-40966801",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -790,7 +790,7 @@
                 "reason": "PASSED"
             },
             "source": "https://web.archive.org/web/20200718114409/https://www.sozcu.com.tr/2019/gundem/son-dakika-chp-denizli-milletvekili-kazim-arslan-hayatini-kaybetti-5063320/",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -800,7 +800,7 @@
                 "reason": "PASSED"
             },
             "source": "https://www.haberturk.com/son-dakika-ak-partili-milletvekili-markar-esayan-hayatini-kaybetti-2838151",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -810,7 +810,7 @@
                 "reason": "PASSED"
             },
             "source": "https://web.archive.org/web/20211011140434/https://www.cnnturk.com/turkiye/son-dakika-ak-parti-milletvekili-ismet-ucma-hayatini-kaybetti",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -820,7 +820,7 @@
                 "reason": "PASSED"
             },
             "source": "https://web.archive.org/web/20211118183909/https://www.sozcu.com.tr/2021/gundem/akp-milletvekili-imran-kilic-hayatini-kaybetti-6777028/",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -830,7 +830,7 @@
                 "reason": "PASSED"
             },
             "source": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-akp-milletvekili-yakup-tas-yasamini-yitirdi-2049186",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -840,7 +840,7 @@
                 "reason": "PASSED"
             },
             "source": "https://www.sozcu.com.tr/2023/gundem/son-dakika-deniz-baykal-hayatini-kaybetti-7588040/",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "ALLIANCE_ESTABLISHED",
@@ -2684,7 +2684,7 @@
                 "reason": "PASSED"
             },
             "source": "https://www.bbc.com/turkce/articles/cpex5g33kzno",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -2694,7 +2694,7 @@
                 "reason": "PASSED"
             },
             "source": "https://www.bbc.com/turkce/articles/cd6jd230l41o",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -2704,7 +2704,7 @@
                 "reason": "MEMBERSHIP_LOSS"
             },
             "source": "https://www.bbc.com/turkce/articles/c6p9x0wn6lko",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -2714,7 +2714,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -2724,7 +2724,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -2734,7 +2734,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -2744,7 +2744,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://www.cnnturk.com/video/turkiye/26-isim-belediye-baskan-adayi-olmustu-4-milletvekili-yerel-secimlerden-galip-cikti-2102714",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "OFFICE_VACATED",
@@ -2754,7 +2754,7 @@
                 "reason": "RESIGNATION"
             },
             "source": "https://www.bbc.com/turkce/articles/crgmzy12pm2o",
-            "target": "PARLIAMENT"
+            "target": "Parliament"
         },
         {
             "action": "PARTY_CHANGED",

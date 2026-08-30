@@ -73,7 +73,7 @@ type ParleventPartyChanged = {
 type ParleventOfficeVacated = {
   action: "OFFICE_VACATED";
   actor: string;
-  target: "PARLIAMENT" | "Parliament";
+  target: "Parliament";
   metadata: {
     reason: "PASSED" | "TERM_END" | "RESIGNATION" | "MEMBERSHIP_LOSS";
   };
