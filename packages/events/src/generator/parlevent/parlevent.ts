@@ -98,23 +98,25 @@ export class ParleventEngine {
       (accum, event) => {
         switch (event.action) {
           case "OFFICE_ASSUMED":
-            accum.representatives.add({
-              name: event.actor,
-              party: event.metadata.party,
-              endOfTermStatus: "",
-              partyColor:
-                p.find(
-                  ({ canonicalLongName }) =>
-                    canonicalLongName == event.metadata.party,
-                )?.color ?? "#000000",
-              term: Number.parseInt(accum.currentTerm),
-              province: event.metadata.electoralDistrict,
-            });
-            const maybeFilledVacancyIndex = accum.vacancies.findIndex(({ lastOfficeHolder: { province }}) => province === event.metadata.electoralDistrict);
-            if (maybeFilledVacancyIndex >= 0) {
-              // When a party member is reinstated, or when a seat is
-              // filled with a by-election we need to fill the empty seat.
-              accum.vacancies.splice(maybeFilledVacancyIndex, 1);
+            if (event.target === 'Parliament') {
+              accum.representatives.add({
+                name: event.actor,
+                party: event.metadata.party,
+                endOfTermStatus: "",
+                partyColor:
+                  p.find(
+                    ({ canonicalLongName }) =>
+                      canonicalLongName == event.metadata.party,
+                  )?.color ?? "#000000",
+                term: Number.parseInt(accum.currentTerm),
+                province: event.metadata.electoralDistrict,
+              });
+              const maybeFilledVacancyIndex = accum.vacancies.findIndex(({ lastOfficeHolder: { province }}) => province === event.metadata.electoralDistrict);
+              if (maybeFilledVacancyIndex >= 0) {
+                // When a party member is reinstated, or when a seat is
+                // filled with a by-election we need to fill the empty seat.
+                accum.vacancies.splice(maybeFilledVacancyIndex, 1);
+              }
             }
             break;
           case "TERM_STARTED":
@@ -131,21 +133,23 @@ export class ParleventEngine {
               // Unimportant, already handled etc.
               break;
             }
+            if (event.target === 'Parliament') {
             // dangerous assumption that no names repeat within
             // a single term.
-            const toDelete = accum.representatives
-              .values()
-              .find(({ name }) => name === event.actor);
-            if (toDelete) {
-              accum.representatives.delete(toDelete);
-              accum.vacancies.push({
-                term: toDelete.term,
-                province: toDelete.province,
-                lastOfficeHolder: toDelete,
-                officeVacatedEvent: event
-              });
-            } else {
-              console.error(`Could not find ${event.actor}`);
+              const toDelete = accum.representatives
+                .values()
+                .find(({ name }) => name === event.actor);
+              if (toDelete) {
+                accum.representatives.delete(toDelete);
+                accum.vacancies.push({
+                  term: toDelete.term,
+                  province: toDelete.province,
+                  lastOfficeHolder: toDelete,
+                  officeVacatedEvent: event
+                });
+              } else {
+                console.error(`Could not find ${event.actor}`);
+              }
             }
             break;
           case "PARTY_CHANGED":
