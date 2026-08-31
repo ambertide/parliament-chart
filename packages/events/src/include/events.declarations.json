@@ -4695,6 +4695,16 @@
             },
             "source": "https://www.aa.com.tr/tr/gundem/tbmmde-sandalye-dagilimi-degisti/4027623",
             "target": "Yeni Yol"
+        },
+        {
+            "action": "PARTY_CHANGED",
+            "target": "Bağımsız",
+            "actor": "Cemalettin Kani Torun",
+            "metadata": {
+                "reason": "RESIGNATION"
+            },
+            "date": "2026-08-31T12:00:00.000Z",
+            "source": "https://www.cumhuriyet.com.tr/siyaset/kani-torun-yeni-yol-partisi-nden-istifa-etti-grup-dusecek-mi-2533852"
         }
     ]
 }
